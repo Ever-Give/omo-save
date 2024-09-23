@@ -1,0 +1,106 @@
+﻿Omo Story Generator
+
+Author: RobotRemote
+
+*000*2013-09-06 17:28
+
+Again... Dunno if posting in right area...
+
+Move it somewhere else if it isn't.
+
+This is a WIP. This picture is a rough idea.
+
+%http://s1121.photobucket.com/user/superwheatley64/media/OMOGENERATOR_zpsc32961c9.png.html
+
+But anyway I'll need some names, reasons for wetting, situations and people to wet in front of.
+
+And other ideas.
+
+Names
+
+Jessie
+
+Jessica
+
+Reasons for wetting
+
+Stuck Zipper
+
+Long line
+
+Situations
+
+Sports Game
+
+Extended Class
+
+People to wet in front of
+
+Mom
+
+Girlfriend.
+
+If this get's done, I might do an Omo Fanfic Genarator (Based off of TV Shows) or a Pokémon fanfic generator (Oh god... doing nearly 700 names,) using the same engine.
+
+This will be done on Game Maker 8.
+
+*003*2013-09-07 12:32
+
+{{:
+
+So I just fill these out and send them to you?
+
+}}
+
+Sure!
+
+{{:
+
+Make sure the name "Bernard" is available. It's the best female name.
+
+}}
+
+Okay!
+
+*006*2013-09-08 22:04
+
+First release!
+
+Heres a screenshot!
+
+%http://s1121.photobucket.com/user/superwheatley64/media/sceenshot_zpsb92f55cb.png.html
+
+And here's the first of many versions!
+
+%http://www.mediafire.com/download/pha3rb192d2yef8/Omo_Story_Generator_1.0.exe
+
+Sorry if it's a bit dull... or boring...
+
+*008*2013-09-09 10:53
+
+{{:
+
+Oh wow, that font is worse than Comic Sans.
+
+Anyway, you might want to post the code if you're posting a program; executables are generally frowned upon here.
+
+}}
+
+I did the font in paint, I'll do it in a different font if you want to,
+
+Here's the GMK file.
+
+%http://www.mediafire.com/download/3d9rggv17o7ngd1/omorashi_story_generator.gmk
+
+You need Game Maker 8 to open it.
+
+*010*2013-09-15 13:28
+
+{{:
+
+I suggest placing the entire file (along with the GMK) in a RAR or ZIP and then uploading it to Mediafire.
+
+}}
+
+Okay! I can do that!
+
