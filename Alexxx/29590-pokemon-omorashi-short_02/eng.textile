@@ -1,0 +1,846 @@
+﻿Pokemon Omorashi Short - Page 2
+
+Author: Alexxx
+
+*026*2016-02-10 23:06
+
+{{:
+
+That explains why explains why he quoted me, how?
+
+}}
+
+*bonks forehead*
+
+I was trying to quote myself, and failed terribly. Sorry Lugia!
+
+*029*2016-02-13 14:22
+
+{{:
+
+So you quoted Lugia trying to quote yourself? How exactly did you pull that off?
+
+}}
+
+I was attempting to quote Lugia, but change the name on the quote (to quote myself instead). It didn't quite work. Anyway just read more story and stop makin' funna me ;_;
+
+###
+
+Specificity is the road to madness.
+
+My eyes glazed over a blinking cursor, taunting me with my own helplessness. Our company logo, ‘Jervus Tax Group, LLC’ didn’t line up correctly with our slogan.
+
+The problem was in the code somewhere, I just didn’t know where. Between working on the website with Kevin, the entire thing was a tangles mess of plugins, PHP patches, and useless CSS. We had forty-seven different pages of code, not to mention our actual, physical HTML web pages, meaning that whatever error had occurred was nearly impossible to find.
+
+Part of me wanted to just shut my eyes, and go to sleep.
+
+Part of me wanted to pour kerosene on our servers, light them ablaze, and start this whole website over.
+
+I felt a weight against my shoulders as someone hugged me from behind, draping themselves across my chest, and the back of my chair. “You look happy.”
+
+I turned a tired glance to Kevin, who was inches from my face. “Dude. What the hell have you done to this site? Jervus wants this done today, and I can’t even center our stupid company motto.”
+
+“That’s in the header, right?”
+
+“Freaking maybe? It should be, but hell if I can find it.”
+
+Kevin sat down at his desk beside mine, and stretched as the editor loaded. He was tall, nearly my height, and wore his brown hair to his shoulders. He always had a dopey grin about him, and despite his modest build, he was a ferocious eater. Many a new employee had lost their unmarked lunches to the endless void of Kevin.
+
+“Here we go – it’s in the Header CSS, just like it should be.”
+
+I rubbed my temple. “Why wouldn’t that be in Index, with the rest of the headers?” I scooted my chair to look at his monitor. “Plus, what on earth is that file extension? ‘HeaderSix5FinalLateNightDONESeriouslyIMeanItFinal2.css’?”
+
+Kevin shrunk back. “I was tired.”
+
+“How could anyone else possibly find that code?”
+
+“I’ll fix it…”
+
+“Good.” I crossed my arms, sitting back at my desk.
+
+“TriloBite?”
+
+I looked over at the tiny, snack-sized chocolate-bar that Kevin held in his hand. It was my favorite, and I knew he kept a stash of them in his desk for when he knew he really messed up.
+
+He waggled the chocolate in my direction. I grunted, snatching my prize from his possession, and opened the wrapper.
+
+Placated only for the moment, Kevin. I thought, munching on the delicious, crunchy mixture of pecans and dark chocolate.
+
+“How’s your Pikachu doing?”
+
+There were times where Kevin really annoyed me, despite his well-meaning nature. He was a complete novice at web design and development, and I had a sneaking suspicion that his internship experiences were a bit of an exaggeration. He caused me headaches and more work than normal, but ultimately, I liked the guy.
+
+If anything, he made work more interesting. He was like a never ending podcast of absurd, surreal, and humorous stories, and could always make me laugh, even when I was absolutely livid with him. He also listened, which is a rare trait among friends. It was always pleasant running into him on my quiet walks in the park, and sharing a moment or two outside of work.
+
+“She’s doing well. She’s getting out more, and I think she’s slowly warming up to Abby. We have another meeting with the therapist after work.”
+
+“Oh, so you’re doing something tonight?”
+
+I nodded. “Why?”
+
+“No, no reason.” I shot him a questioning look. “Just, me and the others, it’s a work thing really, we’re gonna, you know, get some drinks, talk about…sport stuff.” He trailed off.
+
+“Can’t tonight, but I’m fine rain-checking it. How’s Thursday night?”
+
+Kevin swallowed. “W-well, I probably can’t convince everyone else…”
+
+“Meh, screw ‘em. They don’t give me candy when I’m pissed.” I grinned.
+
+“Just us then?”
+
+“Sure.”
+
+Kevin took a breath, grinning ear to ear. “Okay! See you then.”
+
+### Volt POV ---
+
+“Why?”
+
+I sat back in the chair, arms at my sides. Part of me clutched one of Dr. Thomas’ pillows, leaning against it, but also hugging it. I wanted it to be Chase, but I also didn’t want him hearing our conversations. It was…hard.
+
+[i’m…not sure. I just like doing it, you know? Something about drawing him is…calming. Part of me is still scared of him – I know that’s wrong, and that he’ll never hurt me – but I’m just kind of scared of all…humans.]
+
+[i’m not trying to be racist or anything-]
+
+“Feelings aren’t racist. Only actions.” Dr. Thomas gave me a wrinkly smile, and returned to his clipboard. “Drawing him makes him less scary, then?”
+
+[Well. A little.] I shifted. [it distracts me from feeling. I just focus on the art. On making sure that I got the shading on his chest right, or that his legs have the perfect amount of d-definition.]
+
+“Definition, meaning shading?”
+
+[No, l-like, muscular…wise.]
+
+“Do you think about Chase a lot?”
+
+[Well, yeah, of course, he’s my trainer.]
+
+“Is that all he is to you?”
+
+[Well, he’s my friend too.]
+
+A friend you want to kiss.
+
+A friend you want to pose for you, naked, so you can sketch him, and never forget the sight. That blond hair, gray eyes, and the way he talks, as if he can understand the world. You want all of him.
+
+I shook my head. Just a friend.
+
+A friend you want to hold you down, strap you to the bed-
+
+I blinked, trying to return to reality. Dr. Thomas smiled knowingly, writing some notes on his clipboard. “Think on it, Miss Volt. I’ll see you next week.”
+
+### Chase ---
+
+“See? This is what I love the most about Johto.”
+
+The air was crisp, without a breeze to be had. The sun shone through the brilliant, blue sky, and a slight warmth filled the air. My breath still clouded in front of my face, but with a jacket and some jeans, I couldn’t ask for better weather. Volt agreed, snapping a picture of the patio, along with the colorful sky, and sent it to her friends.
+
+It had been a few weeks since Volt’s therapist suggested I share my phone with her as a form of exposure therapy. She could go online, share her artwork and pictures, and chat with people that shared her interests. The internet was far from a safe place, but with some supervision, I thought some constructive communication could do her well.
+
+She chirped happily, nearly bumping into my leg as we began down the forest path.
+
+“Nicely done.”
+
+She placed my phone in her satchel, and wrapped herself scarf more tightly around her neck, hiding her burns. She also wore a belt, which held a few of her necessities, such as a water bottle, some snacks, and her drawing notebook.
+
+[Do you think we’ll see anyone walking today?]
+
+“I don’t think so. Do you want to? We could say hi to the nice people with the Tododile.”
+
+[Maybe…not today, though.]
+
+It was understandable. She had spent most of the day with Abby, and the reminder at therapy. I could imagine how she would want some time alone, or in the very least, in silence.
+
+We walked down the forest path, content in the tranquility that early spring provided. The water trickled by, now undeterred by the harsh winter’s chill, and flowed once more, past the trees and rocks, and down into the countryside.
+
+We had walked a little more than two miles, when at last, I choose a spot. One blanket, two paper plates, and three turkey sandwiches later, we sat down, ready to enjoy an all-too-rare treat.
+
+Volt smiled, face smeared with mayonnaise and mustard.
+
+“Oh?”
+
+[Yeah! It used to be kinda mushy, but ever since you’ve been putting the cheese on the bottom, it’s more…stable, I think.]
+
+“Yeah, I saw that on the show! It helps preserve the consistency of the bread, since the sauces aren’t touching it.”
+
+[You’re smart.] Volt gushed.
+
+I grinned in reply, and continued eating.
+
+We spent the evening that way, in conversation between bites of sliced sandwiches, potato salad, and homemade lemonade. I told her about work, and Kevin, and she told me about the friends she had made online, about her artwork, and theirs. She told me about her time with Abby, slowly learning to make different simple (yet tasty!) dishes, and coping with her own built-up anxiety in therapy.
+
+“Do you like Dr. Thomas?”
+
+[Yeah. He doesn’t…assume stuff, he just asks, it. I think he makes you answer your own questions, which is…important.]
+
+I nodded.
+
+[Would you, um, mind if I came with you and Kevin?]
+
+[Drinking, you mean?]
+
+[Y-yes.]
+
+I had never brought Volt to a restaurant before, much less a bar, although there were usually plenty of Pokemon at the establishments. I had to remind myself that she wasn’t agoraphobic; she feared people, not their surroundings.
+
+Maybe the bar at Thursday night would be the best fit. There wouldn’t be too many people, and the atmosphere would be more laid back.
+
+“Sure.”
+
+[Thanks.] Volt smiled, shifting against the grass. [Hey Chase? I, um, I need to pee.]
+
+While Volt never seemed particularly hungry, usually finishing her meal with half of it still left on the plate, she was never sated when it came to drinks. Sodas, juices, or even bottles of water were no match for her tiny limbs. Even the lemonade I bought for the picnic, which I hoped would last us at least until the end of the week, sat empty by Volt’s paw.
+
+“I was waiting for it; you drank all my lemonade! I thought that would at least last us a few more days.”
+
+[Oh! It wasn’t all for the picnic?]
+
+“No!” I giggled. “It’s fine; we can always make more, but I was surprised you were so thirsty.”
+
+Volt blushed.
+
+“Don’t worry about it, just go.” I laughed.
+
+Volt gave a sheepish grin, and scurried off into the woods on all fours.
+
+I bet you anything she’s going to have to go again before we get back to the house. I chuckled, relaxing against the blanket. She really took off, too. I wonder how bad she had to go?
+
+She sat there, chatting with me, despite her growing desperation. Not wanting to interrupt the conversation, but nearly unable to quell her urgent need. She rocked back and forth, biting her lip, and bouncing up and down on the back of her yellow paws.
+
+Then, at last, just as she couldn't take it anymore, she begged me for respite, unable to accept the humiliation should she pee herself all over the blanket in front of me. In a quiet whisper, she pleaded to leave, with one hand barely rubbing against the opening underneath her fur.
+
+Just as I gave her permission, she darted into the woods on three paws, leaving small specks of urine as she tried to hold herself with the remaining paw.
+
+[Not yet, not yet!] She begged, feebly holding back the flood, and trying to get a respectable distance away before the dam burst.
+
+A spurt leaked out just as she cleared a fallen tree, her urine hissing loudly against the forest floor before she regained control.
+
+[Oh god! Did he hear that? Please, just a little more…!]
+
+Another gush ran against her paw, followed by another, quick spurt, as she pressed herself harder, moaning with need. The warmth ran down her thighs, to her legs, taunting her with blissful relief, just out of reach.
+
+[Oh my god, I’m wetting myself. Come on, I c-can’t face him soaked in urine! Just, just a little bit more…]
+
+One last wave of desperation doubled her over, and a thin yellow stream leaked down her leg. She sat down quickly, pressing against herself with both paws, tears threatening to spill down her muzzle. The stream only increased, dampening her fur, and gushing out into the foliage despite her pleas and cries otherwise. Her bottom was soaked, along with her bottom paws and coat, and her pee wouldn’t stop, pouring out into the grass beneath. A red blush covering her face; she would have to return-
+
+“Chase?”
+
+My eyes shot open in alarm, and I saw Kevin standing a few feet away.
+
+“H-hey Kevin!” I swallowed, trying to hide any hints of obvious arousal. “Today is Tuesday, isn’t it? You walk your Bulbasaur today, don’t you?”
+
+“Azalea? Yeah, normally, but she’s not feeling well.”
+
+“Springtime?”
+
+Kevin nodded, grimacing. “Anyway, how have you been?”
+
+###
+
+*034*2016-02-16 00:37
+
+{{:
+
+Random stupid question of the day: What would you call what volt feels? Its not pokephilia, but homophilia probably refers to homosexuality, so...
+
+}}
+
+Xenophilia~! The attraction to a different species.
+
+(Though this also can be an attraction to foreign people, objects, or cultures.)
+
+Also, thanks everyone! <3
+
+*035*2016-02-20 15:20
+
+### Volt ---
+
+Why do I drink so much…?
+
+I held myself with a paw, stumbling against the overgrowth, and hopefully out of Chase’s earshot.
+
+I felt way too close for comfort, turning from a comfortable four (this is fine, I’ll leave in a moment), to a seven (oh my god, I feel like I’m bursting!) in what felt like minutes.
+
+I shivered as a wave of desperation passed, and leaned against a tree.
+
+Whew, finally. Okay…
+
+A tiny trickle leaked out before I stopped it, and I cringed in discomfort as I realized I was still wearing Chase’s belt. One of the loops wrapped a shade too close to my pee hole, meaning I might mess it up if I wasn’t careful.
+
+I cringed, bouncing in place as I touched myself with a paw. My other limb looped into the cool metal ring, ready to force out the metal tooth and unhook the annoying strap of leather.
+
+“Mmmmph!”
+
+The belt was tight, made even worse by my now bulging bladder. I could feel my pee just barely contained within me, and a little on the outside, when I thought I was safe before. I gave out a tiny whine, struggling against the metal contraption, before my paw slipped off.
+
+I can’t do this.
+
+I need to get Chase to help me with this.
+
+I need to get Chase to help me with this now.
+
+I smashed my back paws together as another wave hit my bladder, doubling me over, and causing me to give a sharp, involuntary cry.
+
+You can hold this. You’re a big girl. Just ask for help with the belt, then leave.
+
+I dashed back to Chase, doing my best to ignore the cries of my jolting bladder, then instantly stopped dead.
+
+Chase was with someone.
+
+My blood ran cold, and I darted behind a tree. Who was he with? I peeked around, and I couldn’t identify the human. He looked tall, and strong, and filled my core with ice. I trembled, realizing one of my paws had snaked down to my core, plugging my pee hole.
+
+He almost looked like the human that burned me. The way he wore his hair down to his shoulders, and the style of shirt he wore, without the sleeves.
+
+I couldn’t breathe. My entire body shook, and I could barely move, only to peek out and witness their conversation.
+
+I can’t go out there.
+
+You HAVE to! You don’t have a choice; you’re about to pee yourself!
+
+Just…just until he leaves! Then I can ask Chase for help.
+
+You don’t have time!
+
+I clenched my thighs together, staring helplessly at their conversation. The belt pressed against my stomach, further increasing my need, and I whimpered silently as an unknowing Chase spoke calmly to the stranger.
+
+I waited.
+
+Another wave pressed against my core, and I writhed, holding myself like a cub, with both paws in between my thighs.
+
+You have to go out there!
+
+I can’t!
+
+I felt myself leak, just a few drops, against one of my paws. I trembled, feeling myself begin to cry, as I stood motionless.
+
+You’re peeing yourself!
+
+It was just a little!
+
+Go out there! Now!
+
+A spurt dribbled though my fingers, and leaked onto the tree roots below. I felt my tears run down my muzzle, as I realized I was about to completely lose control.
+
+Just…move the belt. Maybe you can save it, at least a little.
+
+O-okay…
+
+I pushed the belt to the side as I felt more urine dribble out, followed by a loud, steady hiss. I quickly crouched down, lying exposed on my back, and peed against the tree, trying to make as little noise as possible as the pee ran down my coat, soaking my bottom half, and my tail.
+
+“Volt?” I heard Chase ask, his deep voice reverberating through the woods. I bit my paw, stifling a sob, and remained silent.
+
+“It’s been nearly half an hour; I should go look.”
+
+“Need some help?”
+
+“I’m sure it’s nothing, but thanks. See you Thursday?”
+
+“Sure.”
+
+The stranger waved, and continued down the path. Chase walked further down, a few yards from my hiding place, and yelled my name again.
+
+[i’m…um…] I squeaked, embarrassed, soaked, and humiliated.
+
+Chase looked around and spotted me, my backend higher than my front, leaning against the tree in an attempt to divert my pee away from the belt. I trickled to a stop, my eyes blurry with tears, and covered my face with my paws.
+
+“Oh, gosh, are you alright?”
+
+I choked.
+
+“Shhh. It’s alright.” Chase whispered, kneeling down. “You’re alright. Did Kevin scare you?”
+
+[That was Kevin?]
+
+“Yeah, that was Kevin. He walks here sometimes. I’m sorry I didn’t warn you.”
+
+I sniffled, wiping my nose with a paw.
+
+Chase motioned towards my belt, and I nodded. With one motion, he unclipped the belt, and wiped it down with a napkin from his pack. He offered a few more to me, which I accepted, and I wiped myself down the best I could.
+
+[i’m sorry I got your belt wet…] I mumbled.
+
+“It’s okay. It’s just a belt.”
+
+I held out my arms, and he hugged me, snuggling against my cheek. “I’m not mad. Accidents happen, and I understand you were scared. Let’s get you home, warmed up in the bath, and then we’ll relax with a movie. How about that?”
+
+I nodded shakily.
+
+“Awesome. I love you, you know.”
+
+He held me as we walked back to his apartment, holding me against his forearms, ignoring the dampness against his hoodie. I swallowed, looking up, and feeling a hard knot in my throat.
+
+[…Chase?]
+
+“Mmmm?”
+
+[Would…would you still love me, even if you can’t fix me?]
+
+Chase stood silently, pressing my chest to his own in a warm embrace. I heard his slow heartbeat in his chest, and somehow protected in his arms.
+
+He didn’t say anything, but I understood it well enough.
+
+### Chase ---
+
+The water was warm, the bubbles were frothy, and the oh-so-dangerous drain was securely plugged. Volt got in the water, with her back against the bottom, and just her eyes and mouth above water.
+
+Her eyes glazed over, but not in comfort. I could see her replaying the events in her mind as she stared into the stagnant water.
+
+“You’re okay.” I assured, I rubbed a washcloth over her back.
+
+Anyone that would utter those words to me when I was upset would face a verbal tirade of explanations of exactly how much of condescending asshole they were, but…
+
+…She wasn’t me.
+
+And the first time she had an episode, I remember her distinct words in my mind. Tell me I’m okay.
+
+It wasn’t that she wanted me to give her a command, or to order her around. It was more…wanting assurance that she could be okay, someday. That, even though it felt as the world was collapsing at that moment, it wasn’t.
+
+And that it would be okay.
+
+She leaned against my hand, purring lightly, but I felt that it was more to appease me than true relaxation.
+
+Was I a monster for enjoying this?
+
+The thought made my stomach churn as I continued washing Volt’s coat, tracing the cloth against her side. A part of me wanted her to have an accident; to witness her humiliation, and to feel her pent up anxiety. I wanted to be there just as she reached her limit.
+
+I still remember my heart pounding in my neck when I saw her against that tree, unable to stop herself. The way she apologized about my belt, or how that blush spread across her face.
+
+But I’d trade it all for her to feel better.
+
+I’ve never had much success in romance; the thought, honestly, has never appealed to me. For the longest time I thought I was gay; guys would always joke about boobs, or sex, and I never really ‘got it’. Naked pictures of girls never did anything for me. I did date a bit in high school, and though I enjoyed the companionship, I always viewed them more as close friends than potential lovers. I enjoyed conversations and philosophy more than kissing, and afternoon movies and cuddles over a mischievous, sultry night.
+
+I suppose I was never really attracted to people. Sure, a well-dressed man, or a curvy female might catch my eye, but more for an artistic expression than for true attraction.
+
+The only exception to this was desperation.
+
+I couldn’t have enough.
+
+It was the only thing that has ever aroused me. The only medium that made my heart race with need; a desire that I didn’t even know I could experience. Videos, images, and stories were one thing, but I had always yearned to see it, truly, with my own eyes. Experience it first-hand. And it was everything I wanted it to be; an experience I’d never forget
+
+But at what cost?
+
+[Thanks, I, um, have it from here.]
+
+Volt took the washcloth from my hand, and began wiping down her lower-half. Her ears, back, and neck were harder for her to reach, thus the bath, but she could reach the rest of herself just fine.
+
+Though I did wash her feet sometimes, because watching her squirm around the tub was hilarious.
+
+I was almost tempted to, but the timing felt off. Volt finished cleaning herself and handed me the washcloth. [Can I have the towel?]
+
+“Oh, are you done already?”
+
+[Yeah, I just…want to lay down.]
+
+Her eyes looked teary, but she didn’t cry. I gave her the towel, and she wrapped herself up, suddenly looking very human. It was instinctual for most Pokemon to shake themselves clean, but she didn’t, and instead methodically wiped her fur down, drying each limb individually, before hanging the towel on the sink.
+
+[Do you mind if…we don’t watch that movie? I just...kind of want to be alone right now.]
+
+“Sure.” I moved the towel, hanging it properly. “Do you need anything?”
+
+[No, I’m okay.]
+
+I drained the bath, making sure all of the items were as they were before, with the soap just left of the shampoo and right of the conditioner, and likewise with the rest of the bathing supplies.
+
+I heard Volt close the door of her room with a soft click.
+
+This…this would be hard.
+
+### ooo ---
+
+This would be perfect.
+
+Sautéed garlic and onions, hissed in the pan, glazing from their natural purple and tan hues to a glorious transparency. Their flavorful liquid sloshed in the pan, ready to be absorbed in the dish I had prepared for this evening.
+
+Cooked broccoli and sprouts went into the dish, hissing against the heat of the pan, and sizzling with the combination of olive oil and the sauces from the previous ingredients. Next, I added the rice, a mixture of brown and white, cooked gently by my side, and still retaining the perfect amount of density and stickiness.
+
+The mixture took on a beautiful brown, hissing beautifully as I added my meats; a combination of peeled shrimp and pulled chicken. I nearly spiced the dish, but stopped myself, quickly pouring my egg mixture against the top of the dish.
+
+The eggs cooked quickly in the heat of the pan, contrasting the brown with a beautiful, airy yellow. Now, I added the spices: salt, pepper, some lime, a dash of chili powder, and way more soy sauce than should be safely used.
+
+Perfect.
+
+I turned the heat down, and walked to Volt’s room. From the inside, posters lined the walls, most detailing her favorite artists, but a handful featuring her favorite bands and stories, and a few of just breath-taking landscapes. She slept in a human bed, which used to be my own before I purchased one fitting my height, and decorated the floor with art projects featuring a wide variety of styles, though most in her favorite charcoal medium.
+
+Of course, I didn’t see any of this, as her door was closed.
+
+I knocked quietly, hearing the whispers of sad, heartbroken songs lament though the doorway. “Volt?”
+
+No response.
+
+“Hey Volt? Can I come in?”
+
+[Okay.] Came a shaky reply.
+
+I opened the door. Volt lay spread out against the bed, her arms drooped across the frame, and her eyes started up, past the ceiling. A small pillow lay clutched against her arm, and her face was red from crying.
+
+I relaxed on the bed beside her, but she didn’t move.
+
+“I made you stir-fry.”
+
+[Oh, that’s what I smelled.]
+
+“Did it smell good?”
+
+[Yeah.] Volt shifted.
+
+“Is it your favorite?”
+
+Volt concentrated for a moment, scrunching up her face.
+
+[Mmmaybe. I don’t know. I really like your soup, with the chicken and stuff in it.]
+
+“Chicken Tortilla?”
+
+[Mmhmm.]
+
+My soul deflated somewhat; that ‘dish’ was from a can, but I couldn’t deny that it was, in fact, pretty good. Still though, I was somewhat pleased I cracked the top two, having only been cooking for myself for a few months.
+
+“Do you want to go eat it?”
+
+[Maybe in a bit.]
+
+“Do you want to just lie here for a bit, first?”
+
+[Mmhmm.] Volt sniffed, and wiped her eyes with a paw. [Can you stay with me?]
+
+“Sure.” Volt offered a paw, and I accepted it. “As long as you need.”
+
+*039*2016-02-20 19:29
+
+{{:
+
+So whatever happened with our old friends?
+
+}}
+
+They'll be back soon enough~! There are a lot of characters (Josh, his six, plus Sandy and Wiggly) which all need screen-time, so I'm drafting the next bit as we speak :3. Expect them in the next 2-3 updates.
+
+{{:
+
+Another very excellent chapter
+
+}}
+
+Why thank you! Have a Volt :3
+
+*043*2016-02-27 14:20
+
+Stir-fry, brownies, kettle-corn, and fermented berries. Chase pulled out all the stops, treating me to my favorite dishes before at last putting on a movie and laying across the couch, with me comfortably on his chest. After some uncomfortable snuggling, I moved a bit lower, allowing his hand free access to perfect spot his hands found so easily at the base of my ears.
+
+I purred contently with my back to his stomach. One of my legs twitched, kicking air. This was heaven. How was it that I could find a trainer so understanding? I shot an upside-down glance at Chase, and he gave a lazy smirk in reply, toasting me with his own red alcoholic juice thing.
+
+Maybe this would all be okay, in the end. I was mortified of course, but Chase wasn’t the type to torment me. He’d probably forget all about it in a week or so.
+
+I turned back to the movie. It was kinda hard to pay attention, with the pleasant fuzz of the berries calming my overactive mind, but I didn’t care. I could spend forever like this.
+
+Suddenly, Chase’s hand felt heavier than normal. It moved from my scalp to my neck, putting pressure against my tiny frame as he continued his forceful massage.
+
+[C-Chase? What are you doing?]
+
+He didn’t reply. My breath caught in my chest as he touched my burn, and ignored my muffled cry.
+
+My mind raced with memories of the people that hurt me; the way they held my neck, just like Chase was doing, and burned me with the metal rod. I trembled, breathing shallowly as his hand constricted my airways, and tears blurred my vision.
+
+More than anything though…I didn’t want him to stop.
+
+Some part of me loved being powerless from him. I was terrified, quivering, and slightly pained from him touching my mark, but I didn’t want this moment to end. I felt warm all over, from my chest, down to my core.
+
+Slowly, his hand traced down my stomach. My fingers felt tingly, down to my arms center as he held me against his broad, massive chest. I swallowed hard, relaxing somewhat now that I could breathe, but still anxious of what was to come.
+
+Was this it?
+
+I would be lying if I said I hadn’t fantasized about this before. All those lonely nights, sleeping by myself in the enormous bed he gave me. Feeling the same tingles all over my body, and rarely – very rarely because I tried to be a good Pikachu – I would indulge the feelings, and quietly slip a paw into myself. I would always be quiet when I did it, silently thrusting against my palm when I was sure Chase was asleep, and felt the false warmth of his body against mine.
+
+I felt the same sensation as he held me, hard, and my mind grew hazy with euphoria as he slid his hand further, to my lower stomach.
+
+[Please t-touch me…!]
+
+Slowly the haze faded, as his hand stayed steady against my stomach. Aching with arousal, I turned and faced Chase.
+
+His eyes were closed, and his head was slumped against the sofa.
+
+An angry blush crossed my face. Was I really this stupid? Mistaking the random movements of my sleeping trainer for the emergence of some lustful beast lurking inside him. He snored quietly, pressing me once again against his chest, and snuggled me close.
+
+Still…
+
+Feeling him against me…
+
+I swallowed, sneaking my around his arm and down to my core. Not touching myself, just, just resting my paw.
+
+I swallowed, my need growing as I felt his chest rise and fall. Slowly I slid a finger inside myself, barely grazing my clitoris as I squirmed in place. I tried not to think about what I was doing, right up against my trainer no less. I trembled, stopping for a moment, my paw still inside me and damp.
+
+O-only perverts touch themselves…
+
+But, it doesn’t count if I don’t actually, you know…
+
+I continued slower than before, biting my paw to keep myself from moaning. Tiny cries sometimes escaped though; mixtures of pleasure and tensed silence as I continued feeling myself, circling my clit, and rubbing the side where I knew I loved it most.
+
+Chase’s hand tightened around my stomach, and in the midst of my erotic fantasy, I realized-
+
+Oh my gosh, do I need to pee again?
+
+I had been going regularly every twenty minutes or so, terrified I would have another accident if I wasn’t careful. The urge was minor, and I brushed it aside and continued.
+
+I was so close. I brushed up against the line over and over, edging myself into oblivion, but never allowing myself that last, sweet, blissful curve of my paw that would send me into pure ecstasy. I always stopped right before, crying into my muffled paw, and waiting until the sensation passed before continuing, softer than before.
+
+I felt wet, wetter than I had felt by myself. I needed it so badly, with every part of my being. I couldn’t stop it anymore, even if I was a pervert, and even if Chase woke up and found out.
+
+S-shit! I can’t, ah, aaah!
+
+I felt a stream of something leak out of me, trickling down my thigh and onto Chase. I cringed, stopping whatever it was, but I felt the pressure grow stronger as my paw pressed harder against my core.
+
+I can’t s-stop it!
+
+Another gush escaped, dribbling out of me despite my attempts to hold it back. I whimpered aloud, feeling the warm liquid trace through my paw, and down my sides.
+
+Was I peeing myself, again!?
+
+I couldn’t stop it. More gushed out of me in a steady rhythm as the orgasm shook my body. I arched my back, biting my paw to keep from screaming as the every sense I had shut off, replaced with pure euphoria. There was nothing like this. I felt a vague sense of dread, and a warmth against the crux of my legs, and bliss.
+
+My vision faded to normal, with my tiny heart still pounding in my chest. I had gotten it all over him. All over his shirt, down his stomach, and onto his couch.
+
+Was it pee?
+
+I sniffed it, and it smelled like pee, among other, muskier scents.
+
+I didn’t even need to go that much? W-why…
+
+I felt Chase’s familiar grasp on my stomach as tears once again threatened to fall down my muzzle.
+
+Maybe I could just…pass this off as…another accident.
+
+Maybe, like I was sleeping. Chase was still asleep, after all…
+
+I tear traced across my cheek as I closed my eyes, shivering slightly at the damp sensation across my lower half. Morning was going to be hell…
+
+### Chase ---
+
+“I’m concerned, is all.”
+
+Dr. Thomas rubbed his aged forehead, smearing a bit of ink from his pen onto his scalp. I forced back a chuckle as he returned to his clipboard, likely writing critical notes, unaware of the tiny smear.
+
+“Do you think its fear related?” I continued, swallowing my laughter in respect for the doctor, and legitimate concern for Volt. “I’ve been pushing her pretty hard to meet new people, and I know that’s hard for her. Maybe a more gradual approach-”
+
+“I don’t think that’s the cause.”
+
+I blinked. The doctor stood up, grabbing two glasses of water from his desk, and offering me one. “Volt has come a long way in a short time, but I don’t believe her anxiety is the cause of her incontinence.”
+
+“Oh? What then?”
+
+“First, know this: the trust of another is a difficult thing to earn, and only those that wish to change will benefit from any type of counseling.” Dr. Thomas took a sip, crinkling his inky forehead in thought. “While I hold patient confidentiality to the highest regard, you are her trainer, and thus have the right to see my notes.”
+
+“Okay! What do you think?”
+
+“She’s trying to appear more human.”
+
+I frowned. “What do you mean?”
+
+“Volt weights about 11 pounds, correct?” The doctor mused. “How much do you feed her, a day? Three meals of about one third of a cup?”
+
+I swallowed. “Well…no...”
+
+Dr. Thomas looked up from his clipboard, waiting for me to finish.
+
+“I read t-that you could feed them normal portions-”
+
+“Normal for humans.” He interrupted.
+
+“Right, normal human portions, as long as it was once per day instead of three.”
+
+“Now, if Volt were overweight I would disagree with that assessment, but considering she could stand to gain a pound or two, I’ll swallow my thoughts on the matter. However,” The doctor continued, “She’s also likely drinking more at once than she should be. A fourth of a cup would be your equivalent to drinking nearly a liter of water in a single sitting.”
+
+“Oh, woah.”
+
+“Now, Pokemon are more elastic than normal, and they can support more in them, but they also lack self-control. I’ve seen Pokemon, Pikachu especially, eat their weight in poffins and other garbage. This is where you, their trainer,” Dr. Thomas gave me a serious look. “Come in, and make sure you regulate their diet.”
+
+I swallowed. “Noted.”
+
+“However, this only solves a symptom of a larger issue.” The doctor clicked his pen. “She’s significantly more concerned about your view of her than any fear or anxiety she might possess. She’s trying to appease you. She’s trying to be more human for you, and reach out to more people for you.”
+
+I looked to the side. “You think she’s infatuated with me, then?”
+
+The doctor broke his professional façade, and chuckled. “After hearing about you for five hours this month, yes, I believe it’s a valid hypothesis. I think she seeks a relationship with you.”
+
+“That’s likely.” I snorted.
+
+“Does she repulse you?” The doctor gave me a serious look, and I shrunk back.
+
+“No, it’s not that, I just-” I swallowed. “I’m not a bigot or anything, I’m not…really attracted to anyone.”
+
+Dr. Thomas relaxed somewhat, and flipped to a new page in his clipboard. “What do you mean?”
+
+Oh gawd.
+
+“Just,” I sighed. “Ever since I was young, I’ve never really been attracted to anything. It’s not that I consider her repulsive, I just…”
+
+“Have you been abused in the past?”
+
+“No! Well, yes, but not, like, sexually. And it wasn’t intentional.” I shook my head. “T-that’s not important. Even before everything, I’ve had partners in the past, but I’ve never desired a…a sexual relationship, I guess.”
+
+“Would you ever entertain the idea?”
+
+I slouched further into the sofa. “M-maybe? I like the idea of an intimate friend, but I’m not sure I’m comfortable with the sexual connotation that a relationship entails.”
+
+“Say it doesn’t entail anything. Could you be comfortable trying a relationship out, hypothetically?”
+
+“…Sure.”
+
+“With a Pokemon?”
+
+I opened my mouth to respond, but I didn’t know how. What did I think? Was my aversion to sex the only thing that kept me from a meaningful relationship? I knew I supported out-of-species relationships, but it was always something I supported for other people. The thought of sexual intimacy with anything unnerved me, but without it…would I be comfortable?
+
+“Think about it.” Dr. Thomas smiled. “I’ll see you and Volt next week.”
+
+### ooo ---
+
+“It’s great to finally meet you!”
+
+Azalea looked up at me helplessly, and gave a pained smile at Kevin.
+
+Kevin shrugged sheepishly. [sorry, she doesn’t understand English. Mind using your-]
+
+“Oh, sure, sorry! I hang around Volt too much.” I searched my bag, finding the small device buried in my collection of cords, and attached it to my ear. [There we are. Nice to meet you, Azalea!]
+
+[Likewise.]
+
+The atmosphere was quiet and cozy, with dimmed lights shining against the polished pine floors. In the corner, an older gentlemen played a deep, slow melody on a saxophone, nodding kindly as a younger female dropped some coins in his case.
+
+I sat across the table from Kevin and his Bulbasaur, with Volt soon to be joining us after a quick (and I assumed pre-emptive) use of the restroom.
+
+I took a sip of my chilled amaretto. [You know, when I imagined a bar, I didn’t think you meant a jazz-bar. This is nice.]
+
+[Yeah! When I thought it was just us, I um.] Kevin swallowed, interrupting himself with a taste of his own, mixed cocktail. [Anyway, yeah, this is my favorite place. Really excited to meet, um, Volt, plus introducing you to Azalea.]
+
+Azalea sneezed lightly, wiping her nose with one of her vines.
+
+[use the napkin.] Kevin scolded.
+
+[We’re out.] Azalia sighed, reaching over to the other table with her absurdly long vines, and yanked the entire table’s supply of napkins, setting the container by her side.
+
+She sneezed again.
+
+[spring’s been tough on us.] Kevin sighed.
+
+Volt took this opportunity to dart back to the table, and sit by my side. She looked better than before; a chat with Dr. Thomas, and some time to think had really done her wonders, especially after the incident last night. It helped that most of the patrons here were Pokemon, with a few humans spread out. Volt even greeted the musician in the corner, which especially surprised me.
+
+[Hey everyone.] Volt murmured, extending a paw to Kevin.
+
+[Hello! Nice to meet you, Volt!] Kevin gripped her paw lightly.
+
+[And hi, Azalea!]
+
+[Hi!] Azalea sniffed. [i’d shake your paw, but my vines are super gross right now.]
+
+Volt made a face. [Are you sick?]
+
+[No, I just have really bad allergies.]
+
+Volt giggled into her paw. [Aren’t you a Bulbasaur?]
+
+Azalea gave her a tired grin. [Right? Apparently there’s a small chance to be born with a flower that you’re allergic to. Talk about the genetic short straw.]
+
+Kevin frowned. [There’s nothing wrong with you.]
+
+Azalea chuckled, rubbing an eye lightly with her claws.
+
+Kevin tensed, forcing her foot back down. [Don’t. If you need to, just take another anti-histamine.]
+
+[Do those work?] I asked.
+
+[Not really. I’m more of a connoisseur than anything.] Azalea sighed, gulping two of the white pills. [Meet me again next winter; I promise I’m better company.] She reached up, rubbing her eye once more.
+
+[ssstop it!] Kevin hissed, reaching over and, once again, forcing her foot back down.
+
+Azalea growled. [Kevin I need to scratch it.]
+
+[um,] I interrupted. [Are you guys okay?]
+
+Kevin sighed. [Her condition isn’t common, but I was, um, able to see her biological mother. I don’t. I don’t want to think about it.]
+
+[They itch!]
+
+[she was blind, and I saw the pictures. She literally scratched her eyes out because she lacked the control and common sense to stop scratching you eyes, Azalea!]
+
+[i’m just rubbing them! I’m not going to scratch them out of my skull like a crazy person!]
+
+[Just stop. You’re-] Kevin pressed a hand to his forehead. [You’re giving me heartburn. I don’t want to think about it. Just stop: no hands/paws/claws near your eyes at all.]
+
+Azalea grumbled, momentarily pacified by the concern of her trainer.
+
+Kevin grumbled, taking a sip of his beverage.
+
+I giggled despite myself. [Work has you stressed out? Between you eating everything in sight and creating the weirdest coding patches ever seen by mankind, I didn’t think you had time to worry.]
+
+Kevin scratched his nose with his third finger, grinning slyly. [Hey, if it works, it’s not stupid, right? Anyway, no, that’s not what’s got me down.]
+
+[What then?]
+
+Kevin deflated.
+
+My eyes widened, and I felt my breath catch in my chest. The room seemed to widen, capturing me inside as the edges of my vision began to fade.
+
+Oh god. No. Nonono.
+
+Kevin continued undeterred. [Which means Mabel, not-the-secretary-our-boss, is going to be even-]
+
+[C-Chase?] Volt interrupted, hugging my side. [Are you alright? Chase?]
+
+[What was the name?] I thought, my head connecting soundly with the table.
+
+[Huh?] Kevin tilted his head.
+
+[The name of the auditing company. What was it?]
+
+[um, something something hyper-text something auditors? I think? The visual designing firm?]
+
+[We don’t have a visual designing firm, that’s the virtual designing firm. They’re going to audit our code.]
+
+Kevin’s face fell. [No, no. They’re, they’re going to audit our logos and stuff, right? Like, our pamphlets and brochures?]
+
+There were no tears, just a terrible, sinking dread that creeped across my soul. The chairs around the tables were wrong. Kevin had set his drink wrong. The water spills on the table weren’t symmetrical, and Azalea had set her used napkins on the table in the wrong order. My chest tightened.
+
+I’m going to get fired for this.
+
+I’m going to lose everything for this.
+
+Forty-seven pages of CSS and over two hundred different pages of HTML, all disorganized into separate network files, some of which are even on separate computers. Some even on my computer. We’re done.
+
+I’m going to lose the apartment.
+
+I’m not going to be able to afford Volt’s therapy.
+
+I’m going to live on the street.
+
+And I stared into oblivion, hyperventilating against the bar table.
+
+*047*2016-02-28 20:57
+
+{{:
+
+Chase needs to breath everything will work out for him but anyways it's another excellent chapter
+
+}}
+
+Hehe! Yes he does :3.
+
+{{:
+
+I'm going to call it here. (deep inhale) VOLT LOST HER VIRGINITY AND KEVIN HAS COMPLETELY SCREWED CHASE OVER! SOMEBODY PUNCH ME!
+
+Oh yeah, nice chapter.
+
+}}
+
+Volt is actually a virgin, and Kevin probably did screw Chase over X3
+
+{{:
+
+*punches you hard* Better?
+
+Anyway Volt mentioned she was burned with a metal rod, is it safe to assume it was a branding iron?
+
+}}
+
+Actually, no! This may be discussed shortly, but it was actually a spatula that had been resting against a grill. Her burn is almost a two-inch scar, along with sensitive discoloration under the fur of her neck. It's pretty hard to see however, unless you know where to look.
+
+Also, get hyyped! Josh and company next chapter! :3
+
