@@ -1,0 +1,376 @@
+The Wild Tempest - Page 4
+
+Author: OmoCommando
+
+*077*2013-03-16 04:13
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Michelle: Unknown
+
+Jenni: Fine
+
+Carly: Unknown
+
+Squad bladder status:
+
+Isabel (you): 8%
+
+Michelle: ??%
+
+Jenni: 5%
+
+Carly: ??%
+
+Equipped Weapon: AR6L Assault Rifle (15/40 shots)
+
+___
+
+“Tell me about yourself, Jenni. Any family? Are you married?” you ask.
+
+Jenni shakes her head. “No marriage plans yet. I lived with my mom and dad before I joined up.”
+
+“Aw, come on! Don’t tell me a good lookin’ girl like you doesn’t have someone waiting for them back home.”
+
+Jenni looks off into the distance with a small tear in her eye. “I’d... like to be married one day... if I meet the right person.”
+
+“Really? No one?”
+
+Jenni frowns. “Nope. No boyfriend or girlfriend. How about you?”
+
+“Single. Still searching.” you reply. “Also kind of hoping that one right person comes along.”
+
+Jenni puts a hand on your shoulder. “I’m sure someone out there is interested in you, Isabel.”
+
+You laugh softly. “Thanks, Jen. You’re a good friend and loyal soldier. I’m sure you’d make a wonderful wife.”
+
+“Thank you, Isabel.” Jenni says. “That means a lot.”
+
+[Relationship +1 with Jenni]
+
+“Are you scared about this mission?” you ask.
+
+Jenni pauses momentarily. “Well... there’s a lot going on here. A lot that we don’t know.” She chuckles a bit. “I’m being forced to pee every few hours, which is disconcerting. Other than that, no. It’s no less scary than any other mission we’ve been on.”
+
+“Well, you know I’m here watching your back.”
+
+Jenni giggles. “You’re my commander! Watching my back is part of your job!”
+
+“Yes... well... I... that’s not quite what I meant!”
+
+“Okay...” she grins, “What did you mean?”
+
+The two of you stop and look at each other. You look at Jenni’s innocent smile, her hazel eyes, her brunette hair, and you come to notice that Jenni is a rather beautiful woman. Her kindness, her dedication, all admirable qualities. She really was a true friend, and you can’t help but wonder... could she perhaps be... more?
+
+Jenni then turns away, face as red as a dying star. “Ahem... um... we should... we should really focus on the mission... um... captain.”
+
+“Ah, of course.”
+
+You start to blush yourself. You had to be reminded by a subordinate to focus on the mission. That was pretty embarrassing... right? That had to be the reason you felt so flustered. What else could it be?
+
+You come to a halt. Your way is blocked by a large amount of debris.
+
+“Captain, it looks like one of the bulk heads collapsed.” Jenni reports. “These things are usually made from a very sturdy and dense material. There’s no lifting it, but we might be able to destroy it.”
+
+The only question was “how?”
+
+>Have Jenni try a frag grenade
+
+>Use a non-lethal breach charge
+
+>Try and find some stronger explosives
+
+>Sit and wait for Carly and Michelle.
+
+>Other
+
+*080*2013-03-17 08:41
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Michelle: Unknown
+
+Jenni: Fine
+
+Carly: Unknown
+
+Squad bladder status:
+
+Isabel (you): 10%
+
+Michelle: Unknown
+
+Jenni: 6%
+
+Carly: Unknown
+
+Equipped Weapon: AR6L Assault Rifle (15/40 shots)
+
+___
+
+You place one of your charges in the center of the rubble.
+
+[-1 breach charge. 2 remaining]
+
+While you put a nice hole in the frontmost metal slab, none of the rubble has even budged.
+
+“Captain, it’s no use. Those bulk heads are made of polarized titanium. Nothing we have will blast through, you know that!”
+
+“Yeah...” You say, though you didn’t know that.
+
+“Can I suggest that we check around this deck for something useful? This area seems to consist mostly of technical and engineering labs.”
+
+“All right, Jen. We’ll do it your way.”
+
+You first decide to check in with Carly and Michelle. “Carly, Michelle, do you read?”
+
+You receive only static.
+
+“Lieutenants Smith and Montgomery, respond. That’s an order.”
+
+Nothing. You take a look at your team health and team bladder monitors. Both Carly and Michelle are no longer registering. Something must be interfering with the signal.
+
+“I’m not getting anything either, captain.” Jenni says.
+
+That could bode ill. But Carly and Michelle were both highly capable soldiers and you figure they’ll be okay.
+
+You then hear the muffled pop! of an anti-armor charge exploding in the deck below you.
+
+“Well,” you say, “at least Carly’s still alive.”
+
+“But they’re engaged with someone.” Jenni points out.
+
+“They can handle themselves. We need to press forward, not back. Let’s check out these labs.”
+
+______
+
+The first lab you step into is “Explosives.” It’s only a wild guess, but you figure this is probably a good place to search for demolitions charges. As you step in, you see a wide variety of gadgets, most of which you have no idea what they are or what they do. On the main table, however, are a number of things you do recognize.
+
+- Frag grenades
+
+- EC grenades
+
+- Flash-bang grenades
+
+- Plasma grenades
+
+- Freeze grenades
+
+- Non-lethal breach charges
+
+- Heavy duty remote charges
+
+- Trip mines
+
+You have enough spare room in your inventory for 3 of these items.
+
+[Select up to 3 of the above items]
+
+In addition to those, you also find a spare medical kit. “Jenni, take it.”
+
+The woman accepts it gratefully. “I’ll also take a few of these remote charges.”
+
+[2 heavy duty remote charges and 1 medical kit (field) added to Jenni’s Inventory]
+
+“All right, now what do we do next?”
+
+“Some of our new explosives might get the rubble out of the way.” Jenni suggests. “Or, the weaponry lab is just down the hall. We could get more stuff.
+
+>Try again to blow away the rubble using ______.
+
+>Search for Carly and Michelle.
+
+>Other
+
+*084*2013-03-18 07:54
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Michelle: Unknown
+
+Jenni: Fine
+
+Carly: Unknown
+
+Squad bladder status:
+
+Isabel (you): 13%
+
+Michelle: Unknown
+
+Jenni: 8%
+
+Carly: Unknown
+
+Equipped Weapon: AR6L Assault Rifle (15/40 shots)
+
+___
+
+You had decided to take two remote charges and also one of those plasma grenades. Just in case the charges weren’t enough this time.
+
+[2 remote charges and 1 plasma grenade added to your inventory]
+
+You prime and arm your charge, you set in in the center of the debris, then you take a Jenni and hide behind the nearest corner.
+
+“Fire in the hole!”
+
+[-1 remote charge]
+
+POW!
+
+You look over at the blast.
+
+All obstructions had been cleared. You can now proceed to deck 1.
+
+“Should we wait for Michelle and Carly, ma’am?” Jenni asks.
+
+“They have their orders. Meet up at deck 1, just before the bridge.” you reply. “Come on. We have to get there too.”
+
+“Where’s that door lead?” Jenni points to the recently unobstructed doorway.
+
+“That’s the main lift. We’ll force it open, and then climb the emergency ladder to deck 1.”
+
+___
+
+You climb through the door and step out onto deck 1. As Jenni comes up the ladder, you take her hand and pull her up.
+
+“Thanks captain.”
+
+“No problem. Come on, let’s find the bridge.”
+
+You don’t have to travel far. Less than a quarter of a kilometer, lies the bridge; inconveniently sealed by a large pair of blast doors. Designed to contain or keep out even the most lethal of explosions, you knew nothing you had on you was enough to breach those armored hulks.
+
+“Jenni, see if you can bypass the doors, would you?” you ask.
+
+“Affirmative, captain.”
+
+Jenni walks up to the door control panel and begins to fiddle with it.
+
+...
+
+She stands up having the most irritated look on her face. “Captain, this door has been modified to not be opened by anything except a specific key card.”
+
+“Any idea where that would be?”
+
+“Probably with some high ranking officer of this group.”
+
+Well that was swell. The chances of finding that were... what?
+
+“You sure you can’t hack through that door, Jen?” you ask.
+
+Jenni sighs, “I might. It’s level 5 security so it’s going to take me some time.”
+
+That was another option anyway. The third might be to wait for Carly. She could probably improvise and explosive that was strong enough to breach even this door.
+
+What to do...
+
+>Search for a high-ranking officer.
+
+>Wait for Jenni to hack the door.
+
+>Wait for Carly and Michelle.
+
+>Knock.
+
+>Other:
+
+*091*2013-03-19 08:04
+
+{{: 
+
+Knock
+
+}}
+
+Hell yes. Sometimes the simplest methods are the best.
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Michelle: Unknown
+
+Jenni: Fine
+
+Carly: Unknown
+
+Squad bladder status:
+
+Isabel (you): 16%
+
+Michelle: Unknown
+
+Jenni: 10%
+
+Carly: Unknown
+
+Equipped Weapon: AR6L Assault Rifle (15/40 shots)
+
+___
+
+You raise your hand and...
+
+“Owww...” you sob.
+
+Your hand now hurts.
+
+Jenni just stares at you. “Why... did you do that?”
+
+Perhaps knocking on a door with a density that practically defies known physics wasn’t such a great idea...
+
+Just as you turn to leave, much to your surprise, the door begins to open up.
+
+You are immediately greeted by a host of enemies with their guns aimed at you. In the back, however, you see a woman in particularly unique outfit. It reminded you of an old oriental earth personage; a samurai. You also note the sword she carries.
+
+“Hold fire.” she says to her troops. She then looks straight at you. “You’re the ones who’ve suddenly been giving us trouble?” she says.
+
+You and Jenni keep your guns up, ready to defend yourselves at a moment’s notice.
+
+“Who are you?” You ask.
+
+The woman smiles proudly. “Natsumi Miyazaki, proud daughter of the Miyazaki family and inheritor of their legacy.”
+
+“The who of the what?” says Jenni.
+
+“What are you doing here?” you ask.
+
+“Our people have long been oppressed by the Republic’s laws and treaties. With the appropriation of this vessel, we shall ensure that you do not bring your tyranny upon us again.”
+
+So they are rebels.
+
+“By stealing one of our ships? You think that’s going to change the situation?” Jenni asks in confusion.
+
+Natsumi laughs. “Were it so simple...”
+
+She draws her sword. A finely crafted katana blade with a pure white shine, and she points the tip straight at you. “Give me one reason why I should not order my men to open fire on you.”
+
+This situation looked dire. You see about four armed men from where you were, at least two sentry drones, you were missing two squad members, and something about that woman just had you extremely worried. You weren’t exactly sure if this was a fight you could win.
+
+How to respond...
+
+>Stand down, miss Miyazaki. You can’t win against commandos, not even two.
+
+>I don’t want to fight you. I’m sure we can come to some agreement.
+
+>Shut up and die, bitch. [attack]
+
+>Retreat!
+
+>Other:
+
+*097*2013-03-19 21:05
+
+{{: 
+
+Come to a agreement, if it fails, grenade in the hole, throw the plasma at her, if its anything like the halo plasma grenades, it will stick to her, and kill anything around her. at the same time of throwing a emp grenade to hoppefully knowck out the bots enough to take cover and avoid damage or death
+
+}}
+
+Though the visual resemblance to halo's plasma grenades is accidental (brainfart on my part), they do not function the same. They do not stick, for one.
+

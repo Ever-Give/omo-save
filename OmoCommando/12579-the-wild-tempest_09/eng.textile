@@ -1,0 +1,496 @@
+The Wild Tempest - Page 9
+
+Author: OmoCommando
+
+*203*2013-04-01 06:35
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Jenni: Wounded
+
+Carly: Fine
+
+Squad Bladder Status:
+
+Isabel (you): 9%
+
+Jenni: 48%
+
+Carly: 37%
+
+Equipped Weapon: AR5L Assault Rifle (0/32 shots)
+
+___
+
+You ready an EC grenade.
+
+“Carly, if you read me, ready your anti-armor launcher, because I got a super drone here.” You say. You get no response however; merely an earful of static. “Carly, do you copy?”
+
+“The drone is likely disrupting short-range communications, Captain.” Raimus explains to you.
+
+In that case, you could only hope and pray that Carly either got your order, or figures out the situation upon arrival.
+
+You throw the grenade over your cover, then quickly switch to your magnum.
+
+[-1 EC grenade. 1 remaining]
+
+[W&T M25 Magnum equipped (6/6 shots)]
+
+The drone shoots the grenade before it can land close enough for full effect, however. Electrical discharges fly everywhere, a few of them striking both you and Raimus.
+
+[You have taken damage]
+
+[Raimus has taken damage]
+
+Your visor goes haywire, and you quickly retract it for visibility’s sake. Raimus lurches over from the electricity.
+
+After you regain your bearings, you see that the drone’s shields are fluctuating rapidly. You aim your magnum and fire three massive energy bursts into the drone. The first shot disables the shields, the second and third heavily damage the exterior armor.
+
+The drone quickly counterattacks with its machine guns, a single shot glances off your thigh. It appears the EC grenade disrupted the drone’s optics as well. Nevertheless, the drone was shooting frantically. You get back down into cover quickly, waiting for you break in the fire.
+
+POW!!!
+
+The sound of an anti-armor grenade detonating deafens you for a few seconds. You peek out of cover to see Carly on the other side, her signature weapon in hand.
+
+“You okay, captain?” she asks.
+
+“Never better, lieutenant. Good timing.”
+
+With communications no longer disrupted, you quickly contact your other teammates. “Jenni? Michelle!? What happened? Report!”
+
+Your second-in-command reports in. “This is First Lieutenant Smith, Captain. Lieutenant Freeman’s a bit beat up, but she’ll make it.”
+
+You then hear Jenni’s soft voice. “I’m all right, Isabel. Michelle made it just in time. You were right not to pick me over the professor.”
+
+You exhale in immense relief. You knew, professionally, you had made the right call. But if that decision had cost Jenni her life... well, it didn’t, and that was what mattered.
+
+“We’ll be at your position a few minutes.”
+
+“Negative, just head straight for deck 10. We’ll meet up there.”
+
+______
+
+You, Carly, and Raimus arrive at the doors of the medical lab. The door is, of course, sealed.
+
+“Carly, if you would be so kind.” you gesture towards the doors.
+
+“I would be happy too, captain.” Carly responds. She pulls out one of her non-lethal charges, slaps it on the door, and triggers it. “Clear!”
+
+The three of you duck down, pop! The charge makes its sharp and quick explosion, and the doors slide open.
+
+“All right then,” Raimus starts to say, “I’m going to work on synthesizing a cure for the serum I put in you, and I’ll see if I can find a way to combat Natsumi’s abilities.”
+
+“Work at your discretion, professor.” You tell him. “We’ll keep watch.”
+
+Just as you finish, Michelle and Jenni walk in.
+
+/connection reestablished with squad member “Michelle”
+
+Status: Fine
+
+Bladder Status: 32%
+
+You walk up and open your arms wide to embrace Jenni. She smiles bashfully but holds her hands up to stop you. “Isabel... er, Captain... not here, okay?”
+
+Of course, someone as professionally-minded as Jenni would probably be against such intimate displays in front of fellow soldiers.
+
+“Right...” you say disappointedly. “Well, I’m glad you made it out in one piece, Jenni. Excellent work out there.” You turn to Michelle. “You as well, Lieutenant Smith. Thank you for being so fleet-footed.”
+
+“My pleasure, captain.” Michelle grins and bows subtly.
+
+With the small interlude in the action, you probably had time to talk for a while with one, maybe two of your team.
+
+(you may select up to two conversation options with a single teammate)
+
+> Talk one-on-one with Michelle
+
+“How’d you rescue Jenni so skillfully?”
+
+“Tell me about how you became such a fine sniper.”
+
+“Michelle... you’re not mad at me, are you?”
+
+“How would you feel about a relationship with a woman?”
+
+> Talk one-on-one with Jenni
+
+“I can’t tell you how relieved I am to see you safe.”
+
+“Tell me about your history Jenni. Why join the military?
+
+(Kiss her)
+
+(Stroke her chest)
+
+> Talk one-on-one with Carly
+
+“I can’t tell you how impeccable your timing was, demo expert!”
+
+“I’m just dying to know: Why explosives?”
+
+“Carly... you know the ‘rack’ comment was a joke, right? I care about you.”
+
+“You said you liked my boobs? How about my ass?”
+
+> Talk one-on-one with Raimus
+
+“Professor, have you come up with anything yet? Theories on how to defeat Natsumi?”
+
+“So what’s you background, prof? What medical deeds have you accomplished?”
+
+“If I haven’t said it already, I really appreciate all that you’re doing for us.”
+
+“Have I mentioned just how sexy you are?”
+
+> Skip conversation. Wait until Raimus is done.
+
+> Other/Custom Question:
+
+*207*2013-04-01 08:00
+
+No, you did not sustain enough damage to warrant "critical" health status.
+
+Basically, think of it this way:
+
+Fine = 100% health
+
+Wounded = 99-50%
+
+Critical = 49-1%
+
+Dying = Less than 1%
+
+(note, this applies to any character, but only certain characters have the ability to link with your status monitor. i.e. not everyone's health is shown. You will have to use your best judgement as to the condition of characters like Raimus)
+
+*213*2013-04-03 00:07
+
+Squad Bladder Status:
+
+Isabel (you): 12%
+
+Michelle: 32%
+
+Jenni: 50%
+
+Carly: 39%
+
+______
+
+You decide to first walk over and talk to Michelle, feeling things were left on a sour note in your last conversation.
+
+“Michelle...”
+
+She turns to you. “Yes, captain?”
+
+“At ease, Lieutenant. I’m not here as your CO.”
+
+Michelle leans back against the wall with her arms folded over chest. “All right, Lester. What is it?”
+
+“I felt like we left things in a bad place in our last conversation. Are we... okay?”
+
+Michelle gives you a rather disgusted look. “What the hell are you talking about?”
+
+“You seemed sort of upset when we-”
+
+“All right, all right, all right!” Michelle interrupts. “First off, I’m here as your expert marksman, and as team executive officer. I don’t do this mushy ‘let’s be friends forever’ bullshit, and I don’t like being psychoanalyzed. So with all due respect, Captain, shut up.”
+
+[Relationship -1 with Michelle]
+
+Your heart sinks. You hadn’t intended this. You just wanted to make things better with Michelle, but she simply isn’t of the mentality for intimate conversation. Now that you think about it, she’s been like that since training.
+
+“Well...”
+
+“Conversation’s over, Captain. I’ll keep watch outside.” Michelle takes her sniper rifle and leaves the room.
+
+You throw your arms in the air and let them fall down. Things simply weren’t going well with her. You instead decide to talk with people who weren’t afflicted with partial mental aberration. And so you head over to where Jenni was tending to her wounds. The upper half of her armor had been removed, giving a pleasant reminder that there was a woman under there.
+
+“Jen... how are you doing?” you ask.
+
+“I took a few hits, but this armor’s tough.”
+
+“I umm.... I can’t tell you how relieved I am to see you all right.”
+
+Jenni smiles. “Thanks, Isabel. I’m glad to see you too.”
+
+“If you don’t mind me asking, could you tell a little about why you decided to join the Republic Armed Forces? Why not join the Army and stay on Earth?”
+
+Jenni makes a faint giggle. “Earth was never my home. I enjoy being in space, heading from one place to another.” She leans back with her arms behind her head. “I was never of a technical mentality, so I didn’t want Navy. Thought the multi-cultural community of the marines was the best choice.”
+
+“And then commandos?”
+
+Jenni nods. “Yup. During an attack by the Empire, my entire squad was dead or wounded, and I held off nearly ten enemy troops on my own, engaging the last three in close combat. I was honored for my heroism with the cobalt honorific, then asked to join the Commandos. Then after training, I was assigned to your team.”
+
+“I’m glad you were.”
+
+You begin to walk away, to go speak with Carly for a bit.
+
+“Isabel?” Jenni calls your name.
+
+You turn around. “Yes?”
+
+“Promise you won’t ever throw the mission for my sake. Please.”
+
+You hesitate. “...of course, Jenni. But you have to promise me you won’t go throwing your life away.”
+
+“I promise.”
+
+[Relationship +1 with Jenni]
+
+You head over to Carly, and punch her in the arm. “Hey.”
+
+Carly turns to you with her wry smile. “Hey there, captain! What’s up?”
+
+“I wanted to thank you for the expedient rescue.”
+
+“You know me, always saving the ladies.” Carly laughs. Then she looks at Raimus. “Oh, and that thing.”
+
+“You don’t like the professor?”
+
+“I don’t quite trust him.” Carly explains. “It’s circumstance that feeds our alliance and if the circumstance changes, he may betray us.”
+
+You nod slowly. “I’ve considered that, believe me.” You then looks at Carly and get a mischievous grin on your face. “So... you thought my boobs were pretty hot?” You turn around, having your back end facing Carly. “So what do think of my ass?”
+
+As she did last time, Carly burst out in laughter. Jenni and Raimus can’t help but look to see what all the commotion is. “Oh my God...” she laughs “Oh... I can’t believe what I’m hearing!”
+
+“Seriously!” You say with a sarcastically stern voice. “Don’t you think I got a hot butt?” You place your hand on your hip and stick your hip out for emphasis.
+
+Carly is practically in tears from laughter. She clears her throat. “Well, yes. Actually. That is one all-around attractive body you have there!” She then sticks out her own hips. “Almost as good as mine.”
+
+You laugh as well. It felt good to have a team member you could just joke around with. But it was probably time to get an update from Raimus. So you begin to walk over when someone grabs your back end.
+
+“You know,” Carly whispers. “I mean it. You are pretty hot, captain.”
+
+You smile, blush, but say nothing.
+
+[Relationship +1 with Carly]
+
+You approach Raimus. “Professor, how’s it coming?”
+
+“Still researching potential counteragents. I’ll let you know when I find something.”
+
+“Professor, our agreement is for mutual benefit, but I wouldn’t mind if it were a little deeper than that. Could you tell me a little about yourself?”
+
+Raimus nods. “I suppose I could. Your concern is understandable.” Raimus stands up straight and adjusts his lab coat. “I was a practiced and renowned biologist and physicist once in my career. But as I came to discover more breakthroughs in the field of medicine and human advancement, I also came to realize that our preset senses of morality inhibited us from reaching our apex.”
+
+You swallow. “You... began to experiment on people?”
+
+“It was purely voluntary; with the risks outline clearly. I would not perform experiments that would place the volunteers at risk or in an extreme state of pain.” Raimus’ face turned dark. “Still, the Republic did not approve of my methods. So here I am, at first helping rebels and now justifying myself to a mere soldier.”
+
+You nod. “I won’t pretend to understand your frustration, but I’m sure you were greatly infuriated by the fact you were unable to achieve the progress you desired.”
+
+“Hm... yes.”
+
+“Any theories on how we might be able to fight Natsumi? I’m sure we’re going to face her again, and I’d rather she didn’t mow us down again.”
+
+Raimus pauses for a minute. “I can’t counteract the serum she used without a full scan of her body to check for side effects. So unless you can convince her to come down here, strip naked, and allow a full body bioscan, there is nothing I can do.”
+
+You shake your head. “I doubt she will agree to that.”
+
+“There is one method perhaps.” Raimus suggests.
+
+“What?”
+
+“I can give one of you the same serum.”
+
+Your eyes light up. “You have more?”
+
+Raimus shakes his head. “No, but the materials to create another are on this ship.”
+
+“What do you need?”
+
+“A vial of grade C bio-regen fluid, which I have here. A sample of high potency insect venom, the needles of a brelnan luna thistle. Ground-up skalitan ruby quartz. And lastly, a urine sample from the one who will be using the serum.”
+
+You wince at the sound of that word “urine.” You felt like you’ve seen enough of that for one mission.
+
+“All of this,” Raimus continues, “can be found in the deck 7 science labs of the ship, or habitation deck right above it.”
+
+That answered that. You now had your answer as to how to defeat Natsumi. You had another problem, however. The Empire was on its way to get this ship. If indeed there is a resistance left, you may need them to hold back the Empire. If the enemy arrives before you find the resistance, they would be crushed.
+
+> Find Raimus the ingredients for the super serum
+
+> Continue searching for the resistance/survivors.
+
+> Other:
+
+Relationship scores:
+
+Michelle: -1
+
+Jenni: 6
+
+Carly: 3
+
+*217*2013-04-03 06:05
+
+Very well.
+
+Michelle: (not applicable for situation)
+
+Jenni: Aw, you know Michelle, Isabel! She's always been a little kookoo, never responding much to soft or sweet talk. Just try talking to her about the stuff she likes!
+
+Carly: I don't know anyone who gets along with Michelle. She's a great soldier but a lousy person... To be honest, a little kick-in-the-ass might be something she'll respect, but don't take my word for it.
+
+(don't over-worry about a teammate betraying you. They are well-disciplined soldiers who have sworn an oath to serve and protect. They would only turn against you if they were given a VERY good reason)
+
+*219*2013-04-04 01:40
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Michelle: Fine
+
+Jenni: Wounded
+
+Carly: Fine
+
+Squad Bladder Status:
+
+Isabel (you): 18%
+
+Michelle: 37%
+
+Jenni: 60%
+
+Carly: 43%
+
+Equipped Weapon: W&T M25 Magnum (3/6 shots)
+
+___
+
+Chapter 4: To Fight a Samurai... You Must Become the Samurai.
+
+“We’ll look for those ingredients. If we have to face down Natsumi at some point, I want to do so on equal terms.” You say. You look at your squad. “Get your gear, everyone. We’re moving out.”
+
+You take a quick look at everyone’s inventory:
+
+Your Inventory:
+
+{{: 
+
+AR5L Assault Rifle
+
+W&T M25 Magnum
+
+AR6L Energy cell: 4
+
+W&T M25 Cartridge: 18
+
+Medical kit (Field): 1
+
+EC grenade: 1
+
+Health Stim: 1
+
+Strength Stim: 2
+
+Resuscitation Stim: 1
+
+Non-lethal Charges: 2
+
+Heavy Duty Charges: 1
+
+}}
+
+Michelle’s Inventory:
+
+{{: 
+
+Sniper Rifle
+
+S4L Pistol
+
+Flash Bang Grenades: 2
+
+Trip mines: 2
+
+Resuscitation Stims: 2
+
+}}
+
+Jenni’s Inventory:
+
+{{: 
+
+AR6L Assault Rifle
+
+Freeze Gun
+
+Frag Grenades: 2
+
+Heavy Duty Remote Charges: 2
+
+Resuscitation Stims: 2
+
+}}
+
+Carly’s Inventory:
+
+{{: 
+
+GN-535 Submachine Gun
+
+Anti-Armor Launcher
+
+Frag Grenades: 2
+
+EC Grenades: 2
+
+Plasma Grenade: 2
+
+Resuscitation Stims: 2
+
+}}
+
+You look back at Raimus. Considering his importance, you thought it prudent to have someone guard him, but leaving a squad member to do that would be a huge blow to your effectiveness. You can’t afford to leave someone behind, but taking Raimus with you would be far too dangerous for him.
+
+“Professor, you’ll have to stay here.” You explain. “Taking you with us would be more dangerous than leaving you here.”
+
+“I concur, Captain.” He responds. “I’ll barricade myself in here until you return.”
+
+With the matter settled to the best it possibly could be, you put your helmet back on and head out for the lift. You punch in “deck 7” and begin your ascent. While the lift climbs, you take the time to reload your weapons.
+
+[-3 W&T M25 cartridges (15 remaining) ]
+
+[-1 AR6L energy cell (3 remaining) ]
+
+_____
+
+You and your team step out of the lift and out onto the deck, and you are startled by what you see. A few of the lab doors have been forced open from the inside. It appeared that something had escaped from the labs and was running around on this deck.
+
+“More of those giant bugs?” Jenni asks with apprehension.
+
+“The log said that there was only one of them that they brought aboard.” Carly notes. “But who knows what other creatures might be lurking in here.”
+
+You swallow hard. Whatever it was that was running amok was sure to be something dangerous. You, again, can’t help but ask: why can’t anything ever be routine and simple?
+
+“Let’s check out that lab from before. The smaller insects were supposed to have venom.” You say.
+
+You step into the lab, and you look on the table where the insects were before. Much to your dismay, however, the containers have been smashed, the bugs no where to be found. “Keep alert, team. Those bugs are quite poisonous.”
+
+“Where should we search then, Captain?” Michelle asks.
+
+“Jenni, can you access a map of the deck?”
+
+“Affirmative.” Jenni moves over to a nearby console and begins typing in commands. “We have a few options here, Captain. If we want the insect venom, the habitation deck or specimen cold storage is the best bet. For the thistle needles, the arboretum is the best bet. For the quartz, I think either the mineral or geology labs would be the best place to search.”
+
+You nod. Things weren’t sounding fun, but you had little choice. Before making any decision, you see a small vial for holding liquid. If indeed Raimus needed a sample of pee from one of you, that would be a good place to store it. You look over at Jenni, who is uncomfortably squirming. You might need this thing soon.
+
+[150 ml container (empty) obtained]
+
+Now, what to obtain next...
+
+> Habitation Deck; Obtain insect venom
+
+> Cold Storage; Obtain insect venom
+
+> Arboretum; Obtain thistle needles
+
+> Mineral Lab; Obtain Ruby Quartz
+
+> Geology Lab; Obtain Ruby Quartz
+
+Minor side note: The average human bladder holds a maximum 300-350 ml of liquid. I'm sure you can put two-and-two together here.
+

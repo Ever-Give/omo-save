@@ -1,0 +1,300 @@
+The Wild Tempest - Page 10
+
+Author: OmoCommando
+
+*225*2013-04-04 17:53
+
+{{: 
+
+Do you have a source for this? This is about half of the lowest estimate I've seen.
+
+}}
+
+I just peeked at wikipedia for "Urinary Bladder"
+
+WebMD.com says 400-600 ml, so the conflicting data tells me no one actually knows for sure.
+
+The actual capacity is not the issue here, however. The human bladder certainly holds more than 150 ml, the size of the container we've found.
+
+*226*2013-04-05 04:30
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Michelle: Fine
+
+Jenni: Wounded
+
+Carly: Fine
+
+Squad Bladder Status:
+
+Isabel (you): 23%
+
+Michelle: 40%
+
+Jenni: 65%
+
+Carly: 47%
+
+Equipped Weapon: W&T M25 Magnum (6/6 shots)
+
+______
+
+“Let’s head to the cold storage.” you say. “Chances are they have some frozen specimens there, and I’d rather deal with poisonous bugs that can’t move rather than ones that can.”
+
+“Agreed.” says Carly.
+
+Passing through the straight and perpendicular corridors, the level and scale of destruction is greater than you imagined and the shocked looks on your teammates faces told you they thought the same. Claw marks, acid burns, debris, everywhere. You could probably conclude that whatever was loose within the corridors was pissed.
+
+Every nerve ending in your body then turns to ice. Every muscle hard as rock. A particularly loud buzzing sound was coming from the shadows just ahead of your position.
+
+“Captain...” Michelle says with an apprehensive tone.
+
+“I hear it.”
+
+You clutch your magnum tightly. You fix your eyes straight ahead. And then you see it.
+
+A small bug, but the glowing purple venom dripping from its jaws made you fear it as if the creature was ten meters tall.
+
+The bug begins to fly toward you with extreme haste. You raise your weapon.
+
+Zap!
+
+A white bolt flies into the insect, leaving nothing in its wake. You look on the ground and see the remnants of a few legs but that was it. You look over to see Michelle with her pistol drawn.
+
+“Nice shooting, Lieutenant,” you say to her, “This is precisely why I chose you as my marksman. Any gun might as well be a sniper rifle for you.”
+
+Michelle blushes in just the slightest sense. “Um... well you know me, captain. I got a hawk’s eye!”
+
+“And we’re damn glad to have you and that eye with us.” you respond.
+
+The next room over was cold storage. It’s just like what you’d expect, had the appearance of a warehouse with shelves, crates and odd machinery all over... except it was covered in a sheet of ice.
+
+You walk over to the racks with the label “Specimen storage.” Conveniently, there are four racks.
+
+“Hang on, Isabel.” Jenni says. “I’ll access the cold storage manifest, see if I can speed up the search.” She walks over to a computer near the wall, and begins to work her, what you have come to call, “Jenni magic.”
+
+The shelves on the racks were lined with crates, canisters, and vials of all manner of creature and microbe imaginable. Some not-so-imaginable. One particular canister had a squid-looking creature that reminded you of something you played in a video game in your childhood. You shiver at its thin tendrils hanging from the mouth.
+
+“All right, I got it.” Jenni walks over to one of the racks and picks up a canister about a half-a-meter in length. Inside was one of the same bugs that you had encountered outside of the storage.
+
+“How do we extract the venom?” You ask.
+
+“With this.” Jenni holds up a small syringe. She opens the canister and inserts the needle into the creature’s head. Very carefully, she extracts a good amount of the insect venom. Jenni then closes up the canister, separates the needle from the container and hands it to you.
+
+[obtained “High Potency Insect Venom”]
+
+“All right, team. Let’s get out of here.” You all walk out of the freezing room and are greeted by the sound of buzzing again. This time, however, it’s louder, and there’s more of it. You and your team freeze in place. As you look around the walls and ceiling, you see dozens of the insects. They’re surrounding you.
+
+“Captain... what do we do?” Carly whispers.
+
+“Raimus’ serum can protect us from getting poisoned, right?” Michelle asks.
+
+“I wouldn’t count on it.” Jenni answers. “At the very least, the poison wouldn’t leave your system until you peed, so it would still eat away at you.”
+
+“It’s a chance I’d rather none of us took.” You say. The next move was vital. The wrong action could have dire consequences for the squad. One of the insects then moves toward you and begins crawling up your leg.
+
+> Start shooting bugs
+
+> Stay absolutely still
+
+> Carefully creep through
+
+> Drop a grenade
+
+> Panic
+
+> Other:
+
+*232*2013-04-05 05:49
+
+If it's not in your inventory, you don't have it.
+
+Exceptions:
+
+- Your adrenaline amplifier
+
+- Your force field disruptor
+
+- Your helmet computer
+
+Edit: These are not inventory items, but attachments or utilities for your armor.
+
+*235*2013-04-05 09:45
+
+"Why the hell do we not have a knife?"
+
+Because life would be too easy with one.
+
+_____
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Michelle: Fine
+
+Jenni: Wounded
+
+Carly: Fine
+
+Squad Bladder Status:
+
+Isabel (you): 30%
+
+Michelle: 46%
+
+Jenni: 73%
+
+Carly: 52%
+
+Equipped Weapon: W&T M25 Magnum (6/6 shots)
+
+______
+
+“Just move... very... carefully.” You say to your squad.
+
+You carefully lift the leg with the bug on it. It seems to not react. You then put your leg down. The impact caused the creature to stir, but it remains in it’s current spot still. You then lift your other leg, and carefully place it down. You try to move as slowly as you possibly can, but you look down at the bug and it seems quite agitated. It begins to scuffle upward, climbing onto your chest. It’s fangs mere centimeters away from your neck.
+
+You find that you can’t move suddenly. Fear takes a hold of your body, as the venomous arthropod gets closer to your head. You shut your eyes, grit your teeth, and await the bitter end.
+
+An idea then comes to mind. Your force field disruptor! Maybe the feedback from it will kill, or at least stun the insect!
+
+As carefully as you can, you reach for the bug. As soon as your finger makes contact with the carapace.
+
+...The bug seems unaffected. You forgot that your device it a force field disruptor, not a neural disruptor.
+
+Chomp!
+
+“Gah!”
+
+The insect bites your hand, it’s venom-coated fangs piercing your body suit and flesh.
+
+[You have been poisoned]
+
+On instinct, you pull off the bug and throw it down the hall.
+
+All of the other bugs are now staring directly at you.
+
+> Start shooting bugs
+
+> Stay absolutely still
+
+> Carefully creep through
+
+> Drop a grenade
+
+> Panic
+
+> Other:
+
+*248*2013-04-07 06:20
+
+Squad Status:
+
+Isabel (you): Poison
+
+Michelle: Fine
+
+Jenni: Wounded
+
+Carly: Fine
+
+Squad Bladder Status:
+
+Isabel (you): 31%
+
+Michelle: 46%
+
+Jenni: 75%
+
+Carly: 52%
+
+Equipped Weapon: W&T M25 Magnum (6/6 shots)
+
+_____
+
+You clutch you hand, you can feel something inside you now. That venom was working quick than you thought it would. You had to escape. Things would turn even more sour if this fate befell your squad.
+
+“Michelle, try a flash-bang!” You order.
+
+“Yes, ma’am!” Carefully, Michelle reaches into her belt and pulls out one of her capsule-like flash-bang grenades. She primes it and chucks it into the horde. You all shield your eyes...
+
+[Michelle: -1 Flash-bang grenade]
+
+POOF!
+
+You become slightly disorientated from the sound of the detonation, but your eyes remain fine. You quickly take a look at the insects. They’re behaving confused and dazed.
+
+“Now! Go!” You yell. The four of you bolt down the hall.
+
+“Where are we going, Captain?” Carly asks.
+
+You hadn’t decided on that. Oh well, arbitrary decision time. “Head for the arboretum!”
+
+Jenni starts to protest. “But captain, there’s still-”
+
+“Just go!”
+
+Your squad complies and you all head for the arboretum.
+
+______
+
+You run into the arboretum followed by your team. Once the last member is through, you seal the door. Finally given a moment to catch your breath, your put your hands on your knees and breath erratically. Your gut is wrenching with pain, and you’re sweating a lot. But other than that you feel okay.
+
+“Okay...” Carly sighs. “What are we looking for?”
+
+“Brelnan luna thistle.” you reply. “You note it by the crescent-shaped leaves and the pale yellow needles it has.”
+
+You look around. The arboretum has overgrown itself due to lack of maintenance. The floor is now covered in moss and fungi, the various plants have grown up to the ceiling with lots of vines crawling around. The air was full of moisture, meaning the plants must somehow have accessed the automatic hydration systems.
+
+Regardless of the circumstance, you had to find that thistle. “Spread out, ladies. See what you can find.”
+
+While walking around you find what appears to be the remains of a rack similar to those you found in the cold storage. On this shelf, was a large collection of floral plants. You reach for one with yellowish needles on top when you suddenly start to cough violently. Something liquid comes up, which you immediately spit out. Blood.
+
+“Captain! Are you all right?” Carly puts a hand on your shoulder.
+
+“I-I’m fine...” you manage to say through your coughing. “The venom’s more potent than I thought, but I’ll be okay until we get back to the med bay.”
+
+You look at your squadmate, who has a great amount of concern in her eyes. She clearly does not believe your lie, but knows better than to openly question you.
+
+“We have bigger problems, Carly. Ensuring this ship does not fall into the hands of the Empire is top priority. To do that, we need to put Natsumi out of commission.”
+
+“All right...” Carly walks off, guilt and concern visible within her stride.
+
+You pick up the plant you saw earlier. It appears to be what you need. It has all the qualities of a brelnan luna thistle. You take a quick scan with your helmet computer.
+
+Breilanar talithsi toura “Brelnan luna thistle.”
+
+Kingdom: Planate
+
+Order: Asterales
+
+Family: (unclassified)
+
+Genus: (unclassified)
+
+Species: (unclassified)
+
+Uncommon plant discovered by brelnan botanists. Despite its name, it is not native to the brelnan homeworld. Scientists believe that the plant has the potential to boost the physical qualities in organic beings if mixed with the appropriate chemicals, but in it’s raw, natural form, it is quite toxic if ingested.
+
+Satisfied that this is what you need, you place the plant into your inventory.
+
+[obtained “Brelnan luna thistle”]
+
+Now what?
+
+“Isabel?” Jenni says quietly.
+
+“Yes?”
+
+Jenni’s legs are pressed together and she is squirming around uncomfortably. “Um... as soon as it’s convenient... could we stop off at the bathroom again?”
+
+> Mineral Lab
+
+> Geology Lab
+
+> Other:
+

@@ -1,0 +1,582 @@
+﻿The Wild Tempest
+
+Author: OmoCommando
+
+*000*2013-03-05 09:24
+
+**If you're just joining in on the story, but do not want to cycle through the pages, there is now a condensed version of the story in the fiction section here: The Wild Tempest
+
+Welcome to the Wild Tempest! My second interactive story. In here, you will be taking on the role of Captain Isabel Lester, in a sci-fi adventure, investigating an allied ship that has mysteriously reappeared after going missing many months ago.
+
+Unlike Nikki's story, going through here will be far more complex and tricky. You will have a mystery on your hands. But effective use of your skills, your tools, your weapons, and most importantly your squad, will lead you to a successfully completed mission.
+
+And of course, being on omorashi.org, there will eventually be a pleasant desperation (and possibly wetting) twist. There may even be more than one considering it's a whole squad we're dealing with. Here's the rules and basics: (spoilered for neatness)
+
+{{: 
+
+You and your squad will also have health to monitor, indicated by a condition of either Fine, Wounded, Critical, or Dying. Should you or a teammate sustain any damage while in the Dying condition, you/they will be killed. If a squad member dies, the story will go on, but their skills will no longer be available, making it that much harder to complete the mission. If you should die, we'll start over from the last saved checkpoint like any good sci-fi game. (I won't be mean and cause a circumstance that causes you to go from Fine to Killed in an instant, but you might instantly go into dying condition)
+
+After each story segment, post what you think Isabel should do next. I'll provide options, but this time, you may voice your own if you think there is a better way. I'll make the first post priority unless:
+
+- At least 3 (or so) people agree on the same suggestion
+
+- I reeeealllyy like another suggestion
+
+- The first post is beyond reason
+
+Hint 1: Use your squad! They may have to pee at some point but they each have unique skills to help you get through obstacles. (explained during story)
+
+Hint 2: Watch your health and ammo. Death may soon follow if either get too low.
+
+Hint 3: Be creative and specific. Vague suggestions may lead to undesirable consequences.
+
+Hint 4: Be prepared. As author and artist, I reserve the right to suddenly change any aspect of the story for any reason at any time I wish.
+
+}}
+
+And with that, let's get started.
+
+==========
+
+Space. That’s truly all it was. Space. Something that’s a whole lot of nothing. Sure you could see all of the stars and everything, but they were who-knows-how-far away. Space travel could get real old real fast. When your going from one star system to another, one sector to another- hell, one SOCIETAL REGION to another, things would just become so mainstream. You heave a deep sigh, and continue just staring out at the bright streaks whizzing by at light speed.
+
+You are Captain Isabel Lester, service number 23499-00844-32, 10 years in the Republic Marine Corps, now leading the special operations team known as "Blue Team".
+
+Your Personal Communication Device begins to beep. You pull it out of your belt and flip the switch.
+
+“Captain Lester.”
+
+It’s Colonel Andersen, your old CO.
+
+“Yes, colonel?” You reply.
+
+“I have a new mission for you, Isabel. Remember this ship?”
+
+On the screen of your PCD, the image of a Republic Cruiser appears next to Andersen’s broadcast. It’s looked like an older class of cruiser, possibly and “Adamant” or even a “Falchion” class, but its irregular silhouette seemed familiar nonetheless. The large cannons on the sides, the awkwardly bulky fighter bays...
+
+“The Wild Tempest.”
+
+“That’s correct, Captain. The Tempest has suddenly returned to known space, close to the Wild Fringe.”
+
+“Any contact from the crew?”
+
+“None. The ship won’t answer any hails or communications. Since your team’s closest, we’re sending you to investigate the ship.”
+
+Seemed strange. This ship went missing almost nine months ago. For it to suddenly return with no word from the crew... could be looking at trap.
+
+“Sir, you said ‘The Wild Fringe?’ What about the Kauranian Empire?”
+
+“The ship’s still on our side of the neutral zone, so there shouldn’t be anything they can do about it. Still, under no circumstances are you to provoke an engagement with the Empire.”
+
+“Understood sir,” you say, “We’ll head there at once.”
+
+Mission time. Whop-dee-do. Well, time to rally the team.
+
+___
+
+You arrive in the armory, where your team awaits you. Michelle, Jenni, and Carly. Blue team was the only all-female spec ops team in the Republic Marines, but at the same time, you also had a reputation for being the most ruthlessly efficient. Nothing got in your way, and you always accomplished your objective. Of course, not only are you a most effective soldier, but you have an incredible team.
+
+(from left to right)
+
+Michelle Smith, First Lieutenant. Your Executive officer and best friend from the officers training course. A dependable person, albeit a little unstable. She was the unit’s best sniper and scout, loving ambush tactics. Her thirst for danger, her relationship with adversity, it was no wonder the others took to calling her “little miss death wish.”
+
+Jennifer Freeman, Second Lieutenant. Preferring “Jenni” with an “I” over anything else, she was a duty and honor bound marine to the core. Followed orders without question and executed them with precision. A bit lacking in the humor department however. On top of these qualities, she was the team’s engineer and technician, knowing her way around any machine or computer system. Jenni was the only member of your team to carry one of those newly issued freeze guns as well.
+
+Lastly, Carly Montgomery, also second lieutenant. Charming, talkative, and a knack for blowing stuff up. She could easily be described as the “heart and soul” of the team, and the relationship she has with Michelle is more than amusing. Carly is the team demolitions expert, great at arming and disarming any explosive. She also has a special anti-armor grenade launcher.
+
+Each soldier was an incredible asset, and losing just one of them would be a heavy blow to the effectiveness of the team. You quickly passed the mission to them and what would go down.
+
+“We’ll board via shuttle, and then try and make our way to the bridge. Any questions?”
+
+Jenni piped up. “Do we know how and when the ship came back?”
+
+“We know nothing.” You reply. “This whole mission is a big unknown, and that’s why they’re sending us rather than a simple investigation team.”
+
+Your team nods in compliance. Now it’s time to suit up.
+
+Choose your primary weapon:
+
+>GN-535 Submachine gun - Standard issue machine pistol for all republic marines, short range, low power and force, but easy to carry and high ammo capacity.
+
+>AR6L Assault Rifle - The primary rifle for all marines, carrying a 40-shot energy cell, and having both auto and semi-auto firing modes make it an excellent field weapon.
+
+>M-15 Burst Rifle - Hi powered, three-shot burst firing mode, makes it the marksman’s best weapon for tight quarters.
+
+>SG7 Wave gun - Firing bursts of energy wrapped in an EM “wave”, the SG7 operates very much like a 21st century shotgun, but without needing to load individual shells. A close-quarters must-have weapon.
+
+Choose your sidearm:
+
+>S4L Pistol - Compact and energy efficient, this pistol allows for many shots but doesn’t pack much of a punch.
+
+>GN-P30 - a much stronger sidearm available for combat personnel, trading ammo capacity and stability for firepower.
+
+>Winston and Thompson M25 Magnum - A pistol that uses individual energy cartridges rather than a magazine, much like old-style revolvers. Low ammo capacity, poor accuracy, and harsh recoil, all of which are offset by this gun’s tremendous firepower.
+
+Select Ordinance:
+
+>Frag grenade: Typical fragmentation hand grenade, with three second fuse after solid contact with an object, sprays fire and shrapnel across an area of 15 meters.
+
+>EC grenade: Electric current grenade that does little damage to organics but devastates machinery, including weapons and helmet optics.
+
+>Flash-bang Grenade: Grenade that releases a massive burst of photon energy, briefly disorientating targets by creating a blinding flash and a deafening bang. (hence the name)
+
+>Plasma Grenade: Highly deadly grenade that causes mass, unstoppable devastation across a 10 meter area. Misuse of this unstable explosive can easily kill the thrower or nearby allies instantly.
+
+Choose your utility:
+
+>Bio-regen gel dispenser: Medical utility that administers a tissue-regenerating gel into the blood stream to quickly heal wounds. Your wounds will slowly heal over time.
+
+>Adrenaline amplifier: Pumps additional adrenaline into your bloodstream during times of duress, increasing response times and giving you a constant edge in combat against adversaries.
+
+>Off-hand ammo pack: Small utility for carrying a few extra energy cells for your weapon or an extra grenade.
+
+>Flamethrower: A simple concealable flame projector. Maximum distance of 10 meters, good for approximately a maximum 5 minutes of constant use.
+
+*004*2013-03-06 06:12
+
+You take a good ol’ reliable AR6L rifle, classic choice of any marine, along with five spare energy cells. You also decide you enjoy guns that make really loud sounds, so you take one of the Winston & Thompson model 25 magnums with you, along with eighteen extra cartridges. (it’s a six-shooter, so 6 times 3 and... math is for the navy)
+
+For ordinance, you take four EC grenades with you. Even if there are no mechanized hostiles, this would at least incapacitate any others.
+
+And lastly, you take an adrenal amplifier unit and you latch it to your left thigh. If, or when battle is upon you, this would greatly increase odds of survival.
+
+Your current inventory:
+
+- 5 AR6L energy cells
+
+- 18 cartridges for M25
+
+- 4 EC grenades
+
+- 1 Medical kit (field). (restores health back to “Fine” condition for 1 person)
+
+- 3 non-lethal door breach charges. (automatically opens sealed doors of level 2 security or lower)
+
+- Water canteen, 400 ml. (for quenching thirst and powdered stimulants)
+
+- 2 Resuscitation stimulants. (returns you or a teammate from “Dying” condition to “Critical”)
+
+- 2 Health stimulants. (temporarily increases damage resistance)
+
+- 2 strength stimulants. (temporarily increases physical strength and melee damage)
+
+There would likely be armories and other facilities aboard the ship that would allow you to resupply and restock, or even change weapons/equipment entirely, but for now...
+
+You don your armor. Leg plating first, then boots. Lower body piece, upper body piece, supplementary chest plate, upper arms then fore arms, shoulder pieces, and lastly, helmet.
+
+“All right, team. Sync your helmets with each other so we can monitor each others status at all times.”
+
+You and the others all touch the left side of your helmets. Your translucent, cobalt visor lowers, and the heads-up display comes on. To the left, you see the names of you and your team come up along with the indicators for everyone’s status.
+
+Squad status:
+
+Isabel (you): Fine
+
+Michelle: Fine
+
+Jenni: Fine
+
+Carly: Fine
+
+“Watch each other’s backs.” You say, “We don’t know what we’re up against and I don’t want any casualties on this mission. Use stims only in emergencies and don’t forget to mix it with water or they won’t work.”
+
+As you know, the loss of a squad member would be a crippling blow to your team’s effectiveness. Though you could easily take on the job that any of them do, you did not specialize and could not perform to the degree that they do in their respective areas.
+
+A quick reference to teammate abilities:
+
+{{: 
+
+You: -Accurate up to 70 meters away
+
+- Hack security systems of up to level 2
+
+- Open sealed doors of up to level 2 security (with charge)
+
+Michelle: - Accurate up to 100 meters away
+
+- Great in ambushing and guerilla tactics
+
+- Carries sniper rifle
+
+Jenni: -Hacks security systems of up to level 5
+
+- Repairs equipment
+
+- Carries freeze gun
+
+Carly: - Opens sealed doors of level 4 security or lower
+
+- Can clear blocking debris
+
+- Carries anti-armor grenade launcher
+
+}}
+
+“All set here, Captain.” Carly reports. “Where are we boarding?”
+
+Good question. There were multiple points of entry, and many ways to handle this.
+
+The most obvious option was to land the shuttle in the Tempest’s fighter bay and make your way from there, though as the obvious route, it could be a trap if indeed someone was there.
+
+Another option would be to enter through the ship’s missile tubes. It was a very inconspicuous point of entry, and you could even drop a team member in a different tube if you had to.
+
+What to do...
+
+>Enter via fighter bay as a team.
+
+>Enter via missile tubes as a team.
+
+>Enter via missile tubes separately.
+
+>Other
+
+*009*2013-03-07 06:13
+
+“Opening hangar force field. Launch shuttle.” You feel the sudden lurch in your seat as the shuttle lifts off from the deck. You feel the slightest amount of momentum as the shuttle begins to move forward, and then nothing as the inertial dampeners kick in. The subtle red glow of the hangar force field fades, and the shuttle jets off into space
+
+“Condition: green. All systems normal, captain.” says the pilot.
+
+“Good.” you respond. “Head for the Tempest port-side missile tubes.”
+
+“The missile tubes, ma’am?”
+
+“If anyone’s waiting aboard that ship, they won’t expect infiltration from the missile bays.”
+
+“Captain, the shuttle won’t fit in those-”
+
+“Follow your orders, warrant officer.”
+
+The man shuts up and turns back to his controls.
+
+You leave the shuttle cockpit and return to the main hold of the shuttle, where your team awaited. “All right, ladies. We’re entering through the energy missile tubes to try and get in undetected.”
+
+“Will the shuttle fit through the silo?” Jenni asks.
+
+“No.” you answer. “Put on your breather attachments, we’re going to jump.”
+
+You reach for the pocket on your right hip and pull out a small crescent-like apparatus that fit perfectly around the open area of your helmet, around the chin. You put it on, and hear a brief hiss as oxygen begins to flow through.
+
+The rest of the squad complies, putting on their own breather attachments.
+
+“Everyone pee before we left?” Carly asked the team.
+
+Everybody laughed, even you, though you did not find the notion very funny because... no. You didn’t pee before leaving. Well, with any luck, the Tempest would have some facilities.
+
+“Captain, we’re in position. Open the door and jump when you’re ready.” the pilot shouts.
+
+“All right, blue team, seal your suits.” Michelle tells everyone. She hits the button at the rear of the hold and the door opens up in the back. There’s a brief pull as all of the air in the shuttle is sucked out. Michelle jumps first, soaring through space toward the massive tubes on the Tempest’s side. Jenni goes next, nearly flipping out of control. Carly then gives you a thumbs up. You take a running jump and leap out with your arms stretched. Slowly the missile tube getting closer...
+
+_____
+
+Chapter One: The Mission Begins
+
+_____
+
+Squad Status:
+
+Isabel (you): Fine
+
+Michelle: Fine
+
+Jenni: Fine
+
+Carly: Fine
+
+Equipped Weapon: AR6L Assault rifle (40/40 shots)
+
+You land with a hard thunk! as your metal boots strike the hard plating of the missile tube. You are quickly followed by another thunk! as Carly lands right behind you.
+
+“All quiet, captain.” Jenni reports.
+
+“Good. Head to the missile door override controls and open the launch seal.”
+
+Jenni walks over to a small nook in the side of the tube. A small scanner interfaces with her helmet, and the door slides open. Inside Jenni works frivolously on a console until the massive doors blocking entry slide open.
+
+“Done.”
+
+“Blue team, move in.”
+
+The four of you head through the giant tube, cautiously.
+
+“Captain?” Michelle starts. “The missiles won’t suddenly fire, will they?”
+
+“The ship’s not in battle, so I would guess not.” You answer. You and your team step into the ship, the massive machine that was the missile projector looming over you. You all continue moving forward through the giant bay until you reach the main corridor. All is still quiet. There are no signs of battle or any indication that there was disturbance... which was disturbing.
+
+You use you helmet’s computer to scan around in the hall way. Results:
+
+- 0 life signs outside of squad
+
+- No evidence of weapons fire
+
+- No residual heat
+
+You then get your helmet to interface with a deck status panel
+
+- Port-side missile bay evacuated approximately 97 days ago due to sudden decompression. Cause: Unknown.
+
+(at any time, if you feel the need to gather more information about something, utilize your helmet scanner to gather detailed information)
+
+You all arrive at the end of the hall, toward the large round double doors of the main lift.
+
+“Okay team, our mission here is to find out what happened to the ship and the crew, and to see if we can return it to the Republic. Our first objective is to...”
+
+>Head for the bridge, retrieve crew logs
+
+>Head for the computer core, retrieve sensor logs
+
+>Head for ship security center, examine security recordings
+
+>Head for main engineering, check engineering logs
+
+>Split up, send one squad member towards each objective
+
+>Other
+
+*015*2013-03-08 03:54
+
+Squad Status:
+
+Isabel (you): Fine
+
+Michelle: Fine
+
+Jenni: Fine
+
+Carly: Fine
+
+Equipped Weapon: AR6L Assault Rifle (40/40 shots)
+
+“...head for the bridge and recover crew logs. Captain’s log takes priority.”
+
+You set the lift destination for deck 1 and step in with your team. The doors slide shut and a low hum begins to resonate throughout the cylindrical room. You know you’re moving, but you don’t feel it.
+
+“Captain,” Jenni asks, “What exactly do we know here? Why did the ship go out of contact for so long?”
+
+You pause for a minute to remember as much of the intel the colonel sent you. “The ship went missing while patrolling the mid-rim colonies. Official reports say that it was an ion storm that threw the ship off course, but a ship of this scale should have been able to endure that. It was believed that local insurrectionists might have attacked it.”
+
+“But it was over nine months ago!” Jenni says.
+
+“Indeed. Now why has it suddenly reappeared here in neutral zone?” There was definitely some mysterious circumstances here.
+
+Suddenly the lift jolts and the low hum quickly dies. The lights black out and you quickly look around for a problem.
+
+Jenni quickly accesses the override panel. You watch as she presses a few keys and gets an irritating “error” beep. “Power’s been cut from the main lift, Captain. Inertial dampeners have gone offline too. If the lift restarts before those are repaired...”
+
+“We’ll be puddles on the wall.” Michelle comments.
+
+The lights come back on and the lift jolts again as it comes back to life.
+
+On instinct, you aim your gun toward the ceiling and blast off the emergency escape hatch. “Everyone out of here! Now!”
+
+Carly jumps up and grabs the ledge, pulling herself to the top. She then helps up Michelle, Jenni and finally you. The lift jolts again and that hum of power begins to sound. You take a quick look around. To your left, about a meter-and-a-half up, the door to the next deck was partially open.
+
+“Jenni, Michelle, open that door!”
+
+Jenni and Michelle go over and pull the sliding doors open as wide as they can. You and Carly quickly jump through followed closely by your squad mates. The lift drops at full speed just as Michelle makes it to safety.
+
+“Too close...” Michelle huffs.
+
+“Do lifts just automatically fail like that?” Carly inquires.
+
+“No.” Jenni answers. “Power had to have been cut and restarted manually. If the lift was damaged it would have been shut down from the beginning.”
+
+That answered that, at least. There was a strong likelihood that someone else was on this ship, and that someone wanted you and your team dead.
+
+“Where are we now?”
+
+Jenni looks over at the lift panel. “Deck 10, ma’am. Living quarters and commons.”
+
+Deck 10... that was pretty far off the path.
+
+“All right, blue team. Lifts are a no-go until we can reach the bridge and remove whoever’s manipulating the controls. Our goal now should be the maintenance access passages. We’ll have to climb, but at least it’s safe.”
+
+The four of you move forward through the halls. They are mostly lit, but still relatively dark in areas. You were also readily exposed. There was virtually no cover, save for the doors perhaps. If an enemy-
+
+POW!
+
+A bolt of energy strikes the wall next to your head. “Contact!” From somewhere down the hall, there were an unknown number of hostiles firing semi-automatics at you. You take cover in a door way with Michelle right next to you; Carly and Jenni take cover in the doorway across from you.
+
+“Orders, Captain?” Michelle shouts.
+
+>Engage! Return fire!
+
+>Engage! Get a grenade in there! (specify squad member)
+
+>Fall back!
+
+>Other
+
+*017*2013-03-08 05:28
+
+I probably should have specified that.
+
+Michelle's Inventory:
+
+{{: 
+
+>SG-N7 Sniper Rifle
+
+>S4L Pistol
+
+>2 Flash-Bang grenades
+
+>2 trip mines
+
+>1 medical kit (field)
+
+>2 resuscitation stimulants
+
+}}
+
+Jenni's Inventory:
+
+{{: 
+
+>AR6L Assault Rifle
+
+>C44 Freeze Gun
+
+>2 Frag grenades
+
+>1 Medical kit (field)
+
+>2 resuscitation stimulants
+
+}}
+
+Carly's Inventory:
+
+{{: 
+
+>GN-535 Submachine gun
+
+>M35 Anti-armor grenade launcher
+
+>3 frag grenades
+
+>2 EC grenades
+
+>1 Plasma grenade
+
+>1 Medical kit (field)
+
+>2 resuscitation stimulants
+
+}}
+
+Edit: Which reminds me, if something is unclear, like the properties of an item or the workings of some device, please ask and I'll try to clarify to the best of my ability.
+
+*021*2013-03-08 19:27
+
+Desperation comes with time, but this can be sped up. The stimulants in our inventory are in powdered form, and must be mixed with water in order to work.
+
+*022*2013-03-09 07:48
+
+Squad Status:
+
+Isabel (you): Fine
+
+Michelle: Fine
+
+Jenni: Fine
+
+Carly: Fine
+
+Equipped Weapon: AR6L Assault Rifle (39/40 shots)
+
+“Engage! Carly, get a frag in there!”
+
+“Roger!”
+
+Carly takes a grenade off of her belt and primes it. Being right-handed, she peeks herself out of cover, and throws the explosive as far she can. Just before Carly can get back into cover, however, a crimson bolt strikes her right in the shoulder.
+
+[Carly -1 frag grenade]
+
+“Agh! I’m hit!” She cries.
+
+[Carly has taken damage]
+
+You hear the grenade bounce along the floor with a tink! and in your head, you automatically count: 3... 2... 1... BOOM! You ears ring from the blast, despite its distance. Centuries into the making and the loud sound generated by grenades has never been dummied down at all.
+
+The sound of gunfire ceases. A light cloud of smoke passes by, and you carefully peek out of cover to see what’s happened. About twenty or so meters away lie the helpless forms of two male humans. They wore light combat armor, but bore no colors or tags.
+
+“Who would you say these guys are, captain?” Jenni asks.
+
+“Nothing but a pair of shrapnel-filled corpses now.” Michelle remarks.
+
+“No tags, no insignia, no indication of an affiliation of any sort, these boys are either pirates or rebels.” You sigh heavily. You might be commandos but couldn’t a mission ever be routine and simple? Just once. “Doesn’t change our objective. We still need to get to the bridge.”
+
+You examine the weapons used by those enemies. Standard civilian handgun, model 7. Outdated and not at all powerful.
+
+“Now we know there’ll be people to greet us.” Carly comments.
+
+“Roger that. Keep a sharp eye out, everyone. Active thermal scanning.”
+
+You walk over to Carly and examine her wound. “You okay, lieutenant?”
+
+“I’ll be fine, ma’am. You know I’ve taken harder hits than this. I can still fight.”
+
+Continuing with your mission, you lead your team further down the corridor. Crew quarters was an expansive deck. On the way however, you manage to locate local information terminal.
+
+“Jenni.”
+
+“Ma’am?”
+
+“Head to that terminal and see if you can download a map of this deck for us.”
+
+“Roger.” Jenni walks over and begins her usual lightning fast typing. A holographic interface appears, she interacts with it, mumbling things to herself. After a few minutes of keystrokes and muffled comments, the interface shuts down. “Done, captain. Uploading map to everyone’s HUD.”
+
+1. Main Lift
+
+2. Primary Quarters
+
+3. Deck Operations
+
+4. Commons
+
+5. Port Maintenance Access
+
+6. Starboard Maintenance Access
+
+7. Deck 10 Life Support
+
+8. Secondary Quarters
+
+That helped. With a complete readout of this deck, navigation would be much easier.
+
+“Hey captain...” Carly asks.
+
+“Yes?”
+
+“I hate to be a bother, but would it be too much trouble if we stopped at a bathroom?”
+
+You raise an eyebrow. “I thought you said you peed before we got here...”
+
+“Ah, if you remember, I merely asked if everyone had peed. I never said I did.”
+
+You sigh audibly. “Did anyone use the bathroom before we left?” The entire team remained silent. “God dammit...”
+
+“Well this is crew quarters, I’d guess that there must be bathrooms in each of these rooms, right?” Carly supposes. She walks over to the nearest room and presses on the panel next to it. A red light comes on saying “Door locked.”
+
+“What’s going on, Car?” Michelle asks.
+
+“The entire deck is on lockdown! All doors are locked with level 3 security seals!”
+
+“Jenni, can you override?” You ask.
+
+Jenni quickly examines the panel. She fiddles with it a bit, but nothing happens.
+
+“No, captain. All the doors are tied to a central terminal. There should be a central control terminal here on this deck, probably in deck operations, but I can override for sure from the bridge or engineering.”
+
+Again, you sigh loudly. The need to pee was one of the stupidest problems ever to hamper a mission. If this mission took place outside on a planet, you’d just let loose in the bushes, of course, but to pee in the corridor would leave a horrible image in the minds of your squad mates. If left unchecked, this could prove to be a problem in the near-future, but the mission...
+
+You had a decision to make. Which was more important, the mission objective, or finding a lavatory?
+
+>Try and find deck operations, release seals on doors.
+
+>Focus on mission (for now), continue to find maintenance access passages.
+
+>Order Carly to place a breach charge on the nearest door and force it open.
+
+>Other
+

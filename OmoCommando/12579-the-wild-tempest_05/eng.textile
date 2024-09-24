@@ -1,0 +1,292 @@
+The Wild Tempest - Page 5
+
+Author: OmoCommando
+
+*100*2013-03-20 00:07
+
+Oh absolutely. A ten-meter cloud of ionized gas that turns anything close enough to it into vapor.
+
+*102*2013-03-20 00:39
+
+Currently unknown. Let's get feedback from the team.
+
+Michelle: (unavailable)
+
+Jenni: Basic sentry drone shields aren't very strong. Using a plasma grenade on them is like cutting bread with a chainsaw.
+
+Carly: (unavailable)
+
+*105*2013-03-20 09:34
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Michelle: Unknown
+
+Jenni: Fine
+
+Carly: Unknown
+
+Squad bladder status:
+
+Isabel (you): 17%
+
+Michelle: Unknown
+
+Jenni: 11%
+
+Carly: Unknown
+
+Equipped Weapon: AR6L Assault Rifle (15/40 shots)
+
+___
+
+“Listen, Natsumi... I don’t want this to come to blows. I think I have enough authority to speak on the Republic’s behalf, so let’s discuss this like rational people.” You say.
+
+“Fair enough.” Natsumi replies, keeping her sword raised. “We want all trading taxes and tariffs lifted, we want improved living and medical facilities for our farmers and miners, we want no military presence, and-”
+
+“Hold on, here!” You say. “I-I’ll relay your... demands, but I hope you realize that this isn’t going to be solved overnight!”
+
+Natsumi just grins. “Hmph. That’s the difference between your offer and the one we have already received, soldier. We’ve been told we’d be left to our own affairs.”
+
+“By who?” You ask.
+
+“The Kauranian Empire.”
+
+“What!?” Had this woman completely lost? Giving this ship to the Empire was a death sentence. They would dissect her and learn all Republic secrets. It couldn’t happen.
+
+“So unless you can come up with a better offer than that.” Natsumi says.
+
+“Once the Republic has been crushed, the Kauranians will just come in and obliterate your colonies! They don’t have to keep their word!” You reply.
+
+Natsumi just sighs, “I can see you are unwilling to listen to reason.”
+
+“Me!?”
+
+“Actions speak louder than words, dear girl.” she looks at her followers then points at you. “Destroy them.”
+
+Before anyone over there can act, you pull the plasma grenade from your belt, prime it, and chuck it towards the group.
+
+[-1 plasma grenade]
+
+That was then end of this rebellion. Or...
+
+The grenade heads straight for Natsumi. While the other soldiers begin to panic, recognizing the incoming hum of a plasma grenade, Natsumi just stands in place with her grin still pasted on her face. Once the grenade was close enough, she swiped it out of the air, spun around and threw it right back at you and Jenni!
+
+“Oh God!” Jenni shouts.
+
+Without thinking, without blinking, you sprint towards Jenni, tackle her and keep her covered. The grenade passes over and you grip your comrade tightly...
+
+The object explodes in a huge cloud of glowing red and violet gases. Unbearable heat and excruciating pain wash over your body as you and Jenni are tossed into a nearby wall from the blast.
+
+[You have taken massive damage]
+
+[Jenni has taken massive damage]
+
+Status:
+
+Isabel (you): Dying
+
+You’re head is ringing, all you see is a blurry haze, the sound of your pulse was the only thing you could hear, and on top of that, pressure is rapidly increasing on your bladder. Raimus’ serum must be trying to filter out the toxins building up in your wounds.
+
+As you look ahead, a familiar shape is lying on the floor. Your rifle! You try to get up, but your legs won’t obey you. If you can just get to your gun...
+
+>Crawl for the rifle.
+
+>Draw your magnum.
+
+>Give yourself a resuscitation stimulant.
+
+>Call Michelle.
+
+>Call Jenni.
+
+>Call Carly.
+
+>Other:
+
+*108*2013-03-20 17:08
+
+You're not dead yet. Dying status is about the equivalent of 1% health. A Resuscitation stimulant will return you to critical status instantly (but add 10-20% to your bladder status). Squad members can also bail you out.
+
+Don't give up!
+
+Edit: Also, Jenni is not in Dying status
+
+*111*2013-03-20 19:48
+
+Reminder: You also have stimulants that temporarily reduce damage taken, and increase physical strength. Just remember you're putting more duress on your bladder with each stim.
+
+*114*2013-03-21 07:19
+
+Squad Status:
+
+Isabel (you): Dying
+
+Michelle: Unknown
+
+Jenni: Critical
+
+Carly: Unknown
+
+Squad bladder status:
+
+Isabel (you): 28%
+
+Michelle: Unknown
+
+Jenni: 16%
+
+Carly: Unknown
+
+Equipped Weapon: None
+
+Alert! - Armor integrity compromised. Armor effectiveness reduced to 69%. Seek armor repair station ASAP.
+
+___
+
+It hurts... everything just hurts. Even breathing is like running a marathon. Your lungs feel as if they’re on fire, but despite the pain, you reach into your belt and pull out one of your resuscitation stimulants and a health stimulant. You quickly mix them within your canteen of water and drink 100 ml.
+
+[-1 Resuscitation stimulant]
+
+[-1 Health Stimulant]
+
+[300/400 ml of water remaining in canteen]
+
+[You have returned to “Critical” Health Status]
+
+[Your bladder status: From 28% to 58%]
+
+Gasp!
+
+Your breathing returns to normal and the pain has lessened. But you have no time to catch your breath. As soon as you stand up, Nastumi’s underlings begin firing at you and Jenni. The two of you take cover at opposite ends of the door.
+
+A single bolt explodes on the wall next to you, and you flinch at the flash. You then feel the slightest sensation of warmth and fluid drip along the inside of your body suit.
+
+Your bladder did not take kindly to all of the excitement and the sudden intake of water.
+
+“You okay, captain?” Jenni asks.
+
+“I’ll manage...” You reply.
+
+One of the drones flies out and looks at you. Unable to access your rifle, you automatically draw your magnum.
+
+[W&T M25 Magnum auto-equipped]
+
+You aim and your finger is about to press the trigger...
+
+A long beam of energy pierces the drone shield and armor, destroying it completely. You follow the shot’s origin, to see Michelle and Carly standing in the corridor, Michelle’s sniper rifle aimed toward the direction of the rebels.
+
+“Good to see you, Captain.” Michelle fires again, and hits one of the rebels right in the head. She then takes a position next to you while Carly heads over with Jenni.
+
+“All right, everyone! Take ‘em all out!”
+
+(spoilered for intense violence)
+
+$$
+
+Michelle crouches down while you cover her. You fire a single blast from your magnum at one of the rebels. The hi-energy bolt knocks him to the ground lifeless, while Michelle takes out the other drone. Jenni and Carly take out the remaining rebels, your superior special forces training prevails over militia tactics, leaving only Natsumi.
+
+“It’s over, Natsumi! Surrender and we’ll spare you.”
+
+Natsumi just grins. “Do you think I am powerless now, trooper?” She twirls her sword as she walks towards you and your team. “Perhaps I should show you what the legacy of the Miyazaki family is.”
+
+Michelle aims and takes a shot at Natsumi.
+
+The robed woman raises her blade and deflects the bolt. “What the...” You didn’t even see her move her arm.
+
+“What do we do?” Michelle asks.
+
+>Everyone fire! Full auto!
+
+>It sure would be nice if we had some grenades in there!
+
+>Regroup and fall back! We can’t win this fight!
+
+>Other:
+
+Side note: No change to the previous states of health to either Carly (Wounded) or Michelle (Fine).
+
+*117*2013-03-21 09:14
+
+Important notice to all users: The Wild Tempest will soon be receiving a hardware upgrade. We're switching from the paper-and-pencil system to the VT PenPad Graphic Tablet system. Updates to story and game may be delayed for a time.
+
+*121*2013-03-22 05:26
+
+So people do not have to go all the back to page 1 and do the math, (and since I won't be posting a story update today) I will put up the current inventories of each character as quick reference.
+
+Isabel’s Inventory:
+
+AR6L Energy cell: 5
+
+W&T M25 Cartridge: 24
+
+Medical kit (Field): 1
+
+EC grenade: 2
+
+Health Stim: 2
+
+Strength Stim: 2
+
+Resuscitation Stim: 1
+
+Non-lethal Charges: 2
+
+Heavy Duty Charges: 1
+
+Michelle’s Inventory:
+
+Sniper Rifle
+
+S4L Pistol
+
+2 Flash Bang Grenades
+
+2 Trip mines
+
+1 med kit
+
+2 Resuscitation Stims
+
+Jenni’s Inventory:
+
+AR6L Assault Rifle
+
+Freeze Gun
+
+2 Frag Grenades
+
+2 Heavy Duty Remote Charges
+
+1 Med kit
+
+2 Resuscitation Stims
+
+Carly’s Inventory:
+
+GN-535 Submachine Gun
+
+Anti-Armor Launcher
+
+2 Frag Grenades
+
+2 EC Grenades
+
+1 Plasma Grenade
+
+1 Med Kit
+
+2 Resuscitation Stims
+
+*124*2013-03-22 21:21
+
+Feedback from the team is always a good idea since it doesn't happen in real-time.
+
+Michelle: She isn't human. I don't know what to do. Maybe surround her and we all fire simultaneously.
+
+Jenni: I've never seen reflexes like that in a person, human or otherwise. Falling back and fighting her on our terms might not be a bad idea, but we have to confront her eventually, or she'll just pick us off.
+
+Carly: She did what with a grenade? Well... my anti-armor rounds detonate on impact, so I'd love to see her catch one of those. Sounds like she's shown us enough surprises already though.
+
