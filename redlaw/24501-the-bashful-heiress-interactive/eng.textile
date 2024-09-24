@@ -1,0 +1,194 @@
+﻿The Bashful Heiress [Interactive]
+
+Author: redlaw
+
+*000*2015-02-01 07:49
+
+So, when I introduced myself yesterday, I said I wanted to start contributing using games, because they cover my difficulties with storytelling quite nicely. This is an interactive story that I have recently been creating ideas for absent-mindedly.
+
+My plan is for this to be quite number heavy, but I’m the only one who will see all that. I’ll generally go with the majority/most significant minority suggestion, adding non-controversial extra suggestions in where I can. Stupid suggestions will be ignored, and suggestions against the nature of the character will require a willpower test, modified to represent the difficulty of the suggestion. I plan to update once every 1 or 2 days, but as my ideas thin, this will probably decrease to once every 3+ days. I probably won’t update on a Tuesday, because of assignments. I make no guarantee that this will last any length of time, but I think I have enough ideas already for it to last a while.
+
+To make combat less time-intensive and boring, rather than have turn-by-turn player commands, I will accept general strategies when combat is joined, and control the combat myself, returning control to the players if something happens (e.g. HP drops below a threshold), and posting a summary after completion. The story will be a generic high fantasy story with a pee-shy protagonist.
+
+Your bladder will be given as a number out of 400, though 400 represents the maximum number that my scaling mechanics are capable of describing; the number can go above, but calculations will consider it at 400. Bladder does not affect stats, but leaking may cause you to skip a turn. Wet clothes will affect how people treat you, and affect store prices. Undergarments shield your clothes from leaks imperfectly.
+
+The system is based on the D100, with attribute tests being rolled against the attribute in question, failing if above (though awkwardly, most other rolls are failing/worse below, so this might be up for change if it becomes too problematic). Levelling up will grant the opportunity to increase attributes, and new spells and abilities will appear when relevant attributes exceed thresholds.
+
+My system is untested, so I may change parts that don’t work.
+
+I think that’s all I needed to say, so let’s get on with the story:
+
+###
+
+You awake to the sensation of pressure in your lower abdomen. You have to pee. You groan quietly as you disentangle yourself from your sheets, fidgeting uncomfortably. A wave of pressure halts your efforts as you fail to stop a short spurt from leaving your body. Fortunately, the heat of last night's fire has not completely left your pitch black room, yet your thin night dress is insufficient to stop goosebumps forming.
+
+You are Emily Elfkin, only daughter of Count Edvard Elfkin, and heir to The County of Elfheim. Your family is named for the belief that it carries the blood of the long-extinct elves that used to live in the county. This belief is reinforced by the fact that your family is known for unusual strength and magical ability (which is how I plan to explain how you can hold your own against multiple other human enemies).
+
+The slippers that you slip into as you leave your bed have a concealed blade, put there at the insistence of the castle’s Marshall, who has been unusually paranoid recently…
+
+As you stumble blindly toward your bedchamber door, you stub your toe on your trunk, a consequence of having changed rooms recently, and thus not knowing where things are. The shock almost causes you to leak again, but by standing, legs tightly crossed, you regain control. As you pass it, you take the extinguished torch from the sconce by your door and light it with your magic.
+
+When you open the door to your bedchamber, a chill wind from the corridor hits you full force, making you shiver and causing you to tense and bend over slightly in an attempt to keep yourself dry. As you look into the corridor, you realise that, in your grogginess, you can’t remember the way to the nearest privy…
+
+The corridor stretches both to the left and the right as far as you can see, and for a moment, you stop to consider how to proceed… [player decision]
+
+I will post all your stats, items and spells once, then in the future, the only ones I will attach to each post are HP, MP, Bladder and clothing condition. I will also post anything that has changed since the previous post, and you can query anything at any time.
+
+Emily Elfkin
+
+Level 1
+
+Str: 30 Wis: 32
+
+Dex: 32 Int: 32
+
+End: 30
+
+HP: 149/150
+
+MP: 88/90
+
+Bladder: 301.5/400
+
+Armour Cond.: 97/100
+
+Pack:
+
+Equipped:
+
+Enchanted Nightgown: 0Arm +2Dex +2Wis +2Int -10 to dignity rolls - 97/100
+
+Slippers: 0Arm
+
+Hidden Slipper Knife: D10 Damage
+
+Spells:
+
+Prestidigitation: [2MP] Small magic effects, such as lighting fires, conjuring small and harmless sensory effects, manipulating small objects etc.
+
+Ice Spike: [5MP] Shoot a lance of ice at a target, dealing 2D10 damage and reducing the target's dex by 1 for 5 turns (does not stack).
+
+Stone Skin: [15MP] Covers you in a magical shield, bestowing 20 armour for 10 turns that does not stack with armour from gear.
+
+*004*2015-02-03 03:29
+
+As you look out into the hall, you wonder if you have anything warmer to wear, and resolve to check to see if your cupboard has been moved from your old room yet (you can’t remember because of your grogginess).
+
+Unfortunately, you discover that your clothes are still in your old room (the servants currently bring them every morning), but something compels you to put on your dagger belt, which contains an ornamental dagger and a small pack with water and a cereal bar.
+
+Items gained:
+
+Ornamental dagger: D10+2 Damage +2Str +2End +3Int
+
+Water: +50MP +2 Bladder per minute for 10 minutes
+
+Cereal Bar: +50HP +0.5 Bladder per minute for 10 minutes
+
+Feeling now somewhat more ready to search, you stride confidently along the left corridor. Upon coming to the next junction, still confident, you again take the left junction…
+
+…only to find nothing but unforgiving stone ahead. At that moment, you are assailed by another spasm, but manage to suppress it with a great deal of twisting and wiggling. Your advance along the other corridor lacks some of the spark of confidence that you had before, but at least you’re making progress.
+
+Soon, you come to a door, the anticipation of a privy causing your bladder to spasm forcefully. You are unable to contain it all, and a small trickle wets your dress further. You go to open it, but you are only able to get it ajar before it is stopped by something, which, on closer examination, is revealed to be a barricade of furniture on the other side. During your examination, a whispered voice calls out “stay out you monsters, I’m armed!”. An eye appears in the gap between the door and the frame, and widens in surprise when it sees you. You recognise the sliver of face to be that of Gerald, an old servant in the castle. “M- Milady?”, Gerald questions. “Quickly, Milady, run, hide! There are monsters about the castle!”
+
+“Don’t be silly, Gerald, monsters don’t exist” you respond dryly.
+
+“Well don’t say I didn’t warn ya. Now run along with ye, don’t let them know where I am.” You consider asking Gerald where the privy is, but embarrassment overcomes you as the words reach your lips. Looking past Gerald, you see a weapon store room, with swords and maces galore, and even a few wands for the magic users.
+
+The barricade has been poorly constructed, and if you wanted, it could easily be forced with your elven strength. However, is there really any reason to arm yourself? You’re only going to the toilet, after all…
+
+As you consider your options, another spasm, accompanied by another trickle of urine, reminds you of your urgency.
+
+[player decision]
+
+HP: 150/150
+
+MP: 90/90
+
+Bladder: 306/400
+
+Clothing Cond.: 93/100
+
+Pack:
+
+Water
+
+Cereal Bar
+
+Slipper knife: D10 Damage
+
+Equipped:
+
+Enchanted Nightgown: 0Arm +2Dex +2Wis +2Int -10 to dignity rolls - 97/100
+
+Slippers: 0Arm
+
+Ornamental dagger: D10+2 Damage +2Str +2End +3Int
+
+*007*2015-02-03 05:50
+
+{{: 
+
+Also, I will like to point out one thing. Her bladder is at 301.5. That will be around 75%. I don't think that's full enough to lose control and leak. But again, I am not a urologist so I don't know
+
+}}
+
+Two comments on that:
+
+1) The number represents the chance of leaking per tick of mechanics, and represents roughly how much she feels she needs to go, it does not represent fullness. 400 only means that the unmodified chance of leaking is 100%.
+
+2) She has a small bladder but is very good at holding, thanks to a) her elven strength, and b) training from politeness rules in medieval society.
+
+*009*2015-02-09 11:15
+
+I would wait for more suggestions, but I kind of just want to get this moving again after a dearth of suggestions, and given the activity patterns on this site, it will probably be dead until I next sleep, at least.
+
+{{: 
+
+Well, my post took a year, I guess, so that's why I said head left looking for containers. :/ Hmmm, maybe ask the guard to let us in to arm ourselves.
+
+}}
+
+{{: 
+
+I say we just look for another bathroom cant be that far can it
+
+}}
+
+<script type="text/javascript" src="/pagespeed_static/js_defer.pbrP1whUgE.js"></script>
+
+I’m going to take that as one vote for trying to get in, one vote for keep going, and I’m going to use a dice roll as a tiebreaker.
+
+Tiebreaker says try to get in.
+
+You decide to try to get in, but pleading with Gerald doesn’t seem like it would get you anywhere, so you attempt to force the door (sorry Gerald). With the best stance you can manage without your pee going everywhere, you brace yourself against the door and heave. To your surprise, the door doesn’t budge. Clearly, Gerald’s fortifications were better than you had originally surmised.
+
+The exertion causes your bladder to spasm, forcing a few droplets from you as your stance collapses. You are not going to be able to get through this door without disgracing yourself. Oh well, it’s not like you needed anything from beyond it anyway…
+
+On seeing your attempts to get in, Gerald starts babbling incoherently. Something about monsters and possession and evil, or something. You hear a loud crash, and see Gerald advancing toward the door with a spear. Not wanting to be skewered, you continue on.
+
+As you round the next corner, you hear voices that you do not recognise approaching from some distance ahead, and the glow of a torch that is not your own from beyond a junction. A niggling feeling tells you that you do not want to be seen by these people, whomever they are. You extinguish your torch and duck back behind the corner whence you came.
+
+As the voices approach, you are able to work out what they’re saying:
+
+“Remember, Elverk wants the Count and his daughter alive. It’s not necessary to keep the Countess alive, but he says his plan would work better if she is.” It’s a group of bandits, looking to kidnap your family on behalf of “Elverk”, a name you recognise, but cannot place.
+
+As you realise what’s happening, your stomach drops, and a two second jet of urine wets your clothing before you remember to hold it. A scream makes it to your lips before you stifle it with a hand to your mouth, gagging on the taste of urine. You need to notify the guards, but you need to do it quietly, otherwise they’ll just grab you.
+
+You turn toward where you *think* the guard station is, and stumble blindly in that direction. Once you gain some distance from the marauders, you relight your torch, using your magic to dim it, so that it’s less likely to be seen. As you do so, you realise that you recognise this part of the castle; it’s close to your old room. More importantly, you know where the nearest privy can be found! However, is that really relevant, given the present situation? As you stop to think about where to go, your bladder convulses violently, causing you to pee forcefully for 4 seconds. Rivulets of urine wend their way down your legs, forming a small pool on the floor beneath you. Your sword belt clatters as you collapse against the wall, focusing all your strength on holding in your pee. [player decision]
+
+HP: 150/150
+
+MP: 90/90
+
+Bladder: 297.5/400
+
+Clothing Cond.: 93/100
+
+Note: As you may have noticed, bladder fullness is actually net decreasing now. This reflects the way my mechanics work, with the bladder value representing the probability of leaking per tick. I probably have the ability, as a maths student, to calculate the value, above which, the bladder tends to empty, and thus, the expected value that the bladder value should gravitate to, but it seems like a lot of work and I hate statistics.
+
+What is important is that the 'max' of 400 is something of a red herring, and represents the limit of my mechanics, not the point at which she will lose it. In fact, a chance to lose it appears after the second leak I describe in terms of "seconds", but it's quite low, even at bladder level 400 (where it is 1/64 every tick). This seems to me to better represent how the bladder works, where the chance represents muscle fatigue, rather than having some max value that the bladder can't fill above (in fact, this 'max amount' in a real bladder is about 36 hours worth of urine, so clearly, it is not the limit that causes one to lose control). I may modify the statistics if I feel they don't accurately reflect what I want them to reflect.
+
+*015*2015-02-12 00:31
+
+Right, I'll be finishing writing the next update tomorrow. I meant to finish it today, but I was distracted by assignments and Final Fantasy. Regarding the current debate, "research" on the experiences subforum suggest that some people tend to leak, but others do not. She does.
+
