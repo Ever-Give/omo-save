@@ -1,0 +1,126 @@
+﻿Fiction System - Get a sneak peak and post feedback!
+
+Author: Kyuu
+
+*000*2012-08-01 21:35
+
+Over the last few days I've been working on developing a new platform for the site. Partially in an effort to bring more attention to the literary aspects this site provides instead of just videos and images.
+
+This is still very much a work in progress, but to put it simply, it's advanced fiction publishing system. An easier, more efficient way for authors to publish, manage, promote their works of fiction and fanfiction.
+
+I'll be posting updates here as things progress.
+
+Organization. To start, I'll explain one of the key areas being improved upon. Organization. The fiction system should make it significantly easier to browse and sort through stories. Instead of having to use the traditional forum system where you're navigating through endless pages of threads, the fiction system provides a much easier and more interactive way of browsing. From the Fiction homepage, you will see a list of all published stories on the site. It will show the author, the average rating for the story, the primary tags for the published story, how many chapters it has, as well how many views and comments it has received.
+
+You may also choose to have it display a page similar to the current portal section of the site, where it will display a brief preview of all the most recently published chapters by all authors in one easy to navigate page.
+
+Once you find a story that you're interested in reading, you'll be able to easily navigate through all its chapters. No pages and pages of comments to weed through in a single thread, no having to search through a users posted topics just to find the one topic for each individual chapter he or she has published.
+
+You will be able to post comments and rate a story through the chapters page.
+
+Customization. With the ability to create your own stories comes the ability to customize the way others access it. Have a few personal fics that you're too shy to share with the rest of the world? You can restrict your stories to be viewable only to registered members or even only to the people on your friends list. You can even take things a step further and specify a custom list of members you want to grant access to an individual story, possibly to gather feedback before making the story public. But besides this, there is also the ability to customize your stories page itself. Add a few custom blocks, such as an "about author" block, possibly even choose the theme you want your posted stories to use.
+
+Drafts. Working between two different editors can be a pain. When you're writing a story that you want to publish on the site, why should you have to save a copy of the story elsewhere, just to copy it back over and continue working on it another day? With drafts, you won't have to. You can start working on your chapter one day, save it, then come back to it another day all from within the site itself!
+
+Following Stories. This is a feature the general community will most appreciate. If you find a story you really enjoy, you may want to follow it, right? The problem with that is that, when you follow a thread on the site, you're sent a notice for every reply that story gets. Comments included. You can't just get a notification whenever the author posts a new chapter. However, with the new system, you can. You can follow individual stories or even follow an author entirely without any hassle.
+
+These are just a few of the features currently available. However, as stated above, it's still very much in development.
+
+Frequently Asked Questions:
+
+Will we have to use this new system? Does this mean the Fiction & Fanfiction forum is being removed?
+
+No. The Fiction & Fanfiction forum is not being removed. The new Fiction system is only meant to be used for self-publications, so any stories linked or copied over from third party sites must still be posted in this section. What about stories I already have posted in the Fiction & Fanfiction forum?
+
+When the Fiction System is ready for public testing, there will be a "publish" function allowing you to publish any posts you've made in the Fiction & Fanfiction forum as chapters. When will this new system be released?
+
+I don't know. It's just something I've been working on in my spare time. Whether it will be published at all is dependent on the feedback that is received, but beta testing should start soon. What are your opinions on what you've seen so far?
+
+*008*2012-09-10 19:38
+
+{{: 
+
+A dedicated story section looks like a great idea to me, and there's not much that I can add.
+
+One feature request and one question though;
+
+- In my opinion, an "archive" feature like the one we already have in PM system would be really neat. Off course omorashi.org is the portal of the stories and it will always be, but sometimes it's useful to have some stories archived offline (on your computer for example).
+
+- Will the new section be accessible by the mobile version of the website? I use this version regularly to read stories on my smartphone.
+
+}}
+
+To answer your second question, yes, the Fiction system will be fully compatible with the mobile template!
+
+I thought I responded to you already, but it must have slipped my mind.
+
+*009*2012-09-13 06:57
+
+While the system is still riddled with issues and is likely nowhere near ready for public use, I'm releasing it for public beta testing today.
+
+Feel free to use it and post feedback. Use this forum to report any bugs you encounter.
+
+*011*2012-09-25 18:31
+
+{{:
+
+Will there be a notification option for when someone comments on your story?
+
+}}
+
+You can follow your own chapters. This will notify you of comments.
+
+*017*2013-02-20 05:30
+
+{{:
+
+I just posted a work of fiction. One chapter. But I can't see it anywhere.
+
+}}
+
+I can see it here,
+
+Chapter 1: Saffron Cymbal
+
+Story: Unexpected abduction
+
+Last Update Feb 22 2013 11:26 AM
+
+But please, please take the time to properly format your posts before submitting anything onto the site. You've been messaged about this once before already.
+
+I'll fix your post this time, but please be sure to triple check your posts in the future.
+
+*021*2013-03-09 02:23
+
+{{: 
+
+The delete story button in the menu only shows up in the archive view, I don't know why.
+
+There might be a bug. In FireFox, clicking the button didn't do anything; I had to right click and open in a new tab to make it delete the story.
+
+}}
+
+Interesting, thank you for the bug report. I'll fix that shortly.
+
+It's primarily meant for users to perform tasks such as deleting stories through the Manage Stories page though. It still works there.
+
+*024*2013-04-06 02:47
+
+{{: 
+
+Hey can we create a story here in the fan-ficiton section and also publish it in the fiction section?
+
+}}
+
+{{: 
+
+(bump)
+
+Wondering this as well...
+
+}}
+
+Yes, you can. You can post your story on the forums and link to your story in the Fiction section in your forum post as well if you want.
+
+The "My Media" button in the post editor makes linking to specific chapters easy.
+
