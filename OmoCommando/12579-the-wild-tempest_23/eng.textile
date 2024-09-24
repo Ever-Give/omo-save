@@ -1,0 +1,270 @@
+The Wild Tempest - Page 23
+
+Author: OmoCommando
+
+*552*2013-06-01 01:12
+
+The Life Support kit contains several stimulants that are intended to boost the healing rate of a person who was recently killed. In addition to a surgical tissue regenerator, there is also unique stim that hypercharges the victim's metabolic rate, causing even highly grievous wounds to close up. This, coupled with Natsumi's own unnatural healing abilities and resiliency creates a reasonably good chance that she will come back from death, though it is unlikely her combat performance will be anything close to what it was previously.
+
+*561*2013-06-01 06:53
+
+___
+
+Squad Status:
+
+Isabel (you): Critical
+
+Michelle: Critical
+
+Carly: Wounded
+
+Lewis: Wounded
+
+Squad Bladder Status:
+
+Isabel (you): 22%
+
+Michelle: 29%
+
+Carly: 22%
+
+Equipped Weapon: AR5L Assault Rifle (7/32 shots)
+
+___
+
+“We’re going with Michelle’s plan. Bring the cannons online, aim manually.” You decide.
+
+“I recommend you take your team to gunnery station 4-A. Just cut back through the hangars and you should end up right there.”
+
+“Understood, Commander.”
+
+“We still have our communications system so I’m going to see if I can contact any other ships in the sector.”
+
+You turn to Michelle. “Since when do you know how to bring starship guns online?”
+
+“Spent many an hour here with some asteroid target practice, back in the day.” Michelle answers. “You tend to pick up how things work in that time.”
+
+“How do we bring the guns online?”
+
+“With the computer inoperable, the bridge can’t issue commands towards systems dependent on its function. By accessing the primary power grid and bypassing...” Michelle spends a good deal of time explaining the procedure.
+
+You can almost feel the smoke coming out of your ears. “...and once the access codes are identified and the computer targeting systems disabled, you just fire away.”
+
+“Okay... I think I got it.” You murmur.
+
+“Don’t worry, Captain. I’ll talk you through it.” Michelle consoles you.
+
+______
+
+As you go on, you end back in the hangar where you had your last encounter with Natsumi. You look at the spot where you had left the body...
+
+The only thing left there is a used up Life Support medical kit.
+
+“Corporal Dean, report.”
+
+“Dean here, Captain.” The soldier reports. “Well... it worked but...”
+
+“But what?”
+
+“Well see for yourself ma’am. We’re here in the women’s locker room.”
+
+You run to the back of the hangar where the locker rooms are. Entering the women’s, you find the corporal and Natsumi both in the middle of the floor. Natsumi immediately looks at you, and your hand goes to your pistol.
+
+But something stops you. The look in her eyes is not one of anger or a desire for vengeance, but... confusion.
+
+“Do I... know you?” The woman asks.
+
+You aren’t sure how to respond. Your mouth opens, but no words come out.
+
+“You don’t recognize us?” Michelle asks.
+
+“Um... no. I don’t... how did I get here?”
+
+“Well...” you start. You weren’t sure what tell her.
+
+“From what I can tell,” Dean says, “she has absolutely no memory of what happened prior.”
+
+Michelle leans over next to you. “Captain, we might have an opportunity here. If she has amnesia, we can probably get her on our side.”
+
+“I agree.” Carly says. “She could be a real asset to the team, especially since Jenni can’t join us.”
+
+> Tell her the truth.
+
+> You’re a member of my team.
+
+> You’re an innocent bystander.
+
+> You’re my mortal enemy. [kill her for good]
+
+> Let Michelle do the talking.
+
+> Other: ___.
+
+*570*2013-06-04 04:56
+
+Squad Status:
+
+Isabel (you): Critical
+
+Michelle: Critical
+
+Carly: Wounded
+
+Lewis: Wounded
+
+Dean: Critical
+
+Squad Bladder Status:
+
+Isabel (you): 23%
+
+Michelle: 30%
+
+Carly: 23%
+
+Equipped Weapon: AR5L Assault Rifle (7/32 shots)
+
+____
+
+You take a deep breath.
+
+“Listen Natsumi, we haven’t met before now, but let me try and explain what’s going on.”
+
+“A-all right...”
+
+You begin telling her of how you boarded the cruiser and encountered the rebels, then later the appearance of the Empire. Under the circumstances, you thought it best to leave out the fact she led the rebels.
+
+“Oh... you’ve had quite an adventure.” She says groggily.
+
+“Can you tell me what you do remember?” You ask.
+
+“Well... I come from the outer Republic colonies, so you can imagine what life there is like. I’ve studied many arts of self defense... and my memory is mostly intact up until the most recent few days.”
+
+“We could really use someone of your talents to help us.” You look at Natsumi’s hips. While she certainly is attractive, you can’t help but notice the lack of sword.
+
+“Did you have a sword?” You ask.
+
+Natsumi’s hand goes to her hip. “Um... yes. It was an important family artifact, actually.” Her face grow increasingly worried. “I don’t remember what I did with it...”
+
+“As much as I’d love to help you find it,” You say to her, “with the looming threat of the enemy cruiser, we have to tend to that first.”
+
+Natsumi nods. “You’re right, of course.” Natsumi reaches inside her robe and pulls out that ebony handgun from before. “I’d be happy to help you. You seem like a decent person.”
+
+“I appreciate it, Natsumi. Sword or not, I’m sure your skills will be invaluable.”
+
+The robed woman blushes ever so slightly.
+
+[Relationship +1 with Natsumi]
+
+You link up your helmet with Natsumi’s bio-signs so you can monitor her health. As you had feared, the Life Support kit wasn’t able to put her at pristine health again.
+
+Natsumi: Critical
+
+“Let’s have you stay near the rear, Natsumi.” Michelle advises. “In your current state, you don’t look like you take much abuse.”
+
+Natsumi looks at you. “What’s your name?”
+
+“Isabel Lester.” You answer. “This is my second-in-command, Michelle Smith, and my demolitions expert, Carly Montgomery. The other two are Republic marines Corporal Owen Dean and Private Reyna Lewis.”
+
+“If you don’t mind, Isabel, I’d like to change out of these robes. They’re kind of a mess.”
+
+“Go ahead.”
+
+Natsumi walks behind one of the locker doors. Looking over, you see her robe fall down to the floor.
+
+You’re getting an overwhelming urge to go over there and see her. She was a woman too, so she wouldn’t mind, right?
+
+You sigh softly. You know in your heart it wouldn’t be a good idea to do something to make her upset. Listening to your good conscience, you turn your head to the side.
+
+At last, Natsumi closes the locker as she finishes. She’s wearing a set of women’s exercise clothing, a tank top and sweat pants for the most part.
+
+“No armor?” Carly asks.
+
+“I like to be nimble.” Natsumi answers. She then charges her gun and gets behind you. “I’m ready when you are, Isabel.”
+
+___
+
+After heading through the corridors and engaging in a few minor firefights, you and your team arrive at your destination, gunnery station 4-A. There are three separate control terminals here on the upper part of a ramp, but from what your XO described, each one would have to be brought online independently.
+
+“Okay Michelle, how do we bring the guns online?” you ask.
+
+“I’m working on it now...” Michelle goes over to the leftmost terminal and begins fiddling around with it. It takes her nearly two minutes to access the guns and bring it online, and you begin to hear a low hum beneath you as power is transferred to the cannon. “Captain, they’re almost certain to detect the weapons powering up. I think-”
+
+The ship lurches as an energy bolt strikes the hull.
+
+“Yup.” Michelle says as she tries to regain her balance.
+
+“Captain, the enemy cruiser has opened fire on us.” Reynolds says.
+
+“I noticed.”
+
+“What’s the status of the cannons?”
+
+“One online, two to go.”
+
+“Without shields, we’re as good as dead. Lieutenant Freeman, status on the computer core.”
+
+“Working as fast as I can, Commander.” Jenni answers. “The processors are still warming up.”
+
+Reynolds sighs in anxiety. “Do what you can, Blue Team. Bridge out.”
+
+“Michelle, can we get the rest of the guns online soon?” You ask.
+
+“If two of us work simultaneously, yes.” She answers.
+
+“All right,” you say and point to Carly, then to one of the terminals. “Carly you’re on that one, I’ll take the next. Michelle, take the final one.”
+
+“Once you’ve input the code, you’ll need to create command bypass and disable the computer targeting control, isolating it from the main system. Then transfer power to the cannon. We’ll also-”
+
+Another plasma bolt strikes. Except it wasn’t from the ship. You look down at the station entrance to see a squad of imperial troopers storming in. They take up positions and begin firing on yours.
+
+“So much for an easy time!” Carly yells.
+
+“Someone needs to cover the team activating the guns!” Michelle yells.
+
+The situation grew ever more dire. You had to keep someone on the terminal to fire the cannon, which meant they couldn’t hold off the troopers. Three stations, six of you. Who had the best chance of defending?
+
+> Send ______, ______ and ______ to operate the cannons while ______, ______ and ______ defend the team. [You, Michelle, Carly, Dean, Lewis, and Natsumi]
+
+> Go with Carly’s plan instead.
+
+> Other: ______.
+
+Character info: Natsumi
+
+{{: 
+
+Colonist and abled warrior, Natsumi is a selfless, honor-bound individual with a strong sense of integrity and justice. Concerned with her fellow colonists plight, she organized a team to try and get the Republic to acknowledge her people’s predicament. As their pleas went unanswered, Natsumi lost faith in the Republic, tuning instead to the Empire, not knowing that they had no intention of keeping their promise with a human.
+
+Skills: Natsumi’s skills revolve around combat mostly. She is a skilled close-combat fighter, with either weapon or unarmed, but is also highly rated for handgun usage. Natsumi knows her technical skills are poor, however, and she often seeks the aid of comrades to compensate for this.
+
+Medical analysis: Subject is currently being enhanced by an unknown serum that amplifies combat and healing abilities. However, she has suffered an injury from a high velocity energy bolt to the lower-right of her breast. Subject is currently suffering from a loss of blood, a punctured lung, several shattered ribs and sudden amnesia. Analysis also shows that subject is being kept alive only by emergency life support equipment and possibly the unknown serum. Further combat trauma/damage may cause her life signs to terminate, regardless of the nature of the wound. If kept out of combat, however, her wounds may heal themselves quickly.
+
+Natsumi’s Health: Critical
+
+Natsumi’s bladder status: 50%
+
+(Side note: Serum appears to be having an adverse effect on subject’s urinary system, causing rapid filling of the bladder)
+
+Natsumi’s Inventory:
+
+Weapons: M-2 Black Arrow
+
+Items: Security Spike (2)
+
+Personal Communicator
+
+}}
+
+*574*2013-06-04 06:35
+
+{{: 
+
+BTW, what does the security spike do?
+
+}}
+
+The security spike is a favored thieves tool used universally for spiking and disabling security systems. (usually doors or computers) Not always successful on high security systems.
+
+A one-time use item.
+

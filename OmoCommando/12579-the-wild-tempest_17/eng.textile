@@ -1,0 +1,442 @@
+The Wild Tempest - Page 17
+
+Author: OmoCommando
+
+*406*2013-04-25 01:32
+
+{{: 
+
+Commando, can we have the entire team's current stats (including the two who just joined). And what skills those two have?
+
+}}
+
+I am always happy to oblige on this.
+
+Squad Status:
+
+Isabel (you): Critical
+
+Michelle: Wounded
+
+Jenni: Fine - (serum-enhanced)
+
+Carly: Critical
+
+Lewis: Wounded
+
+Dean: Wounded
+
+Squad Bladder Status:
+
+Isabel (you): 86%
+
+Michelle: 85%
+
+Jenni: 28%
+
+Carly: 88%
+
+Lewis: 59%
+
+Dean: 51%
+
+Reyna Lewis, Private first-class: Barely a year into her career as a marine before her tour on the Tempest, Private Lewis was a communications specialist for her platoon. Nevertheless, she is a relative greenhorn and the life of combat and warfare is still new to her. She is noted to be remarkably cool under pressure in spite of her inexperience.
+
+Owen Dean, Corporal: The complete epitome of the strong silent type, Dean is the kind of person who can shut up a yappy dog with a mere look. His place on his squad, before the Tempest incident, was point man. Platoon heavy weapons specialist in addition to being a very deadly knife fighter. He has a reputation for being reckless and headstrong, however, acting on what he deems to be the "best course of action."
+
+Inventory update:
+
+Isabel (you):
+
+{{: 
+
+AR5L Assault Rifle
+
+W&T M25 Magnum
+
+AR6L Energy cell: 3
+
+W&T M25 Cartridge: 0
+
+Medical kit (Field): 1
+
+EC grenade: 1
+
+Health Stim: 1
+
+Strength Stim: 1
+
+Resuscitation Stim: 1
+
+Non-lethal Charges: 2
+
+Heavy Duty Charges: 1
+
+}}
+
+Michelle:
+
+{{: 
+
+Sniper Rifle
+
+S4L Pistol
+
+Medical Kit (field): 1
+
+Flash Bang Grenades: 1
+
+Trip mines: 2
+
+Resuscitation Stims: 2
+
+}}
+
+Jenni:
+
+{{: 
+
+AR6L Assault Rifle
+
+Freeze Gun
+
+Dean's Combat Knife
+
+Medical Kit (field): 1
+
+Frag Grenades: 2
+
+Heavy Duty Remote Charges: 2
+
+Resuscitation Stims: 2
+
+}}
+
+Carly:
+
+{{: 
+
+GN-535 Submachine Gun
+
+Anti-Armor Launcher
+
+Medical Kit (field): 1
+
+Frag Grenades: 2
+
+EC Grenades: 2
+
+Plasma Grenade: 2
+
+Resuscitation Stims: 2
+
+}}
+
+Lewis:
+
+{{: 
+
+AR6L Assault Rifle
+
+S4L Pistol
+
+Frag grenades: 1
+
+Communications Jammers: 2
+
+Signal Boosters: 2
+
+}}
+
+Dean:
+
+{{: 
+
+SG7 Wavegun
+
+S4L Pistol
+
+Frag grenades: 1
+
+Medical kit (life support): 1
+
+Old Earth coin: 1
+
+}}
+
+Relationship Scores:
+
+Michelle: -1
+
+Jenni: 6
+
+Carly: 3
+
+Lewis: 0
+
+Dean: 0
+
+*One thing to note: Standard marine armor is not nearly as strong as commando armor, therefore Lewis and Dean will not hold out as long during an intense firefight.
+
+*Another thing to note: When bladder status is at 85% or above, certain circumstances may still cause that squad member to wet themselves. Even when at 100%, you might be able to hold out for a minute or so longer.
+
+*Yet another thing to note: Do not forget that the effects of the serum will end once Jenni pees. Think carefully before telling her its okay to take a leak.
+
+*Oh my f**ing god, he puts up more notes: Explanation of new devices.
+
+Communications Jammer: A radio transmission jammer/scrambler with an effective radius of up to 100 meters. Past 50 meters, however, it cannot discriminate between friend and enemy transmissions.
+
+Signal Booster: A temporary booster to short range radio signals. Someone with good computer skills may be able to apply this to a star ship communications array.
+
+Medical Kit (life support): Advanced medical kit capable of restoring someone from "Killed" status if they have not been dead for too long. Also cures poison.
+
+Old Earth Coin: An ancient piece of currency from a century long forgotten. Dean's good-luck charm, but would someone else see value in this?
+
+*411*2013-04-25 07:20
+
+We are in control of the bridge, and are also in control of the lifts. There is no longer a present danger in using them and therefore all decks and floors are currently accessible. All three objectives are on different floors, in different directions.
+
+Carly has a mysteriously infinite amount of charges, but she is the only one.
+
+Oh yeah, and if I don't include "grenade" in the name of an item, you can safely assume it will not function like one.
+
+*413*2013-04-27 06:18
+
+Squad Status:
+
+Isabel (you): Critical
+
+Michelle: Wounded
+
+Jenni: Fine
+
+Carly: Critical
+
+Lewis: Wounded
+
+Dean: Wounded
+
+Squad Bladder Status:
+
+Isabel (you): 86%
+
+Michelle: 85%
+
+Jenni: 28%
+
+Carly: 88%
+
+Lewis: 59%
+
+Dean: 51%
+
+Current Weapon: W&T M25 Magnum (0/6 shots)
+
+### automatic weapon switch due to ammo depletion ###
+
+Current Weapon: AR5L Assault Rifle (0/32 shots)
+
+___
+
+You straighten yourself out and cease your pee dance. Can’t look like a complete maniac in the face of the troops. It was time to execute a plan.
+
+“Here’s how we’re going to do this,” you start. “Michelle and I will be leading separate teams to handle the objectives.” You turn to Michelle. “Lieutenant, I’m going to have you lead Corporal Dean and Private Lewis to try and lock down the hangar bays.”
+
+In your heart of hearts though, you really wanted something else.
+
+“How do we do that if we couldn’t do it from the bridge?” Lewis asks.
+
+“Each hangar has a control bay on the second floor.” you explain. “If you can get into the computer, you should be able to seal the blast doors.”
+
+Michelle winces. “My computer hacking skills are mediocre at best but I’ll try.” She pauses for a second. “Captain, what if Natsumi’s there?”
+
+“Same as before. Avoid engaging her until the rest of us can join you.”
+
+“That may not be an option, ma’am.” Michelle says. “But we’ll do the best we can.”
+
+You turn to Jenni and Carly. “The rest of us will head for the main reactor. Restoring complete power to the ship is priority because the computer won’t boot without it.”
+
+“Isabel...” Jenni sighs. “The reactor works specifically for the propulsion systems. There’s nothing wrong with the fusion generators so power’s not the problem.”
+
+“Oh...” you say. “Well, the objective stands. Each needs to be online anyway.”
+
+You then address everyone. “Once your objective is complete, head for the computer core. We’ll regroup there. Go!”
+
+___
+
+With the lifts no longer under rebel control, you, Jenni and Carly take the main lift over to the aft section of the ship. With every passing second, though, you can feel your strength lessening. The constant feeling of something heavy pressing down upon your bladder, you were in bad shape.
+
+Carly was no better off. Already she can’t resist the urge to hold her crotch, although with how you know Carly, she probably just doesn’t care.
+
+“Captain...” She says to you. “I don’t know about you but I’m dying here!”
+
+“Use a med pack, Carly.” You say. “That’ll reduce it a little in addition to healing you. I’m going to as well.”
+
+[You have returned to “Fine” status]
+
+[Your bladder status has been reduced to 80%]
+
+[Carly has returned to “Fine” status]
+
+[Carly’s bladder status has been reduced to 80%]
+
+[-1 medical kit (field)]
+
+[Carly: -1 medical kit (field)]
+
+[Medical kits remaining: 0]
+
+“Ahh...” Carly sighs, “That’s a bit better.”
+
+“Yeah... don’t have to pee quite so bad-”
+
+“Oh no! Oh no! Noooooooo!” Michelle yells over the radio.
+
+“Michelle!?” You yell. “Are you all right!? What’s going on!?”
+
+“No, no, no, no, no, no!” she keeps screaming. “Awwwwwww.... damn it...”
+
+Her tone almost sounds more like whining now. “Lieutenant Smith, report! Give me a sitrep!” You hear no words, but you can hear rather heavy breathing in addition to the faint sound of... what is that? Water dripping? You then look at your bladder monitor and notice Michelle’s status.
+
+Squad Bladder Status:
+
+Michelle: 0%
+
+You’re pretty sure you know what just happened, though you had no idea what to say. As the image forms in your head though, your own bladder status began to feel close to 99% instead of 80%.
+
+Carly winces. “Did... she...?”
+
+“I don’t want to know. I don’t want to know. I don’t want to know.” You whisper to yourself. You try your hardest not to think about what you believe happened to Michelle. The mere suggestion of it was setting your nerves ablaze. You deeply consider, letting it go here in the lift. All your troubles could be washed away here, every fluid ounce of agony, discarded while you go about unburdened. All you had to do was open up the suit and let your problem drain away...
+
+But you can’t! You look over at Jenni and Carly and you fret with worry. You can’t simply toss aside your image as a leader just for the sake of release. You might be desperate but you were a soldier, for crying out loud! Gotta maintain some professionalism, even if it would be easier to just let it all go...
+
+Finally, the lift comes to a halt on deck 17. You step off and start running toward the engine room. Maybe the sooner you got the job done, the sooner you could find a damn bathroom.
+
+“How far is it?” you ask.
+
+“Main engineering should be on the far end of that deck.” Commander Reynolds says. “We’re having trouble with internal sensors so I can’t tell you if there’s resistance or not.”
+
+“Understood.”
+
+Pushing through the horrible pain and agony that antagonized your innards, you run down the hall knowing speed is of the utmost importance, in more instances than one. You feel a gentle tingle between your thighs and nearly lose your footing as another spurt leaks out.
+
+You and your team reach the entrance to main engineering in a matter of minutes, but with each minute that passed, the stress on your bladder increased.
+
+Bladder Status:
+
+Isabel (you): 90%
+
+Jenni: 41%
+
+Carly: 90%
+
+That “90%”... it was taunting you. Laughing at your pain and only serving to remind you that it was going to get worse.
+
+“Come on...” you wave your arm forward. “Let’s check out the problem.”
+
+You step into the large room, seeing the giant mechanism that was the Tempest reactor.
+
+“Jenni, check the status of the reactor. Carly, secure the area.” You order.
+
+Jenni runs over to the primary console, pressing a few keys and reading the information that appeared on the screen. Carly, in the meantime, was headed up to the second floo of the room.
+
+“Captain,” Jenni calls, “The core has been taken completely offline. It’ll take a while to get to warm up.”
+
+You were about to give Jenni an order when gunfire erupts on the floor above. Carly leaps over the railing, falling a good 10 meters, and crashing down upon the deck floor.
+
+[Carly has taken falling damage]
+
+“Rebels, Captain.” says the fallen commando. “At least four.”
+
+“Fall back, get to a more defensible position.” You say.
+
+You turn towards the door, but to your surprise, its closed. The rebels must have shut it remotely. Not good.
+
+A lance of blue energy speeds towards Jenni, but her serum-enhanced reflexes allow her to simply step out of the way.
+
+You look at the above floor. You see at the four rebels of which Carly spoke, three with assault rifles and one with a sniper rifle. You and and Carly take cover behind the primary console while Jenni hides off to the side of the rebels somewhere.
+
+“Orders, ma’am?” Carly asks.
+
+You examine the situation again. The angle was nasty, and you weren’t sure if you could get a grenade up there. Even if you could, detonating an explosive around all this equipment would likely result in serious damage to the ship. As long as the rebels had the high ground, you were in deep. You did notice, however, that some of the rebels were standing over a plasma conduit. If you were to reactivate the plasma flow to the reactor and shoot that conduit... well... good and/or bad things could happen.
+
+> Return fire
+
+> Order Jenni to head up and engage them.
+
+> Try a grenade anyway (You: 1 EC; Carly: 2 frag, 2 EC; Jenni: 2 frag)
+
+> Reactivate plasma flow and shoot the conduit
+
+> Other: ___
+
+*424*2013-04-29 07:06
+
+Squad Status:
+
+Isabel (you): Fine
+
+Jenni: Fine
+
+Carly: Wounded
+
+Squad Bladder Status:
+
+Isabel (you): 91%
+
+Jenni: 44%
+
+Carly: 91%
+
+Equipped Weapon: AR5L Assault Rifle: (0/32 shots)
+
+___
+
+Gunfire rains heavily on your position, battering the console from which you hid behind. But with all of them huddled over that conduit, you had to try. All that plasma would vaporize them in an instant. Sure the resulting damage might be severe, as ionized gas tends to not be very discriminatory about what it reduces to base molecules, but at least the rebels would be dead.
+
+Since you remembered the layout of an engineering primary interface, you were able to reactivate the conduit’s plasma flow. As soon as there’s a break in the shooting, you pop up out of cover aim your assault rifle and fire!
+
+Oh yeah... should have reloaded at some point back there...
+
+[You have taken damage]
+
+You feel your muscles waver as you fall to the ground, and you almost lose it. But you are able to retain control of your faculties... for now.
+
+“Carly, shoot the conduit!” You order.
+
+“What!? Captain, that’s suicide! Are you try-”
+
+“DO IT!”
+
+Carly groans, then turns around and shoots the conduit. As expected, it takes nearly a full cell of ammo, but she manages to penetrate the line.
+
+It explodes in a huge cloud of gas and envelops everything within an eight-meter radius, which almost included Jenni. Nothing remains of the rebels, not even the floor upon which they stood. Alarms quickly start blaring throughout the room.
+
+“Warning! Plasma conduit rupture detected within engine room. Containment procedures enabled.”
+
+You look around to see that all exits from engineering are being sealed and locked. You grip your crotch tightly, now realizing that your hastiness has prevented you from reaching a bathroom at all.
+
+“I-Isabel!? What the hell!?” Jenni looks at you with complete surprise. “You do know what plasma is, don’t you? That could’ve killed me!”
+
+[Relationship -1 with Jenni]
+
+“I’m sorry, Jenni,” You say. “I saw that as the most efficient way of dispatching them.”
+
+“It cost us, captain.” Carly remarks. You turn to see her examining the terminal. “Those plasma fires are emitting intense amounts of radiation, and we can’t start up the core.”
+
+“What can we do?” You ask..
+
+“We can try and force the door open, or we can find a way to out the fires.”
+
+You and Carly are both straining due to a great pain, however. Or at least it felt greater at the moment. You didn’t have long to figure a way out until an Isabel-style puddle marked the floor alongside a Carly-style one.
+
+> Hack the door
+
+> Explode the door
+
+> Kick the door
+
+> Find a way to put out the plasma fires
+
+> Other: ___
+

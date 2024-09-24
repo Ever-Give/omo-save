@@ -1,0 +1,72 @@
+Date Panic! 2 - Page 7
+
+Author: OmoCommando
+
+*161*2014-06-15 23:07
+
+"Let's explore that dark hallway!" you exclaim.
+
+"Wh-What!?" Emma cries.
+
+"The dark areas always hold the most interesting things."
+
+"B-But it's pitch black. It's likely we'll get eaten by a-"
+
+"Everything will be fine!" You assure her. "I've got a small flashlight."
+
+Emma swallows hard and nods her head once. "All right... let's do it."
+
+Certainly an intimidating place, you can barely make out the walls at the side. Nevertheless, you had to display an air of confidence in front of your date. Without any other means of illumination, you automatically pull out and equip your flashlight.(Battery 100%)
+
+The hall appears to go in a single direction only. Cobblestone walls around you, a musty scent, the occasional sound of a rodent scurrying away to avoid the light. It almost felt like you were in some sort of video game.
+
+"Don't leave me behind or anything, all right?" Emma says to you.
+
+"I would never do such a thing!" You reply. Under no circumstance would you ever abandon your date. To do such a thing would be criminal.
+
+"Maybe this wasn't such a great idea..." she whines. "I mean what if someone's living down here?"
+
+"In this darkness? Unlikely."
+
+You look back at Emma. She's staying close to your left side, but still being a somewhat distant.
+
+###
+
+At last, you reach the end of the dark corridor. Shining your light ahead, you appear to be in a large room of some kind. There's a simple wooden table in the middle, along with three wooden chairs. There appear to be a few objects on the table, but you can't make them out in this darkness.
+
+There also appear to be two cabinets on the walls. Each could hold something interesting.
+
+At the other end of the room, there are doors. One is a simple wooden door while the other one looks like solid iron. Both appear shut securely.
+
+How should you proceed?
+
+> Examine Table
+
+> Examine Cabinet 1
+
+> Examine Cabinet 2
+
+> Enter the wooden door
+
+> Enter the iron door
+
+> Check on Emma
+
+> Give Emma something from your inventory (Rose, chocolates, water bottle, twelve-sided die, paper clip, flashlight, phone)
+
+> Other
+
+Current Trust Level: Warming up
+
+*164*2014-06-15 23:48
+
+{{:
+
+Check on Emma then examine Cabinet 1.
+
+}}
+
+"How are you doing?" you ask Emma.
+
+"Kind of nervous... a little thirsty too..."
+

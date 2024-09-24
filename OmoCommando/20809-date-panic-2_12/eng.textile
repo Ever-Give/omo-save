@@ -1,0 +1,56 @@
+Date Panic! 2 - Page 12
+
+Author: OmoCommando
+
+*286*2014-09-12 21:01
+
+"Hmmm... is the key really that important? Well if that's what you think is best, then we can do that first."
+
+*295*2014-10-01 02:28
+
+Before anything, you shut the door behind you to make sure that the monkey doesn't escape.
+
+"All right, I'll share a drink with you." You say.
+
+"Great!" Emma says with a smile. "I found these in a boxed set earlier!" She puts two wine glasses down on a small table next to you.
+
+"Are they clean?" you ask.
+
+"They've been tucked away in a box inside of a drawer. I'm pretty sure they're fine."
+
+You shrug, then you yank the cork out from the wine bottle. With the glasses ready, you begin to pour a bit of wine into the them.
+
+It was an odd, almost florescent dark blue shade. You had never seen anything like it before.
+
+"Cheers!" Emma says.
+
+You both take a drink from your glass. As you begin to process the peculiar taste, your tongue is overcome by a sudden, but slight burning. This drink had more of a kick to it that it seemed. Some sort of spice must have been added to it. Not bad though. You turn to Emma to ask her what she thinks.
+
+"Mwaaaahh!!! It's hot! It's hot!" She cries. It was as if she just drank hot sauce. Emma jumps around, fanning the inside of her mouth. "Water! I need water!"
+
+You grab the half-filled water bottle from your inventory and hold it out in front of you. Emma snatches the bottle and quickly drinks its contents.
+
+[items lost: water bottle]
+
+"Feel better?" you ask.
+
+"A bit." she responds. "That was a lot more flavor than I anticipated! I could use some more if there's any lying around!"
+
+In search of something to cool your date's mouth off, you look around, heading through the racks and shelves until you reach the end. There, in a nook, sat your little key thief. It looks up at you with a worried frown.
+
+How will you deal with the monkey?
+
+- Try talking to the monkey
+
+- Give the monkey an item (specify item)
+
+- Throw an item at the monkey (specify item)
+
+- Use violence!
+
+- Other
+
+Current Trust Level: Friendly
+
+Current Fear Level: Cautious
+

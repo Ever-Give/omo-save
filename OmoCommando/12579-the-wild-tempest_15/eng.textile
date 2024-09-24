@@ -1,0 +1,196 @@
+The Wild Tempest - Page 15
+
+Author: OmoCommando
+
+*351*2013-04-15 09:30
+
+Rewinding battle...
+
+___
+
+Squad Status:
+
+Isabel (you): Fine
+
+Jenni: Fine
+
+Squad Bladder Status:
+
+Isabel (you): 52%
+
+Jenni: 1%
+
+Enemy Health:
+
+Natsumi: Superior
+
+Enemy Bladder:
+
+Natsumi: 40%
+
+Equipped Weapon: W&T M25 Magnum (6/6 shots)
+
+___
+
+“It’s time, Jenni.” you say. “Use the serum.”
+
+Jenni takes the serum from her inventory, readies it and presses it against her neck
+
+“Argh!” A kick from Natsumi sends both Jenni and the serum flying in different directions. You try to watch for it, but you lose track of the serum once Natsumi engages you. You carefully watch that blade, knowing it would cause massive damage to you.. and possibly instant death if you were really careless.
+
+You quickly pop a strength stim into your canteen and drink it.
+
+[-1 strength stim]
+
+[200/400 ml remaining in canteen]
+
+[+5% to bladder status]
+
+[+100% Physical strength]
+
+No sooner than later was Natsumi upon you, before you could even draw your weapon. Adrenaline kicks in, time seems to slow down, you know you have to react now! As Natsumi’s blade lunges towards your body, you barely manage to move to the side, but the blade misses you, instead Natsumi connects with your fist to her face!
+
+[Natsumi has taken damage]
+
+“Owwww!” you wail. Striking something moving at that high of a speed was not pleasant, for you or the object with which you struck. Natsumi lies on the ground slightly dazed.
+
+“Isabel! I got it!” Jenni yells as she hold up the serum.
+
+“Use it!”
+
+Natsumi jumps to her feet, and begins to charge after Jenni, but you quickly grab her by the rim of her robe, nearly pulling it off.
+
+“H-hey! What do you think you’re doing!?” Natsumi quickly kicks you away, sending you flying into a large metal crate.
+
+[You have taken damage]
+
+You quickly get up and see the crate has a long rubber hose in it, about ten meters long, you guess, and a lot of copper wire.
+
+By the time you and Natsumi regain your bearings, Jenni has already injected herself with the serum.
+
+[-1 Performance enhancement serum]
+
+[Jenni’s health has increased to “Superior”]
+
+[Jenni gained +300% strength, speed, agility and reflex]
+
+[Jenni’s bladder status growth rate increased by 100%]
+
+Jenni then looks over at the samurai and grins evilly. “Alright, Natsumi. Let’s see what you can do now.”
+
+Natsumi scoffs. “Your serum lacks a crucial ingredient to make it last indefinitely. Without it, the effects of it will end as soon as you pee.”
+
+You grimace at the fact, but now is the time to attack. “Freeze gun, Jenni!” you yell.
+
+Jenni draws her pistol and begins firing at Natsumi.
+
+She blocks the shots, but her sword is quickly becoming encased in ice. You follow up with a few shots from your magnum, which Natsumi either blocks or avoids. You and Jenni continues firing until your ammo is depleted. Natsumi’s sword is covered in ice, but she then strikes the ground with it, shattering the ice. Much to your dismay, the blade remains intact.
+
+“Innovative, but futile.” Natsumi taunts.
+
+You grit your teeth. So long as this woman is aware of your presence, you cannot hit her.
+
+Natsumi walks up to you casually. “Careful captain, the fate of the Republic hinges upon this fight!” You watch her sword prepared to avoid at a moments notice, but had forgotten about other methods of attack. “Hyaa!!!” Natsumi delivers a swift kick into your abdomen sending you flying again and crashing through a door behind you, leading to more maintenance passageways.
+
+[You have taken damage]
+
+> Have Jenni attack with the knife.
+
+> Lead Natsumi into the passageways.
+
+> Have Jenni attack from a distance.
+
+> Try to steal Natsumi’s robes.
+
+> Try and do... something... with the hose and wire. (or have Jenni do it)
+
+> Other: ___
+
+*362*2013-04-17 09:18
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Jenni: Superior
+
+Squad Bladder Status:
+
+Isabel (you): 57%
+
+Jenni: 4%
+
+Enemy Health:
+
+Natsumi: Superior
+
+Enemy Bladder:
+
+Natsumi: 43%
+
+Equipped Weapon: W&T M25 Magnum (6/6 shots)
+
+___
+
+“We’ll never win like this, Jenni. Time to change tactics.” You say over the radio, while you reload your magnum. “I’ll lead her up through the maintenance passages, you follow and attack.”
+
+Natsumi turns to Jenni, but you quickly fire four shots from your magnum at her. Natsumi deflects the blows, but nearly falls over from the forceful impacts.
+
+You run up through the passages with the samurai warrior in close pursuit. As you run down the long passage, you turn and Natsumi is upon you.
+
+Your foe is quickly greeted by a knife-wielding Jenni. Natsumi barely manages to block the attack. It is furious exchange of slashes, thrusts and blocks. Being able to keep up with Natsumi’s speed and strength, Jenni seems evenly matched with the woman, but it is clear that Natsumi is a trained sword fighter. Jenni is not.
+
+Natsumi manages to cut Jenni in the side.
+
+[Jenni has taken damage]
+
+Natsumi falls for a feint by Jenni and takes a blow to the shoulder.
+
+[Natsumi has taken damage]
+
+Natsumi parries Jenni’s next attack and delivers a fast slash to her body, knocking her away.
+
+[Jenni has taken damage]
+
+You aim your magnum and fire the remaining two shots at Natsumi.
+
+While engaged with Jenni, Natsumi must’ve forgotten about you. Both shots connect with Natsumi’s back.
+
+While stunned, you run up to her, and...
+
+Your kick sends her flying into a wall.
+
+[Natsumi has taken major damage]
+
+Natsumi: Superior --> Fine
+
+“Ergh... Very good, captain...” Natsumi says as she gets up. She charges you, and you manage to avoid a fatal lunge by grabbing her sword arm. You struggle trying to keep it away from you, but despite your stimulant, Natsumi’s strength is still greater than yours. She’s winning the standoff.
+
+“Jenni...” you grunt. “Get her robes!”
+
+Jenni runs up, grabs the rim of Natsumi’s robes and tugs hard.
+
+Natsumi’s strength lessens and her face turns bright red. “Wh-what the hell!?” She screams. You quickly push her away.With her robe gone, you see the holster where she kept that “Black Arrow” pistol hidden. She draws it, aims at you and fires twice.
+
+[You have taken damage]
+
+Isabel (you): Wounded --> Critical
+
+Both shots connect with your torso and knock you off your feet. Jenni takes the opportunity then to use some of the copper wire and wraps it around Natsumi’s neck. The woman drops her sword and struggles with the wire, unable to move, but you’re not sure how long she’ll stay that way.
+
+> Reload your magnum and fire.
+
+> Switch to assault rifle and fire.
+
+> Left hook, right hook, heavy blow, one-two finsher
+
+> Kick her in the ovaries.
+
+> Continue letting Jenni strangle her.
+
+> Try and negotiate with her.
+
+> Other: ___
+
+$
+

@@ -1,0 +1,374 @@
+The Wild Tempest - Page 20
+
+Author: OmoCommando
+
+*478*2013-05-18 09:17
+
+Isabel’s Inventory:
+
+{{:
+
+AR5L Assault Rifle
+
+M8 SD Pistol
+
+AR6L Energy cell: 3
+
+220 Megajoule energy cell: 0
+
+Medical kit (Field): 0
+
+Medical kit (Burn): 1
+
+EC grenade: 1
+
+Health Stim: 1
+
+Strength Stim: 1
+
+Resuscitation Stim: 1
+
+Non-lethal Charges: 2
+
+Metal Cutter
+
+Oxygen Mask
+
+Storage Canister (empty, broken)
+
+}}
+
+(and this one is large enough to store the full contents of your bladder, though there is currently no way of covering it)
+
+*485*2013-05-20 09:58
+
+Chapter 6: The Enemy of my Enemy...
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Jenni: Fine
+
+Carly: Wounded
+
+Squad Bladder Status:
+
+Isabel (you): 16%
+
+Jenni: 93%
+
+Carly: 16%
+
+Equipped Weapon: AR5L Assault Rifle (22/32 shots)
+
+___
+
+“I’m going to head up to the control bay and seal the hangar bay doors.” You say to the team. “Stay here, watch out for hostiles.”
+
+“Isabel...” Jenni whines.
+
+“Hm?”
+
+“My bladder...” she whispers, hands still clasped tight over that lower body armor.
+
+“Not yet.” You whisper back.
+
+You head up the ramp over towards the control bay. As you reach the door, you find that it has been sealed. Naturally. Not seeing any other quick fix, you pull out one of your non-lethal charges and stick it on the locking mechanism.
+
+You set the charge and take a set back.
+
+Pow!
+
+The mechanism is destroyed and the door slides open. You step inside and head over to the controls. As quickly as you can, you log in with your own command codes and input the appropriate command. Outside of the hangar force field, you see the massive metal double doors slowly close shut followed by a loud clang!
+
+“Michelle,” you say over the radio, “Status update.”
+
+“Hangar 2 is sealed, Captain. We’re headed for your position now.”
+
+“Good.” You turn to exit the control bay when you see a third figure standing amongst your team, and whoever it is has Jenni and Carly on edge.
+
+“What’s going on, Carly?” You ask.
+
+“You’d better get down here and see for yourself, ma’am.”
+
+You reach the bottom and you see the face of your old adversary. It was Natsumi and she’s looking at you with a very vengeful stare.
+
+“You came back.” You say dryly.
+
+“I was telling your team that I was looking for you.” She says with an equally dry tone.
+
+“How’s your rebellion doing?”
+
+Natsumi winces ever so slightly. “They’re... dead. The Empire spared no one.”
+
+Every urge in your mind and body was telling you to rub that in her face, but the deaths of so many at the hands of merciless enemy was simply not a laughing matter.
+
+“My cause is dead, Captain, along with my men. I have no reason to continue here, save for one.”
+
+“What’s that?”
+
+“To see which of us is the better warrior.”
+
+“What?” Your eyes widen.
+
+“We didn’t get to see last time due to that one,” Natsumi gestures to your desperate comrade “but I want to see if you have what it takes to defeat me.” Natsumi drops into a combat-ready stance.
+
+You spot movement in the far corner of the hangar. Three soldiers enter the area, one of them wearing a familiar set of blue armor. It was Michelle! She discreetly takes up position behind a few barrels, and aims her sniper rifle at Natsumi.
+
+“On your signal, Captain.” Michelle whispers.
+
+“Just you and me, Lester. No weapons, no tricks, just a fight of fists and fury.”
+
+“Why would I agree to this?” You ask.
+
+Natsumi pauses for a few seconds. “If you win, I will... join your cause. There’s nothing else for me here, but I will gladly follow a stronger woman.”
+
+“And if refuse your challenge?”
+
+“You will not. As soon as your back is turned I will kill you.” She says evenly.
+
+A bead of sweat trickles down your cheek. Natsumi’s skills would be a tremendous asset. But could you beat her on your own?
+
+Michelle was still waiting in the distance, her rifle trained on Natsumi. If the samurai was unaware of her, Michelle would likely kill Natsumi instantly. You could end this problem once and for all, but you'd be throwing away an invaluable partner...
+
+> Accept Natsumi’s challenge (Natsumi will offer a med kit to make the battle more fair).
+
+> Signal Michelle to shoot Natsumi.
+
+> Have Jenni try and subdue Natsumi.
+
+> Try and run away
+
+> Other ______.
+
+(inb4 “Challenge Accepted” meme)
+
+*497*2013-05-23 07:40
+
+/link reestablished with squad member “Michelle”
+
+/link reestablished with squad member “Lewis”
+
+/link reestablished with squad member “Dean”
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Michelle: Critical
+
+Jenni: Fine
+
+Carly: Wounded
+
+Lewis: Wounded
+
+Dean: Critical
+
+Squad Bladder Status:
+
+Isabel (you): 18%
+
+Michelle: 23%
+
+Jenni: 95%
+
+Carly: 18%
+
+Equipped Weapon: AR5L Assault Rifle (22/32 shots)
+
+___
+
+While you keep your face as still as stone, inside your guts are turning. After everything this woman had done, how could you possibly trust her? After all, she attacked you and she... well she... actually, that’s the only thing she did.
+
+It didn’t matter. Every impulse and instinct told your Natsumi was not to be trusted. However, you had underestimated her prowess before. Natsumi was expecting you to play fair? Ha! Boy, will she be surprised.
+
+“Michelle,” you whisper into your comm. “I’m going to distract Natsumi. As soon as you think her attention is 100% focused on me, waste her.”
+
+“Got it.”
+
+It takes every ounce of willpower you have not to smile at your diabolical plan.
+
+“I accept, Natsumi.” You say to her. “You promise to aid us should I win?”
+
+The woman nods. “I am bound by a code of honor, Captain. Deception is not in my nature. I simply will not follow someone I deem to be weaker than me.” She looks solemnly at you. “You have my word I follow without question if you should win.”
+
+Yeah. Sure. Because you had every reason to accept her word.
+
+You cast your weapons aside.
+
+[isabel: -1 AR5L Assault rifle]
+
+[isabel: -1 M8 SD Pistol]
+
+[isabel: -1 EC grenade]
+
+You then ready your fists.
+
+“If I might ask, before we begin. Why follow us?” You ask. “Why not fight the empire yourself?”
+
+Natsumi looks to the ground. “I... I...” You see a tear begin to fall down her cheek. “Everyone trusted me... all those men and women. I thought I was doing what was best, but I got them killed.”
+
+“Why did you trust the Empire over the Republic?” Carly asks.
+
+“Because we weren’t making headway with the Republic!” The woman shouts despairingly. “Our requests and demands for additional food and medical supplies went unanswered for years!” More tears began to stream down Natsumi’s face. “I had to watch my own sister die from starvation because your government thought we weren’t important enough to help!”
+
+“What’s she yelling about, Captain? You want me to waste her or not?” Michelle whispers over the radio.
+
+“Stand by...” You respond.
+
+“You want me to waste her or not?”
+
+“Stand by!”
+
+Natsumi wipes the tears from her eyes. “I would have taken any solution to our problems after that... no matter who else it came from. Yet even after all that, the Empire simply betrays me and leaves me with nothing.”
+
+“Natsumi...” You can’t help but feel some sympathy now. You knew yourself that the plight of the outer colonies was one of suffering and hardship.
+
+“Enough of this.” She declares. “I didn’t come to debate my mistakes. I came to rectify them... but I won’t follow someone who’s heart is weak. Prove your strength of conviction to me.”
+
+You nod slowly. “All right...”
+
+“One moment, captain.” Natsumi says. She reaches into her robe, pulls out a medical kit and throws it to you. [+1 medical kit] “No honor in fighting a wounded opponent. I will see that-”
+
+BANG!
+
+Natsumi’s reflexes are good, but unaware of Michelle’s presence is not able to dodge the bolt. It sails right through her back and out of her chest.
+
+“Got her...” Michelle says enthusiastically.
+
+For once in the time you’ve known her, Natsumi has a look of shock and pain. She falls down to the floor with a hard crash. You run over to her, and turn her over.
+
+“After all that... and now... this?” She coughs.
+
+_____
+
+Natsumi’s eyesight begins to darken, her eyelids flutter as the life begins to drain away from her body. A small glimmer of hope then appears... but why? Natsumi looks off at the distance, and sees the slender figure of a young girl. Something... seemed familiar about her.
+
+“It’s time to come home, Natsumi!” She says in delight.
+
+“Hitomi... my dear sister...”
+
+“I’ve been waiting for you! And so are the others!”
+
+Natsumi looks around the hangar, seeing the faces of all the men and women she had lead. Friends who had lost their lives in the unending struggle to survive in the colonies.
+
+“My friends... forgive me... I was blinded by revenge...”
+
+Hitomi smiles. “No one blames you, Natsumi. We love you!” She holds Natsumi’s hand firmly. “We all know that everything you have done was to help us; to make our lives better, and no one is going to hate you for that.” The younger girl pulls on her older sister’s arm. “Come on, it’s time to go now.”
+
+Natsumi smiles faintly. In a brief moment... all the pain was gone. The Republic soldiers were gone, even the ship around her was gone. Her world became enveloped in a sensation of warmth and light.
+
+______
+
+As you watch the woman, the shine of life in her eyes dims away. You don’t know what it was she was seeing, but in her final moments, she somehow found peace. In spite of all her posturing, she was only a victimized woman intent on improving the quality of life her friends and family suffered under.
+
+NATSUMI HAS DIED
+
+Michelle walks up, holding her rifle proudly.
+
+“Michelle!? Why did you do that!?” You yell.
+
+Her proud expression turns into one of confusion. “What are you talking about?”.
+
+“Why did you shoot her!?”
+
+“Because those were your damn orders!”
+
+“I... I...” You heart fills with guilt like water into a sieve. That woman was a complete victim of circumstance, and no matter how you tried to rationalize it, it was indeed, your fault, your orders, your decision that killed her.
+
+“You ordered that!?” Jenni yells. “Isa- Captain... why!?”
+
+“I-I was going to trick her and then have Michelle shoot her because I thought-”
+
+“You fought dirty!?” Carly adds to the yelling.
+
+“With all due respect, you struck me as far more honorable than that, Captain.” Jenni says.
+
+Michelle grins. “I liked it. I love catching my targets off-guard like that.”
+
+[Relationship +1 with Michelle]
+
+[Relationship -1 with Jenni]
+
+You look over at the two marines, who are completely baffled as to what’s going on.
+
+“We’re not discussing this in front of other troops. We have a mission to complete. Everyone head for the computer core. First though...” You pull out the broken storage container. “Jenni, relieve yourself.”
+
+“Awww.... I’m tired of peeing in containers.”
+
+“I’m offering you a quick alternative to peeing yourself or on the floor. Take it or leave it.”
+
+Jenni grumbles. “Fine....not gonna last much longer anyways.”
+
+Jenni takes the canister from you, then goes behind a few crates and containers. After a bit shuffling and moving around the distinct noise of urine splattering the inside of a metal canister could be heard. Everyone, for some unknown reason, turns their heads to see.
+
+“Please, by all means, watch me pee in a can!” The girl yells while blushing rather strongly.
+
+[Jenni has peed. Bladder status reset to 0]
+
+[The effects of the serum have worn off!]
+
+Once she finishes, Jenni holds the can up and starts looking around frantically. “Um... captain? How do I close this?”
+
+“I... kinda broke the lid.” you laugh. “You’re going to have to carry it.”
+
+“Why!?”
+
+“I have reason to believe your urine will have potential scientific benefits.” You state calmly.
+
+Jenni gives you a very annoyed look. “I’m starting to not like you.”
+
+(Weapons retrieved before moving on, don't worry)
+
+_____
+
+As you travel through the ship, you pass by a cargo bay. Private Lewis grabs your shoulder.
+
+“Captain, can I suggest we stop and take a brief rest here?” She says. “We’ve been on the move for a while and I don’t think anyone’s eaten in a while. One of our camps was in here and I think there’s some leftover rations.”
+
+You nod. “You’re right, Private. Everyone into the cargo bay; take five.”
+
+You step into the bay, and sure enough, a small camp made by the survivors was there with a few emergency rations. You grab six packs, hand one out to each squad member and keep one for yourself.
+
+It had, indeed, been a few hours since you last ate, and you were getting tired too. You’ve been running around the ship solving mysteries, assembling serums and all sorts of things and the exhaustion was wearing you down. You could see it in you team’s eyes as well. They needed sleep. As soon as the computer core was restarted, it would be best if you tried to get some shut eye.
+
+In the mean time, you had enough time to chat with one member of your squad.
+
+> Talk to Michelle
+
+- “Tell me about your career so far.”
+
+- “By the way, nice shot on Natsumi.”
+
+- “Michelle, I think I’m in love with you.”
+
+> Talk to Jenni
+
+- “Any thoughts on how to proceed?”
+
+- “How’d you learn to be such a good hacker?”
+
+- “Are you interested... in a new girlfriend, by chance?”
+
+> Talk to Carly
+
+- “Tell me about your career so far.”
+
+- “Want to have sex? Right here, right now?”
+
+- “Carly... you should know I have feelings for you.”
+
+> Other: ______.
+
+Current relationship scores:
+
+Michelle: 0
+
+Jenni: 4
+
+Carly: 5
+
+Natsumi: 1
+

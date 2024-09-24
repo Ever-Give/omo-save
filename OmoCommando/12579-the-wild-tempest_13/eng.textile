@@ -1,0 +1,142 @@
+The Wild Tempest - Page 13
+
+Author: OmoCommando
+
+*305*2013-04-10 19:34
+
+{{: 
+
+Damn! I didn't think of leaving someone to guard Raimus.
+
+Use Jenni's urine since she really has to go anyways.
+
+}}
+
+So it shall be.
+
+___
+
+Squad Status:
+
+Isabel (you): Poison
+
+Michelle: Fine
+
+Jenni: Wounded
+
+Carly: Fine
+
+Squad Bladder Status:
+
+Isabel (you): 48%
+
+Michelle: 52%
+
+Jenni: 83%
+
+Carly: 57%
+
+Equipped Weapon: W&T M25 Magnum (6/6 shots)
+
+______
+
+You make your decision. Jenni is the best person for the job. If anyone can fight Natsumi, it’s her. You pull out the container and toss it to Jenni.
+
+“I’ve thought about it, Jenni. I want the serum to be for you.”
+
+Jenni catches the container and looks at you with widened eyes. “A-are you sure, Isabel? You really think I can fight Natsumi?”
+
+You grin. “Once we have our serum, yes.” You give her a light hit on the shoulder. “I believe in you. I know you can do it.”
+
+Jenni is clearly in disbelief. She stares blankly at the small container, then after nearly ten full seconds, she unscrews the lid.
+
+“Um... I’d like some privacy... please?” Jenni asks.
+
+“It’s a lab, kid, not a locker room.” Michelle answers. “Were not waiting out in the hall just ‘cause you don’t like people watching you pee.”
+
+Jenni frowns and glares at Michelle, then proceeds to remover her lower body armor. As she did before, she opens her body suit at the crotch, quickly covering herself with the open container. You can’t help but feel just slightly excited upon seeing that small patch of pale flesh between her legs.
+
+You then hear the sound of liquid spraying into the glass jar. You watch your comrade as she releases her urine into the jar... but you see a problem surfacing. That little container was filling up with pee too fast!
+
+“Aiiee!!” Jenni shrieks as her urine overflows from the top of the container, spilling onto her suit. “I-I can’t stop!” Jenni covers her crotch with her free hand in a vain attempt to stop the flow of urine. Yellow streams spray from the cracks between her fingers, and a pale yellow puddle quickly grows from beneath the lieutenant as she continues to pee on the floor.
+
+[Jenni has peed. Bladder status reset to 0]
+
+The ever-blushing lieutenant just stands there in her own puddle, looking at you with a helpless expression, face as red as a plasma bolt.
+
+“H-here... c-captain...” With a shaky hand, she gives you the dripping container of her urine.
+
+[obtained "150 ml container (Jenni's urine; full)" ]
+
+Unsure of what to make of what just occurred, you take the jar and lid. You then close the pee-filled container.
+
+“Thanks, Jenni...” you say behind gritted teeth. “Why... don’t you go clean yourself up?”
+
+“Y-yes ma’am...” Holding her crotch, Jenni slinks away to the other side of the lab.
+
+You grab your chest again as another series of coughs forces its way out of your lungs. No blood this time, but the internal pain was becoming worse. Your vision darkens, your legs weaken, and your consciousness begins to drift... but then you wake up. You're still alive, for one reason or another.
+
+You had other problems to tend to, however. As the one with the most extensive chemistry knowledge (which wasn’t saying much), the duty automatically fell to you for the completion of the anti-Natsumi serum. You had all that you needed. You have:
+
+Grade C bio-regenerative gel - 500 mg
+
+High potency insect venom - 250 mg
+
+Brelnan luna thistle needles - 250 mg
+
+Skalitan Ruby Quartz (ground) - 500 mg
+
+A jar of Jenni’s pee - 150 ml
+
+With your knowledge of chemistry you know that the serum will fail if:
+
+- The total amount of ingredients used is not equal to 500 mg.
+
+- The quantity of insect venom used exceeds the quantity of bio gel used by more than one tenth.
+
+- The combined total of insect venom and thistle used exceeds 100 mg.
+
+- The 80% silicon dioxide is not removed from the ruby quartz.
+
+Fortunately, the medical lab has a machine capable of separating the silicon dioxide from the rest of the compounds within the quartz.
+
+Once the mixture is made, it must be combined with the urine sample and heated to a temperature of 400 kelvin. After heating, the serum will be ready, and must be given to the one who provided the urine sample intravenously.
+
+You must determine the exact measurement of each ingredient in order to construct the serum.
+
+> The required amounts of each ingredient are:
+
+Grade C bio-regenerative gel: ___ mg
+
+High potency insect venom: ___mg
+
+Brelnan luna thistle needles: ___ mg
+
+Skalitan Ruby Quartz (ground): ___ mg
+
+> Forget it. Don't make the serum.
+
+*307*2013-04-10 20:48
+
+It's the insect venom collected from the cold storage specimen that we're using, not the venom afflicting Isabel.
+
+So, no. The venom within Isabel cannot be extracted.
+
+*309*2013-04-10 22:00
+
+With Raimus now dead, yes. The task falls to you to create the serum, and you must figure out what the measurements for the ingredients are based on the given data.
+
+If the numbers are correct, a perfectly working serum will be produced.
+
+You are, of course, free to forego the serum and simply try to engage your foe with guts and guile, and hope that it will be enough.
+
+*314*2013-04-11 01:27
+
+I'm afraid Commander Reynolds is the only one with any advice of consequence here.
+
+Reynolds: If you know those things, captain, then it seems figuring out the measurements is just a method of deduction. You need to remove the 80% silicon dioxide from the quartz, correct? And you have 500 mg of quartz, 80% of 500 is 400 so... wouldn't that leave you with 100 mg of quartz?
+
+*317*2013-04-11 01:36
+
+The urine is a liquid and measured in milliliters (ml), not milligrams (mg). It doesn't count towards the 500 mg necessary to complete the formula.
+

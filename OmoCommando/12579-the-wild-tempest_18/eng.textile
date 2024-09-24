@@ -1,0 +1,328 @@
+The Wild Tempest - Page 18
+
+Author: OmoCommando
+
+*430*2013-04-30 05:27
+
+The actual physics to the nature of plasma is not exactly relevant to the story. For now, all that needs to be known is that it vaporizes shit, makes the fires very strong, and that it plays some role in ship operations.
+
+I barely understand plasma myself, but in science fiction anything goes as long as it's moderately plausible.
+
+And if you use lots of big words :x
+
+*438*2013-05-06 03:12
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Jenni: Fine
+
+Carly: Wounded
+
+Squad Bladder Status:
+
+Isabel (you): 93%
+
+Jenni: 46%
+
+Carly: 93%
+
+Equipped Weapon: AR5L Assault Rifle: (0/32 shots)
+
+___
+
+“All right, Carly, let’s see if we can blow that door off.” You say.
+
+“Errr... Captain, I really don’t think that’s a good idea under these circumstances.” Carly answers. “We’ve done enough damage to the engine room.”
+
+“Agreed.” adds Jenni.
+
+“Oh...” You say. “All right then, that’s put out those fires.”
+
+“But how do you put out a plasma fire?” Carly asks. “They’re a lot more dangerous than regular fires.”
+
+“What is a plasma fire?” You ask.
+
+“They’re fires that erupt from conduits such as these, and the constant flow of plasma continually feeds that fire, increasing its potency exponentially.”
+
+You look blankly at your comrade. “...huh?”
+
+Jenni frowns. “The plasma coming from the pipe is making the flames really, really strong.”
+
+You grin, partly out of shyness, and partly out of mischief, but mostly out of desperation. “M-maybe we could pee on them...?”
+
+Carly looks at you with a furrowed brow. “I... don’t think we could get close enough without singeing our... lady parts. Girls tend to not pee very far.”
+
+“Oh yeah, ha ha!”
+
+You take a quick look around. Surely such a place would have equipment for dealing with situations of this nature. You take a quick look around and in a small nook on the side of a console, you find a compartment labeled “In case of emergency.”
+
+You open the compartment... only to discover that the supplies have been riffled through. Nothing is where it was supposed to be, and due to your lack of knowledge in the inner workings of a Republic starship engine, you weren’t entirely sure which of the equipment you should use.
+
+- Metal Cutter: Cleanly cuts standard metal materials with a thickness of 6 cm or less.
+
+- Fire suppressor: Standard “point-n-spray” equipment for putting out a regular fire.
+
+- Oxygen mask (2): A small mask with a narrow hose attached to a module that produces breathable air in a non-breathable environment. Disposable power cell has a life of about twenty minutes.
+
+- M8 Pistol: Small, low powered, self-defense weapon. Current energy cell is fully charged but no spares present.
+
+- Medical Kit (burn): A medical kit put together for the specific purpose of treating 1st or 2nd degree burns.
+
+- Storage canister (empty): A small, cylindrical canister, about as tall as your rifle. It is marked as empty but you can’t seem to open it.
+
+- Emergency coolant: A small container of liquid coolant meant to be used on the main reactor in case the primary intake fails.
+
+“Jenni, shut off the plasma flow.” You command.
+
+Jenni walks over to the console, presses a few buttons, and the fires cease growing. There was still enough residual gases to keep the fires alive though. You had to put them out in order to leave.
+
+Now the only thing left to do was devise a method of putting out the plasma fires. You could then restart the reactor on your own and lift the lockdown before things started getting... wet.
+
+> Use the fire suppressor
+
+> Use the coolant
+
+> Ask Jenni and/or Carly for suggestions
+
+> Other: ___
+
+(feel free to try combinations of the available items as well)
+
+*444*2013-05-08 05:56
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Jenni: Fine
+
+Carly: Wounded
+
+Squad Bladder Status:
+
+Isabel (you): 94%
+
+Jenni: 47%
+
+Carly: 94%
+
+Equipped Weapon: AR5L Assault Rifle: (0/32 shots)
+
+_____
+
+You decide taking the medical kit for burns would be a good idea. Should the worst come to pass, it might come in handy.
+
+You take the metal cutter, the fire suppressor, and an oxygen mask as well. You also decide, since you had no spare ammo left for it, to swap out your magnum for the M8 pistol. True, there was only one energy cell, but the type that the M8 utilizes is quite common. You were bound to find one if you looked around more.
+
+[items obtained: Metal Cutter, Fire Suppressor, Oxygen Mask]
+
+[Weapon swap: W&T M25 Magnum --> M8 SD Pistol]
+
+You climb to the upper deck and head over to the emerald fires. You take the small can, point the hose and start spraying the fires.
+
+As the white gas engulfs the flames, depriving them of the oxygen they need, they slowly begin to die off.
+
+Unfortunately, a single suppressor wasn’t enough to put out the entire fire. Your can runs out of juice, then sputters and dies.
+
+[item lost: Fire Suppressor]
+
+“Umm....” you moan. “Well... now what?”
+
+You decide maybe something was inside of the canister that you found, in spite of the fact that the label says “empty.” Something HAD to be inside. You were sure of it. An storage canister placed here conveniently has nothing in it? You didn't buy that for a second. Rather than examine the container to try and determine a way to open it, you decide that it is easier to use the metal cutter and open it the unsubtle way.
+
+The top pops off and you look inside, and it is just as you feared!
+
+The empty container is, in fact, empty. In addition to being empty, the container is now broken and it cannot be resealed.
+
+[item lost: Storage Canister (empty)]
+
+[item gained: Storage Canister (empty, broken)]
+
+You throw your hands up in frustration. It seemed events just couldn’t go your way today. On top of it all, you were on the edge of a precipice as narrow as a pen as far as your bladder situation went. Your desperation was overwhelming. You were willing to try just about anything at this point.
+
+Feeling the intensity of the flames, you knew it was still far too hot to attempt to relieve yourself upon the fire. You look at the transparent floor which you stood on. Once again, the idea of simply using the floor again wormed its way into your mind. Your hand reaches down to your lower body, and feel the release lever...
+
+“No!” You say to yourself. Jenni and Carly were right under you and would see you in that shameful position. As long as anyone on your team was nearby, there was no way you could bring yourself to do something as shameful as peeing on the floor. If anything, it might better to see what Carly does. If she gives in and pees on the floor first, it might not be so bad if you do the same after her. Then again... if she were to wait until it was too late...
+
+“Captain!” Carly calls out to you.
+
+“Yes?”
+
+“I got an idea. We still have access to environmental controls here. I can vent the oxygen in the room and that should put out the fires pretty quickly.”
+
+Not a bad idea for a demo expert. “Good idea, Carly.” You slide down the ladder, hand an oxygen mask to Carly, then stand next to Jenni. “You use that one, Carly. Jenni and I will share this one.”
+
+Carly nods. “Give the word then, Captain.”
+
+“Do it.”
+
+Carly puts her mask on, then begins to input commands on the control panel. You see a red light flashing on the console.
+
+“Hold your breath everyone.” Carly says. She presses the button.
+
+You have the mask on first, but you worry about Jenni. She clearly felt the effects of the oxygen being sucked out, as she seemed to get dizzy and disoriented. The fires go out quickly, and as fast as her fingers can move, Carly restores the oxygen to the room.
+
+Jenni exhales loudly and gasps for breath. You quickly hand Jenni the mask. “Here, you still need it.”
+
+Jenni accepts the mask and inhales deeply. “Thanks Isabel...”
+
+You nod. “Take it easy for a little while.”
+
+You walk over to the console next to Carly, and though your knowledge of engineering is limited, you are able to work with your squad mate and restore functionality to the main reactor. At the same time, the lockdown ends and the main door opens.
+
+“Only five of the six plasma conduits are operational.” Carly reports. “Total engine efficiency is only sixty-two percent.”
+
+“Lock out the command functions from this terminal and transfer control to the bridge.” You order. Best not to have the rebels or the empire gain control of engineering.
+
+Speaking of the empire, perhaps it would be best to check on Michelle.
+
+“Lieutenant Smith, come in.” You say over your radio.
+
+“Smith here.”
+
+“What’s the situation?”
+
+“We’ve managed to seal off hangar one. Trying to seal hangar two now but a few ships have already landed.”
+
+“Do you have everything under control?”
+
+“For now, yes.” The lieutenant’s voice was rather unsteady. Quite unusual for her. “But Captain, I’d bet my ass that enemy troops have already landed en masse in the remaining hangars. No way my team can seal them off!”
+
+This was grim, Empire troops had boarded already. You could probably start off at hangar four and work your way to Michelle’s team, sealing hangars as you went, or you could-
+
+You feel another spurt spread along the inside of your suit. Concentration was becoming increasingly difficult.
+
+Anyway, you could meet up with Michelle and go through together sealing the remaining hangars. Then, on the other hand, perhaps it would be best to trust in the lieutenant’s abilities and let her continue while you headed to the computer core, as you initially intended.
+
+> Head for hangar four, work your way down.
+
+> Meet up with Michelle’s team, seal remaining hangars.
+
+> Continue with original plan, head for computer core.
+
+> Abandon the hangars, have Michelle’s team meet you at the computer core
+
+> Other: ______
+
+*Side note: I won't burden you guys with issues that should be left to grad students. For situations like the plasma fire, you can rest assured that if I do not give specific info, it is not relevant to solving the problem, otherwise I would have provided something a lot more complex than a "fire suppressor".
+
+Save for that one problem with the cure, this story is meant to be fun and enjoyable, not brain twisting. :p
+
+*448*2013-05-09 09:12
+
+Squad status:
+
+Isabel (you): Wounded
+
+Jenni: Fine
+
+Carly: Wounded
+
+Squad Bladder Status:
+
+Isabel (you): 95%
+
+Jenni: 50%
+
+Carly: 95%
+
+Equipped Weapon: AR5L Assault Rifle (0/32 shots)
+
+___
+
+“Michelle,” you say. “Continue with your objective. We’re going to head for hangar four and work our way to you.”
+
+“Understood, Captain.”
+
+“One other thing, Lieutenant.” You blush a little, knowing this could be perceived as a personal question. “What happened earlier? You were screaming just as your bladder status reset to zero.”
+
+There is about fifteen seconds of silence. Michelle was clearly not comfortable talking about what happened. “Um... I don’t think that’s a subject worth discussing at the moment, Captain.” The woman says with an unsteady voice. “We need to work on sealing this hangar.”
+
+“Very well. Proceed.”
+
+You’re about to leave the room when Carly pulls you aside.
+
+“Captain!” she whispers.
+
+“What?”
+
+“I don’t know about you, but I’ve leaked several times already! I can’t take it much longer! I’m going to pee myself!”
+
+You wince. “I know, me too.”
+
+“I know we need to focus on the mission, but I can’t even stand up straight here! Can we please stop off at a bathroom.”
+
+You hesitate. That’s really all the time the enemy needed to ambush Michelle and her team. Every second you delayed gave the Empire a chance to send in more boarding parties, making your objective that much more difficult.
+
+“If we find one along the way, we’ll stop.”
+
+Carly nods. “Thanks.”
+
+The three of you run out of engineering and begin to make your way to the hangar bays. You take a few steps, ready to fight the enemy...
+
+A long spurt jets into your body suit. You glance over at Carly, and the look on her face makes you guess she’s having the same exact problem. Running is just taking too much energy, when so much of it needed to focus on not wetting yourself.
+
+Jenni looks over at the two of you. “Are you guys okay?”
+
+“No, I am not okay!” Carly snaps. “I gotta pee really bad and it hurts like a son-of-a-gun!”
+
+She wasn’t even being subtle about it anymore. Carly was at her limit. Chances are she won’t make it to 100%.
+
+“Isabel?” Jenni looks at you with concern.
+
+“I’m... pretty much on the verge of losing it myself. But we’re not abandoning the mission, Jenni. Rest assured.”
+
+Jenni sighs. “Good. It’s like you said before, forsaking the mission for the sake of your bladder is unacceptable. Even more so when a teammates life is at stake.”
+
+Carly glares at Jenni. She doesn’t like it, but she knows the tech expert is correct.
+
+You approach the main lift, entering the large double doors and stepping inside the round room. “Hangar bay four.” You say.
+
+The control panel beeps and the lift begins to move.
+
+______
+
+Finally the lift stops off at the deck you needed to go to. You step out of the room anxious to move forward and accomplish your goals.
+
+In that passage of time aboard the lift, however, your situation intensified.
+
+Squad Bladder Status:
+
+Isabel (you): 99%
+
+Jenni: 55%
+
+Carly: 99%
+
+This was it. You were seconds away from a breach, waste matter being expelled all through your vessel. You manage your way down the corridor, but your legs feel as stiff as a bulkhead.
+
+Just as you turn the corner, you see it. A small bathroom like the one you saw before. It was salvation. As if angels were beckoning you forth.
+
+“C-c-captain! Look!” Carly whimpers.
+
+“Yeah...” you sigh happily. “I know...” You and Carly take your helmets off and run happily toward the bathroom.
+
+You look inside... but to your dismay, there is only one toilet.
+
+Squad Bladder Status:
+
+Isabel (you): 100%
+
+Carly: 100%
+
+You immediately jam your hands into your crotch. The stress and pressure had reached its apex. You were now literally seconds away from complete loss of control.
+
+You look over at Carly, who gives you a highly worried look, and you’re not sure how she’ll react if you use the toilet before she does. But if you let her go first, you were 120% positive you would pee in your suit...
+
+All bets were off. You didn’t care what you had to do next. You were going to pee. You are going to pee. It was both inevitable and imminent. The only thing that mattered was how you would do it and where you would put it.
+
+> Use the toilet yourself first.
+
+> Let Carly use the toilet first.
+
+> Continue with the mission and wet yourselves.
+
+> Other: ___
+

@@ -1,0 +1,352 @@
+The Wild Tempest - Page 16
+
+Author: OmoCommando
+
+*376*2013-04-21 00:42
+
+Squad Status:
+
+Isabel (you): Critical
+
+Jenni: Superior
+
+Squad Bladder Status:
+
+Isabel (you): 55%
+
+Jenni: 18%
+
+Enemy Health:
+
+Natsumi: Fine
+
+Enemy Bladder:
+
+Natsumi: 62%
+
+Equipped Weapon: W&T M25 Magnum (0/6 shots)
+
+___
+
+With Natsumi unable to struggle, you run toward her, ready to give her a kick right where the sun don’t shine.
+
+Before you can reach her, Natsumi delivers a powerful kick right up in your crotch. Your bladder muscles contract and relax within the same second, and you feel a spurt of wet warmth fill your suit.
+
+[You have taken bladder damage]
+
+(bladder status: 55% --> 70%)
+
+Using Jenni’s weight as leverage, Natsumi then jumps up and kicks off of your shoulders as you approach and flips out of her chokehold, landing directly behind Jenni. She kicks Jenni in the back, sending your squad mate crashing into your face.
+
+[You have taken damage]
+
+[Jenni has taken damage]
+
+[Your helmet has fallen off]
+
+Ow that hurt. Ohhhh holy crap from the bum hole of...
+
+That REALLY hurt!
+
+If you were a guy, you’d probably be-
+
+IT HURRRTTTSSSSS!!!
+
+You clutch your... wound... in agony and make a soft whimpering noise.
+
+[You are in pain. Lots of pain.]
+
+As if to restore her dignity, Natsumi picks her robe up off the floor and puts it back on, then retrieves her sword.
+
+“I applaud your efforts,” the woman says, “but I think it is time this game comes to a close.” Natsumi charges at you, but Jenni quickly stands in the way, using her knife to deflect the blow. The two of them fight furiously, their movements almost too fast to track. You quickly put your helmet back on and then load another six cartridges into your magnum, and you realize you only have three left.
+
+“I need a shot, Jenni.” you whisper as you aim your magnum.
+
+The two of them duel like heroes from a fantasy, but it is clear that Natsumi is trying to keep Jenni between you and herself in order avoid getting shot at.
+
+Slash!
+
+[Jenni has taken damage]
+
+Jenni: Superior --> Fine
+
+Because Natsumi is the more experienced duelist, Jenni cannot hold her own in a toe-to-toe fight for very long. The longer you wait, the more damage Jenni would sustain.
+
+> Take the shot
+
+> Wait just a little longer
+
+> Tell Jenni to pull out
+
+> Other: ___
+
+$
+
+*385*2013-04-22 09:10
+
+{{: 
+
+So we've reached
+
+$iframe width="480" height="270" data-embed-src="https://www.youtube.com/embed/KdfVx4C3D50?feature=oembed"?
+
+Anyway:
+
+Get Jenni to run back towards you. If Natsumi follows then you'll have a much clearer shot while Jenni parries away any blows aimed for you. If Natsumi doesn't follow (which is what I'm expecting) have Jenni shoot with the freeze gun and immediately have Isabel shoot with the fastest bullets she has.
+
+In that split second before she shatters the ice on her sword, her sword will both be heavier and have more air resistance so she might not be able to block your shots. (In fact, if you both just open continuous fire on her with the freeze ray and your gun from different directions I wonder how she'll hold up.)
+
+If I wanted to be crazier (because I feel like I've got some expectations to meet ;_; ), I'd say that if she could still block your blasts with a frozen sword then even so, if you choose bullets that will blow up the ice rather than melt it, you can hit her with the flying ice shards that break off when she blocks the bullets.
+
+}}
+
+Yes. This. It simply was meant to be. Rainyday's suggestion was so specific and well thought-out. I had to use it
+
+___
+
+Squad Status:
+
+Isabel (you): Critical
+
+Jenni: Fine
+
+Squad Bladder Status:
+
+Isabel (you): 70%
+
+Jenni: 25%
+
+Enemy Health:
+
+Natsumi: Fine
+
+Enemy Bladder:
+
+Natsumi: 64%
+
+Equipped Weapon: W&T M25 Magnum (6/6 shots)
+
+___
+
+In one hand you hold your gun, aimed in Natsumi’s general direction. In the other hand, you hold your crotch, still in great pain from the debilitating kick you took there. The immense pain makes it difficult to aim and concentrate, but you think you can still do it. If only...
+
+“Jenni, move back toward me!” You say quietly over the radio. “If I can get one clear shot...” Jenni is unable to visually acknowledge your order, but you can see her deliberately giving ground to Natsumi, slowly leading her back. “Run, Jenni!”
+
+Natsumi delivers a slash to Jenni’s neck. Jenni immediately ducks the blow, turns, then runs towards you.
+
+As you expected, Natsumi did not take the bait. She stands and watches as Jenni retreats to your side. Luckily, you had a plan for that too. “Jenni, freeze gun, now!” In addition, you cycle to your assault rifle. Jenni immediately fires her pistol at the woman, and as expected she tried to deflect each shot. You aim your rifle and fire continuously as the ice builds up along Natsumi’s sword. She’s forced to hold her sword with two hands now.
+
+Jenni’s gun stops as its energy cell runs out. Your gun stops as well, the power indicator now at 0%. You quickly switch back to your magnum and unload all six shots on her. Each shot breaks apart the ice, sending shards flying at her.
+
+[Natsumi has taken damage]
+
+The fifth shot causes her to drop her sword. The sixth connects with her side.
+
+[Natsumi has taken damage]
+
+Natsumi: Fine --> Wounded
+
+The shot apparently caused great harm. Natsumi looks at you with an angry glare.
+
+“Now we end this!” she growls.
+
+She picks up her sword and rushes toward you again. Jenni quickly reloads and fires again. Natsumi has no choice but to slow her assault to block the shots, knowing that getting hit by one could mean death.
+
+You quickly reload your final three cartridges into your magnum, prepared for a final strike.
+
+She blocks all of Jenni’s shots, once again encasing her sword in a block of ice. As soon as Jenni stops firing, Natsumi tries to shatter the ice around her sword... an opportunity which you can take advantage of.
+
+You fire just as she takes action. Two of your three shots connect with her, for she could not bring her sword arm up in time.
+
+[Natsumi takes major damage]
+
+Natsumi: Wounded --> Critical
+
+You’re doing excellently. You counted for every contingency, anticipated possible outcomes and planned accordingly. Natsumi is unable to keep up with the depth of your plans, and now she’s paying for it.
+
+Jenni runs up to her with her knife in hand, prepared to deliver a final strike.
+
+Natsumi intercepts Jenni’s blade arm, takes her own weapon and thrusts it through Jenni’s abdomen.
+
+[Jenni has taken massive damage]
+
+Jenni: Fine --> Dying
+
+Natsumi kicks the poor woman away, but does not finish her.
+
+“Urgh... self righteous fools...” Natsumi coughs.
+
+“Don’t take this any further, Miyazaki!” You yell. “You take one step toward her I blow your head off!” She couldn’t know you were out of ammo for your magnum.
+
+“All I want... is freedom... for my friends and family.” She pants. “Why can’t you acknowledge that!?” Her tone is almost despairing.
+
+The woman dashes down the passages at a speed you can barely track. You run over and help your fallen comrade.
+
+“Jenni! Are you okay!?” You cry.
+
+“I-I will be...” Jenni gasps as you help her to her feet. “Don’t worry... about me... Isabel... I’ll be...” She nearly falls over once you let go.
+
+“Captain, this is Michelle. Natsumi just ran by us and she’s headed for the hangar bays. Should we give chase?”
+
+“Inadvisable, Captain.” Commander Reynolds says over the comm. “This ship has been sitting on the fringe of Empire space for too long! We need to get to the bridge and move her back into Republic-controlled space!”
+
+You feel a bead of sweat fall down your neck. No doubt Natsumi could cause trouble if left unchecked, but if the Commander was right... that could be trouble as well.
+
+> Chase Natsumi
+
+> Meet the team on the bridge
+
+> Other: ___
+
+*392*2013-04-23 02:12
+
+You can certainly try to pee on Natsumi. Whether you will live to tell the tale or not... I cannot say at this time.
+
+*396*2013-04-23 05:58
+
+Medical kit (field) will bring anyone back to "Fine" status and reduce current bladder status by 10%.
+
+Oh, and just to clear up confusion: The bladder status is not how empty or full the bladder is, but rather a gauge for how much stress it is handling. When that stress reaches 100%, uncontrollable release is imminent.
+
+*398*2013-04-24 10:43
+
+Chapter 5: The Empire
+
+Squad Status:
+
+Isabel (you): Critical
+
+Jenni: Dying
+
+Squad Bladder Status:
+
+Isabel (you): 72%
+
+Jenni: 29%
+
+Equipped Weapon: W&T M25 Magnum (0/6 shots)
+
+_____
+
+The first thing you do is bring one of your two med packs to Jenni.
+
+Jenni struggles to remain on both feet. “I have my own, Isabel... d-don’t worry...”
+
+“Shut up, Jenni.” You pull out the gel and give her energy booster.
+
+[Jenni’s health has returned to “Fine” status]
+
+[Jenni’s bladder status reduced to 19%]
+
+[-1 Medical kit (field) ]
+
+“Thank you... Isabel.”
+
+“Of course.”
+
+The two of you look at each other, and you feel your heart flutter again. Those beautiful eyes of hers... those red lips... she was the picture of beauty.
+
+You were alone now. None of the others were here so that you might ruin your image of professionalism. You had nothing to lose and everything to gain. You draw closer to Jenni, and this time, she doesn’t retreat from you. She seems to allow you near her. Before you know it, you can feel her breath upon your face. Your lips are barely a distance apart...
+
+“Captain!” Michelle shouts over the radio.
+
+You jump. “What!?”
+
+“What do you want us to do? Awaiting your orders still!”
+
+You grumble. “Head for the bridge! Let’s get this ship to safer space.” You look over at Jenni. “Come on. Let’s rejoin the others.”
+
+______
+
+[You spend about 8 minutes getting from your current location to the bridge]
+
+______
+
+You and Jenni arrive at the bridge, the doors open, and the rest of the team is there, with everyone at a station.
+
+/connection reestablished with squad members “Michelle” and “Carly”
+
+Squad Status:
+
+Isabel (you): Critical
+
+Michelle: Wounded
+
+Jenni: Fine
+
+Carly: Critical
+
+Bladder Status:
+
+Isabel (you): 85%
+
+Michelle: 84%
+
+Jenni: 27%
+
+Carly: 87%
+
+You begin to head to the bathroom, your bladder reaching its absolute limit, when Reynolds immediately comes up to you. “Captain, under the circumstances I think it would be best if I took command of the mission.”
+
+“Commander,” Ensign Curtis says, “Long range sensors are showing an Imperial War Cruiser on intercept course! Position is... impossible to determine.”
+
+Michelle looks closely out the viewport. “Wait... I think I... Yeah, I see it! Imperial Cruiser on hot approach!”
+
+Carly gives Michelle a rather annoyed look. “Not even you can see objects moving at light speed, Smith...”
+
+“It’s on the edge of system, bitch. Look.” Michelle points just to the side of a planet in the distance. Your view is suddenly engulfed by a large, bronze-colored warship, armed to the teeth with various cannons and missile ports.
+
+“Oh.... crap.” Carly says in shock. You feel another spurt of warmth spill into your suit as you look at the massive armament.
+
+“Shields up, charge weapons!” Reynolds yells.
+
+The young ensign struggles to execute her orders, but she’s appearing frantic and panicked in addition to squeezing her legs rather tightly. You wonder if she has to pee too.
+
+“I-I can’t raise the shields OR charge the weapons, Commander!” the ensign cries. “There’s no computer control!”
+
+“Manual bypass!”
+
+“Disabled! The control conduit has been removed!”
+
+The commander grumbles something that you’re pretty sure was a profanity. “Then can you plot a course out of here?”
+
+“Engines don’t seem to be responding, Commander.” The young officer says as she inputs commands in her console. “The reactor’s cold!”
+
+“Damn it!” The Commander slams her fist onto the chair arm. She turns and looks at you. “Captain, we need those things back online!”
+
+“Commander!” Curtis yells. “Incoming boarding ships!”
+
+“How many ships?”
+
+“Twelve! All headed for the fighter bays. They should arrive in about ten, maybe fifteen minutes.”
+
+“Captain Lester, these things have to be taken care of if we’re to have any hope escape!” Reynolds explains. “Curtis and I can manage things on the bridge, but you can take Corporal Dean and Private Lewis with you if you think you’ll need them.”
+
+“Will you be safe here?” You ask.
+
+“Ensign Curtis reestablished control of the bridge auto-turrets,” Reynolds explains. “plus we can still seal the blast doors since you were kind enough not to blow them kingdom come.”
+
+Michelle runs up to you. “What’s the plan, Captain?”
+
+“We have quite a few things that need to be done. We have to reactivate the main computer, reactivate the main reactor, and seal off the hangar bays to prevent imperial soldiers from boarding.”
+
+“How do you want to accomplish this?”
+
+“Well... um....” You squirm while you try and think, but you have to go! You have to go so bad! You’re really not sure how much longer you can last. The pain is quite prominent, in fact. You look over at Michelle and Carly who are in an equal state of discomfort, but have apparently learned to stay quiet about, as per your orders. It is likely that they will not go without your permission. You’re pretty sure anyone who reaches 100% will forcibly wet themselves in mere moments. A bathroom was in order here.
+
+But you might not have time! You had fifteen minutes at most to repel those boarding ships, and it would take a significant amount of that time to reach the hangar bays. Satisfying your desire to use the bathroom could cost the mission... and your team knew that as well.
+
+Now, how to execute this next phase...
+
+[You have been temporarily joined by CPL O. Dean and PFC R. Lewis]
+
+> Head for the computer core
+
+> Head for the engine room
+
+> Head for the hangar bays
+
+> Split the team up (specify who goes where)
+
+> Other: ___
+

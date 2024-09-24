@@ -1,0 +1,736 @@
+The Wild Tempest - Page 24
+
+Author: OmoCommando
+
+*578*2013-06-12 08:04
+
+Squad Status:
+
+Isabel (you): Critical
+
+Michelle: Critical
+
+Carly: Wounded
+
+Lewis: Wounded
+
+Dean: Critical
+
+Natsumi: Critical
+
+Squad Bladder Status:
+
+Isabel (you): 26%
+
+Michelle: 33%
+
+Carly: 25%
+
+Natsumi: 50%
+
+Equipped Weapon: AR5L Assault Rifle (7/32 shots)
+
+Tempest Status:
+
+Shields: (inactive)
+
+Hull Integrity: 88%
+
+___
+
+“All right, Michelle, take your station.” You order. “Carly, let’s you and I bring these other cannons online. Dean, Lewis, Natsumi, keep us covered.”
+
+“We got your back, captain!” Lewis says.
+
+All the better probably. You were getting low on ammo. You had only two spare energy cells remaining for your rifle. You head over to the middle terminal and bring up the interface. “Michelle, what do we do first?”
+
+“Enter your access code, then disable computer targeting.” She answers.
+
+You input your code, Blue-0131-Iota, and the terminal comes online. You bring up computer control, and input the command “disable all computer targeting functions”. The system then begins asking you to verify the authenticity of your identification as a member of the Tempest crew.... which you weren’t.
+
+No time to tackle this. You needed to bypass the terminal security and quickly. With your limited knowledge of computers, you manage to simulate a form of “guest access” with the terminal. Unfortunately, that meant your accessibility to the station would terminate within 5-10 minutes if you can’t deactivate the security.
+
+Now you had to transfer power to the terminal. That meant screwing around with the power cables since there was no way to route the power automatically. You go under the terminal and remove the panel to see the various cables and wires. Now... how to do this?
+
+[Lewis has taken damage]
+
+[Dean has taken damage]
+
+You hear the marines yell in pain as they take a hit. You questioned how long they’d be able to hold out under these conditions. Looking down, you could see that a lot of troopers were converging on this position. Natsumi’s reflexes were serving her well, she always managed to duck before an energy bolt hit her, but if the other two went down, she wouldn’t last long. You had to get that gun going quickly!
+
+You disconnect and reconnect power nodes, cross wires and create bypasses. It was one of the most technical jobs you had done in a while... but you were successful. You hear the hum of the gun charging power, and the green light on the console meant “go”. Your hand moves to the aiming controls, and you center the gun upon the enemy vessel.
+
+Pow!
+
+As the energy bolt hits the bow of the ship, a reading appears on your display.
+
+Imperial Battle Cruiser:
+
+Shields: 89%
+
+Hull Integrity: 100%
+
+You had a reading of the enemy ship now, able to monitor the condition of its shields, hull integrity, and any damaged primary systems.
+
+Michelle had been pounding away at the ship, but Carly was still struggling to bring her terminal online.
+
+“Carly, you got it?” You ask.
+
+“I’m getting there, Isabel! Keep firing!” She yells.
+
+A plasma bolt hit her in the back, “Gyaa!”
+
+[Carly has taken damage]
+
+You look back down at the troopers. They outnumbered your defenders by nearly 6 to 1 now. There was a good chance that team might not make it.
+
+You take a few more shots at the enemy cruiser.
+
+____
+
+Imperial Battle Cruiser:
+
+Shields: 71%
+
+Hull Integrity: 100%
+
+Wild Tempest:
+
+Shields: (inactive)
+
+Hull Integrity: 62%
+
+_____
+
+“Got it!” Carly yells.
+
+At last the third cannon begins to fire.
+
+With all three stations firing together, you might have a chance now.
+
+___
+
+Imperial Battle Cruiser:
+
+Shields: 43%
+
+Hull Integrity: 100%
+
+Wild Tempest:
+
+Shields: (inactive)
+
+Hull Integrity: 55%
+
+___
+
+“You’re not winning today!” You mutter to the cruiser. You fire another shot just when-
+
+“ARRGHH!!!” Dean takes a hit right to the arm where there is little protection.
+
+[Dean has taken damage]
+
+Critical --> Dying
+
+Dean falls to the floor clutching the wound in agony.
+
+“Corporal! Are you all right!?” You yell.
+
+“I... I’ll be fine! I can still fight!” He says as he struggles to rise. You can tell he’s trying to downplay the wound, but the amount of blood seems to contradict that.
+
+> Give Dean a stimulant
+
+> Order Carly or Michelle to give Dean a stimulant
+
+> Tell Dean to stay down
+
+> Allow Dean to keep fighting
+
+> Retreat
+
+> Other: ______.
+
+*582*2013-06-13 08:52
+
+Squad Status:
+
+Isabel (you): Critical
+
+Michelle: Critical
+
+Carly: Wounded
+
+Lewis: Wounded
+
+Dean: Dying
+
+Natsumi: Critical
+
+Squad Bladder Status:
+
+Isabel (you): 28%
+
+Michelle: 35%
+
+Carly: 27%
+
+Natsumi: 55%
+
+Equipped Weapon: AR5L Assault Rifle (7/32 shots)
+
+Tempest Status:
+
+Shields: (inactive)
+
+Hull Integrity: 55%
+
+Enemy Ship Status:
+
+Shields: 44%
+
+Hull Integrity: 100%
+
+___
+
+“Michelle, get over there, give him a revive!” You say while pointing at Dean.
+
+Michelle runs over towards the fallen marine and administers one of her stimulants.
+
+[Michelle -1 resuscitation stimulant (1 remaining)]
+
+Dean:
+
+Dying --> Critical
+
+“Stay down, Corporal. Don’t need you dying on us..” You say to him.
+
+Dean looks at you grudgingly. “With all due respect, ma’am. I can still fight, and you need three people watching your back.”
+
+Crap. You knew he was right. You give a quick affirmative nod before you look back over to you station and continue firing at the Imperial ship. You watch with anticipation as the blue-green beams launch towards the other vessel, crashing upon the shimmering light that was their shields. Shields...
+
+“Jenni!” You say over the comm. “Do you have a way of restoring just shields?”
+
+“I might be able to generate a command from the core that’ll bring the shields back up.” Jenni replies. “Gimme a minute.”
+
+“We may not have a minute, Lieutenant! Work fast!”
+
+You and your squad continuously fire, the loud boom of the cannons now causing a qringing in your eardrums. You feel the deck plating shake beneath your feet as another beam of energy slams into the Tempest’s hull. You flinch as a piece of plating flies off from an explosion and nearly strikes your head.
+
+____
+
+Tempest:
+
+Shields: (inactive)
+
+Hull Integrity: 32%
+
+Enemy ship:
+
+Shields: 9%
+
+Hull Integrity: 94%
+
+____
+
+They’re shields were weakening considerably. It appeared the ship’s heavy cannons were having more of an effect than you had anticipated.
+
+You quickly turn and check to see how the rest of the team is doing.
+
+The fresh, Private Lewis is holding her own, but you can see the look in her eyes. She’s terrified, and she doesn’t believe she’s going to survive. Dean appears to be feeling the same, though fear would seem to be replaced by anger. Natsumi is as cool as ever. Likely her kill count for this fight was already fairly high.
+
+Imperial troops were still pouring in though, plasma cannons ablaze with colorful fire. As you peer down the hall, you see the noticeably shiny golden armor of an Imperial General.
+
+“Captain...” Natsumi says with worry.
+
+“I see him.”
+
+“Look out!” Michelle yells.
+
+You look up out the view port to see crimson flare, arcing toward your position form the enemy ship.
+
+“Tactical missile!” Commander Reynolds shouts. “Brace for impact!”
+
+You grab the console and watch as the light streaks over towards Michelle’s station.
+
+KA-BOOM!!!
+
+Michelle:
+
+Critical --> Dying
+
+Michelle goes flying to the floor and ceases moving. Your helmet’s bio-monitor registered her as unconscious. The enemy would probably regard her as dead as long as you left her alone.
+
+You then glance over at the ship status again.
+
+____
+
+Tempest:
+
+Shields: (inactive)
+
+Hull Integrity: 8%
+
+Enemy Ship:
+
+Shields: 2%
+
+Hull Integrity: 91%
+
+____
+
+“Captain,” Reynolds says. “This ship is coming apart at the seams! A few more hits and we’ll be reduced to a cloud of debris!”
+
+You grit your teeth. The situation was becoming more and more dire. You look behind your shoulder again, seeing what the enemy troops were doing. Including that general, there were at least twenty more troops to contend with.
+
+The General then pulls out what appears to be a grenade launcher.
+
+“Concussion rifle! Get down!” Dean yells.
+
+The General fires the rifle. A blue-violet light sails towards your position
+
+KA-DEOWW!!!
+
+The light detonate just between Dean and Lewis.
+
+Dean:
+
+Critical --> Dying
+
+Lewis:
+
+Wounded -- Dying
+
+The marines were down, Michelle was down, the ship was near destruction, with nigh two-dozen enemy soldiers encroaching upon your position.... you were panicking. You could your heart nearly exploding in your chest, with sweat pouring down your face. Was this the end? Had you finally met your match?
+
+......
+
+......
+
+“GOT IT!”
+
+You pee yourself just a little bit as Jenni screams over the comm. You hear something power up around you, and you then look at the display again.
+
+____
+
+Tempest:
+
+Shields: 100%
+
+Hull Integrity: 8%
+
+____
+
+“Well done, Lieutenant!” Reynolds sighs in relief.
+
+“You’ll have weapons and propulsion in a moment, Commander! Stand by!”
+
+Finally! A stroke of luck.
+
+You then look at the twenty or so troopers advancing upon your position. You were still in a bad wake. Your options were limited, and if you and Carly didn’t continue firing at the enemy ship, it would likely still cause great damage, shields or no. On the other hand, if you focused on firing the cannons, it was likely that someone would not survive.
+
+A trooper stand above Michelle with his rifle raised.
+
+> Continue firing at the enemy cruiser
+
+> Take Carly and Natsumi and attack the enemy troops
+
+> Heroically throw yourself at the enemy.
+
+> Distribute stimulants
+
+> Other: _____.
+
+*587*2013-06-14 07:53
+
+Squad Status:
+
+Isabel (you): Critical
+
+Michelle: Dying
+
+Carly: Wounded
+
+Lewis: Dying
+
+Dean: Dying
+
+Natsumi: Critical
+
+Squad Bladder Status:
+
+Isabel (you): 30%
+
+Michelle: 39%
+
+Carly: 29%
+
+Natsumi: 59%
+
+Equipped Weapon: AR5L Assault Rifle (7/32 shots)
+
+Tempest Status:
+
+Shields: 93%
+
+Hull Integrity: 8%
+
+Enemy Ship Status:
+
+Shields: 2%
+
+Hull Integrity: 91%
+
+___
+
+Half of your team was in danger. You couldn’t just leave them to die!
+
+“Carly, abandon position! Engage the enemy troopers!”
+
+“Aye, ma’am.” Carly takes out one of her frag grenades and chucks it into the horde of troops. She hits one of them straight in the groin, unintentionally jamming it in there.
+
+The soldier begins to fall over from the pain, but the explosive detonates before he hits the ground, taking about five other soldiers with it.
+
+BOOM!!!
+
+Fourteen out of twenty remaining.
+
+[Carly: -1 frag grenade (0 remaining)]
+
+You turn to the soldiers approaching Michelle. You fire your remaining seven shots into the torso of the lead soldier. He staggers backwards into the soldier behind him.
+
+Without so much as blinking, you cycle your weapons to your sidearm, aim for the soldiers and fire.
+
+Both fall down, but the soldiers behind them fire upon you.
+
+[You have taken damage]
+
+Plasma weapons left a wonderfully painful burn every time. The day the Republic is able to equip their soldiers with personal energy shielding would be a celebratory one, indeed.
+
+You quickly drag Michelle back into cover, keeping her safe for the time being. You weren’t sure how long that would last though. A good number of troopers were still there. You switch back to your rifle and reload.
+
+[-1 AR5L energy cell (1 remaining)]
+
+Before you can aim though, an enemy trooper is already overhead. He kicks you down and aims his rifle at your head.
+
+[You have taken damage]
+
+Seemingly out of nowhere, Natsumi appears and delivers a flying kick to the trooper, sending him back down the ramp.
+
+“You okay, Isabel?” She asks as she pulls you up.
+
+“I will be. We need these guys taken care of fast, though.”
+
+Carly takes down two more troopers, then takes a hit herself.
+
+[Carly has taken damage]
+
+You fire into the enemy troops yourself, peppering them with energy bolts. Two more are taken down. Nine troops, including that General, remained. With Carly dug in at the other end, many of the remaining troops were gaining ground on her. She takes down another one, then two more troops fire upon her.
+
+[Carly has taken damage]
+
+Carly: Wounded --> Critical
+
+You quickly turn and give Carly some cover. You manage to take out two more troopers, while Natsumi kills a third. Four troopers left.
+
+You fire at another, he goes down. Natsumi removes another. Carly dispatches the last, until the General is all that remained.
+
+He runs up to Carly, knocks her weapon out of her hand then picks her up with his left hand by the throat. From his right hand, a blade appears, which he proceeds to thrust into Carly’s abdomen.
+
+[Carly has taken serious damage]
+
+Carly: Critical --> Dying
+
+He drops her to the ground, then turns his attention towards you and Natsumi.
+
+You discard your spent energy cell insert you last one into your rifle.
+
+[-1 AR5L Energy cell. (0 remaining)]
+
+This was it. Your final battle.
+
+There were other issues though. Four squad mates were critically wounded, and if the General should decide to attack them, they wouldn’t survive.
+
+> Attack the General together with Natsumi.
+
+> Have either you or Natsumi try to draw the General away.
+
+> Heroically charge the General
+
+> Other: ______.
+
+======
+
+Edit: Quick inventory summary:
+
+Isabel’s Inventory:
+
+AR5L Assault Rifle
+
+M8 SD Pistol
+
+AR6L Energy cell: 1
+
+220 Megajoule energy cell: 0
+
+Medical kit (Field): 1
+
+Medical kit (Burn): 1
+
+Health Stim: 1
+
+Strength Stim: 1
+
+Resuscitation Stim: 1
+
+Non-lethal Charges: 1
+
+Metal Cutter
+
+Oxygen Mask
+
+Michelle’s Inventory:
+
+Sniper Rifle
+
+S4L Pistol
+
+Medical Kit (field): 1
+
+Trip mines: 2
+
+Resuscitation Stims: 1
+
+Jenni’s Inventory: (currently unavailable)
+
+AR6L Assault Rifle
+
+Freeze Gun
+
+Medical Kit (field): 1
+
+Frag Grenades: 1
+
+Heavy Duty Remote Charges: 2
+
+Resuscitation Stims: 2
+
+Storage Canister (Jenni’s urine)
+
+Carly’s Inventory:
+
+GN-535 Submachine Gun
+
+Anti-Armor Launcher (out of ammo)
+
+Medical Kit (field): 0
+
+EC Grenades: 2
+
+Resuscitation Stims: 2
+
+Lewis’ Inventory:
+
+AR6L Assault Rifle
+
+S4L Pistol
+
+Communications Jammers: 2
+
+Signal Boosters: 2
+
+Dean’s Inventory:
+
+SG7 Wavegun
+
+S4L Pistol
+
+Old Earth Coin: 1
+
+Natsumi's inventory:
+
+M-2 Black Arrow
+
+Security Spike: 2
+
+*592*2013-06-15 08:51
+
+Squad Status:
+
+Isabel (you): Critical
+
+Michelle: Dying
+
+Carly: Dying
+
+Lewis: Dying
+
+Dean: Dying
+
+Natsumi: Critical
+
+Imperial General: Fine
+
+Squad Bladder Status:
+
+Isabel (you): 33%
+
+Michelle: 44%
+
+Carly: 34%
+
+Natsumi: 61%
+
+Equipped Weapon: AR5L Assault Rifle (32/32 shots)
+
+Tempest Status:
+
+Shields: 90%
+
+Hull Integrity: 8%
+
+Enemy Ship Status:
+
+Shields: 2%
+
+Hull Integrity: 91%
+
+______
+
+“How are you on ammo, Natsumi?” You whisper.
+
+“I’ve got a few mags left.”
+
+“I’m gonna try and draw him away from the others. They won’t survive if he attacks them.”
+
+Natsumi nods and charges her pistol. “When you’re ready.”
+
+You run past the General, firing a few shots at him.
+
+Shields. Go figure. And what’s worse, the only person with EC grenades was down.
+
+The General turns his attention towards you, and pulls out his concussion rifle.
+
+Explosive charges detonate around you as the General fires. You run out into the extending corridor, firing another burst at him. He beings to pursue you, then Natsumi fires at him.
+
+That handgun of hers packed a hell of a punch. You could see the General’s shields starting to become unstable.
+
+He quickly turns to Natsumi and fires a round at her. You exhale in relief as she barely manages to avoid the blast. You fire another burst at the General, but now he seems to be ignoring you, focusing instead on Natsumi... who was still around your fallen allies.
+
+“Natsumi, come on!” You motion with your hand for emphasis. The woman makes a dash towards you, bounding past the General.
+
+“What’s your plan now?”
+
+You hadn’t thought that far yet. The corridor led down for quite a while, but would eventually spill out into the nearby cargo bay.
+
+Carly, Dean and Lewis, though gravely wounded, were still conscious and could probably still fight if they had to.
+
+> Engage him here in the Corridor.
+
+> Keep leading him into the cargo bay.
+
+> Signal one of your dying allies to help.
+
+> Other: _____.
+
+*598*2013-06-16 08:36
+
+Squad Status:
+
+Isabel (you): Critical
+
+Michelle: Dying
+
+Carly: Dying
+
+Lewis: Dying
+
+Dean: Dying
+
+Natsumi: Critical
+
+Imperial General: Fine (shielded)
+
+Squad Bladder Status:
+
+Isabel (you): 35%
+
+Michelle: 46%
+
+Carly: 36%
+
+Natsumi: 63%
+
+Equipped Weapon: AR5L Assault Rifle (25/32 shots)
+
+Tempest Status:
+
+Shields: 87%
+
+Hull Integrity: 8%
+
+Enemy Ship Status:
+
+Shields: 2%
+
+Hull Integrity: 91%
+
+___
+
+You hate it, you didn’t want to do it, but you know you have no choice. Regardless of the danger to her, you needed Carly’s help. After all, the mission had to come first.
+
+“Carly, are you there?” You say over the comm.
+
+“I... I’m here, Isabel... don’t worry about me.” She pants.
+
+“This General has shielding! I need you throw an EC grenade at him!”
+
+“I’ll get there... don’t worry!”
+
+You stop in the corridor and take cover. Chances were that Carly was going to have trouble running in her current state, so it would be best to let her catch up.
+
+You fire from behind a support beam, while Natsumi takes the other side. You both fire trying to slow him down.
+
+In response, the General switches from his concussion rifle to a sidearm. He takes cover himself and fires back at you.
+
+Whatever weapon he was using was one with an immensely high power output. One shot tore right through your cover.
+
+You look around to see electrical sparks surging around the General. Further back, you see Carly, arm still extended from having thrown something. The General looks over at your comrade angrily, aims his sidearm and fires.
+
+Squad Status:
+
+Carly: Error - Signal lost
+
+“NOOOO!!! CARLY!!!” You scream. The bio-monitor switches off, unable to find a living signal.
+
+Your squad mate falls to the ground, and ceases to move... and you feel a single tear roll down your cheek.
+
+Natsumi looks over at you. “Acceptable losses, Captain! We have a mission to complete!”
+
+You shake your head, trying to clear your mind. The best thing you could do now was ensure no one else had to die.
+
+You glare at the General with the purest form of rage you’ve ever felt.
+
+“Tear him apart.”
+
+Natsumi unloads the rest of her energy cell into the enemy. The shimmering light that surrounded him bursts like bubble. His shields were gone. You take the opportunity to fire the rest of your energy cell at him.
+
+Imperial General: Fine --> Wounded
+
+Your rifle was empty. No remaining ammo for it. You quickly switch to your pistol, though things aren’t much better there either.
+
+Automatic weapon switch due to ammo depletion.
+
+AR5L --> M8 SD Pistol (5/8 shots)
+
+The General pulls his concussion rifle out and aims it at you.
+
+> Run up and charge him.
+
+> Fire everything you have left at him.
+
+> Have Natsumi attack first.
+
+> Continue leading the General into the cargo bay.
+
+> Other: _____.
+

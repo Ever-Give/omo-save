@@ -1,0 +1,412 @@
+The Wild Tempest - Page 14
+
+Author: OmoCommando
+
+*326*2013-04-11 07:44
+
+It was just a logic problem! And I made it up on the spot so... it really wasn't that difficult once you deduce the patterns!
+
+______
+
+Squad Status:
+
+Isabel (you): Poison
+
+Michelle: Fine
+
+Jenni: Wounded
+
+Carly: Fine
+
+Squad Bladder Status:
+
+Isabel (you): 50%
+
+Michelle: 53%
+
+Jenni: 0%
+
+Carly: 58%
+
+Equipped Weapon: W&T M25 Magnum (6/6 shots)
+
+_____
+
+You think you have it figured out.
+
+{{: 
+
+Ok so our total mass needs to be 500mg. Assuming the quartz sample is 80% silicon dioxide by weight, we run the whole sample through the extraction machine to get 100mg refined ruby quartz. The total for the venom plus the thistle is no more than 100, so we are looking at 300mg of the biogel. 10% of that would be 30mg, so the venom is capped at 30mg, which would make the max amount of thistle 70mg. With those ratios we are right at the limits for not failing. I guess we don't have any more info about the exactly correct mixes. The quartz and the thistle seem to have the biggest enhancing properties, and Raimus mentioned using the venom as a booster, so maybe more of the thistle and slightly less of the venom might yield a more powerful serum.
+
+So here we go:
+
+100mg processed quartz (the 20% non silicon dioxide) from the whole 500mg ruby quartz sample
+
+301mg biogel
+
+25 mg high potency insect venom
+
+74 mg brelnan luna thistle
+
+Total mass = 500mg (500)
+
+Insect venom/biogel = 8.3% (Max 10%)
+
+Venom + thistle = 99mg (Max 100mg)
+
+}}
+
+With that, you mix your ingredients into a large flask, and you then pour in Jenni’s urine sample.
+
+You put the flask upon a hotplate and set the device for 400 K.
+
+[items lost: 150 ml container (Jenni’s urine; full), High Potency insect venom, Brelnan luna thistle, Skalitan ruby quartz]
+
+“Captain, before you do anything else...” You feel a circular shape upon the exposed flesh of your neck, then something cold goes through your whole body, like a wave of icy wind. You turn around to see Commander Reynolds holding a hypodermic injector in her hand.
+
+“What was that?” You ask sharply.
+
+“Antidote.” The commander waves a finger at you. “Don’t push yourself like that. You’ll just get yourself killed.”
+
+The cold feeling begins to subside in your body, and you suddenly feel purified of all ailment.
+
+[You have been cured of Poison]
+
+The hotplate then starts beeping. The serum is done, and is a rather entrancing neon blue. Fitting for your team. You take the flask off of the hotplate, pour the contents into a small vial, and then put the vial into a new hypodermic injector.
+
+[obtained: “Performance enhancement serum (Jenni only)” ]
+
+“Did it work?” Carly asks.
+
+“I think so.” You answer.
+
+Jenni steps forward, her armor free of urine. “So that only works for me?”
+
+You nod. “Yep. Should give you all the same abilities that Natsumi has; at least for a while.”
+
+Michelle charges her sniper rifle. “Well let’s go find the bitch!” She yells. “I wanna see Jenni tear her a new one!”
+
+“Hold on, Michelle. Go to the storage room, get everyone a new med pack, would you?” you ask.
+
+“On it.”
+
+Corporal Dean then steps toward Jenni. “I think you might need this.” He hands her a rather fine combat knife. Definitely not military issue. That silvery handle, the serrated edge... probably custom made.
+
+Jenni accepts the knife, then grins. “Let’s get us a samurai!”
+
+“Where does one find one?” Carly asks.
+
+> Search the bridge again
+
+> Search this deck
+
+> Search engineering
+
+> Other: ___
+
+Addendum: You didn't really think I'd just give you a serum that would even the playing field with a boss-level character, did you? :p
+
+*337*2013-04-13 01:33
+
+Squad Status:
+
+Isabel (you): Critical
+
+Michelle: Fine
+
+Jenni: Wounded
+
+Carly: Fine
+
+Squad Bladder Status:
+
+Isabel (you): 50%
+
+Michelle: 53%
+
+Jenni: 0%
+
+Carly: 58%
+
+Equipped Weapon: W&T M25 Magnum (6/6 shots)
+
+___
+
+Michelle returns and hands each of Blue team a brand new med pack.
+
+[Obtained “medical kit (field)”]
+
+[Michelle obtained “medical kit (field)”]
+
+[Jenni obtained “medical kit (field)”]
+
+[Carly obtained “medical kit (field)”]
+
+“I’m going to assume that if Raimus was killed by a sword, then in all likelihood, Natsumi was the one who took him out.” You comment.
+
+“And it was fairly recent when it happened.” Reynolds notes.
+
+“Then Natsumi could still be on this deck.” You say.
+
+“Probably.”
+
+You turn towards the commander. “Could you clear a few things up for me, Commander?”
+
+“Of course, what is it?”
+
+“Are you, by chance, in contact with the other teams of survivors?”
+
+Reynolds shakes her head. “We remain isolated from one another so if a group gets caught, none of the others are compromised.”
+
+“Captain?” Carly calls you. “Can I suggest we use of the medical lab’s reserve bio gel supply to heal ourselves?”
+
+“Good idea.”
+
+[All squad members have been fully healed]
+
+“Well anyway, let’s find Natsumi before we lose her.”
+
+______
+
+You and the rest of blue team lead the group down the hall. As you turn a corner, you see her. The white robe and the green armor pieces, that ivory scabbard. It was Natsumi. She walks through a door into a cargo bay.
+
+“After her!” You say. The eight of you run after her and turn into the bay. Jenni gets through, you get through, and the door slams shut and locks. On the other side, you begin hearing a lot of gunfire.
+
+“Michelle, report!”
+
+“We’ve been engaged, captain! We’re retreating down the corridor towards some cover!”
+
+You grit your teeth in frustration. You were lured here.
+
+“You are quicker than you look, captain. I only meant to trap the trooper carrying my serum.”
+
+You turn around to see the cocky warrior standing in the middle of the room with her hands on her hips.
+
+“Natsumi.”
+
+The woman grins confidently. “I’m pleased you haven’t forgotten me.”
+
+“How did you know about the serum?” you ask.
+
+“I’ve been monitoring what your progress. I’ve watched you as you've assembled a copy of my serum.”
+
+Natsumi draws her sword and gets into a ready stance. “You will give that to me or you will never leave this ship alive.”
+
+You ready your weapon, Jenni readies her rifle. It’s the two of you against this woman. Who knew if you actually stood a chance?
+
+“Captain,” Jenni asks, “What’s your strategy? How do you want to go about this?”
+
+“Your move, captain.” Natsumi says with a grin.
+
+Use the serum now?
+
+>Yes
+
+>No
+
+BOSS BATTLE!!!
+
+You take a quick bio scan of Natsumi to monitor her health.
+
+Natsumi’s health: Superior
+
+Attack strategy:
+
+> Double Trouble: Both you and Jenni will attack together at full strength.
+
+> Divide and conquer: You and Jenni split up and attack, providing two separate targets.
+
+> Misdirection: One of you attacks while the other acts as a decoy.
+
+> Lone Wolf: Engage Natsumi yourself.
+
+> Trainer: Jenni engages Natsumi while you direct her.
+
+> Custom Strategy: ___
+
+(specific strategies work best to avoid damage accumulation)
+
+*339*2013-04-13 10:22
+
+Before the battle begins, you decide it would be best change your HUD to better suit the coming conflict.
+
+___
+
+/reconfiguring HUD to “Boss Battle!” mode
+
+....
+
+Done_
+
+<error> localized interference blocking ability to scan target’s weaponry and inventory.
+
+Enemy details:
+
+- Target has enhanced physical characteristics, including augmented strength, agility, speed, reflex, and durability.
+
+- Enemy’s sword is capable of deflecting directed energy fire.
+
+- Grenades have limited effectiveness.
+
+- Enemy carries a concealed handgun of significantly high power output.
+
+*342*2013-04-13 23:41
+
+Natsumi may not be able to use the serum, but you'd still lose your only edge against her.
+
+______
+
+Squad Status:
+
+Isabel (you): Fine
+
+Jenni: Fine
+
+Bladder Status:
+
+Isabel (you): 52%
+
+Jenni: 1%
+
+Enemy Health:
+
+Natsumi: Superior
+
+Enemy Bladder:
+
+Natsumi: 40%
+
+Equipped Weapon: W&T M25 Magnum (6/6 shots)
+
+___
+
+“It’s time, Jenni.” you say. “Use the serum.”
+
+Jenni takes the serum from her inventory, readies it and presses it against her neck
+
+“Argh!” A kick from Natsumi sends both Jenni and the serum flying in different directions. You try to watch for it, but you lose track of the serum once Natsumi engages you. You carefully watch that blade, knowing it would cause massive damage to you.. and possibly instant death if you were really careless.
+
+Natsumi slashes at you, but you manage to sidestep her first two attacks then dive out of the way. You then aim your magnum and fire two shots.
+
+Pow! Pow!
+
+Natsumi managed to deflect them, of course, but the sheer power of the magnum’s shot seems to have made her lose her balance. She apparently has a difficult time with magnum fire.
+
+“Jenni! Find that serum! I’ll keep her off your back!” you yell. Easier said than done, though. Natsumi moved like lightning jumping between rods. Before you knew it, she was already right in front of you.
+
+Adrenaline courses through you again, and you manage to avoid another slash of your enemy’s sword. You roll to the side and fire again. Natsumi deflects the shot, but nearly lost her balance completely.
+
+Natsumi then darts to the left, the right, and she is upon you again.
+
+[You have taken damage]
+
+Isabel (you): Fine --> Wounded
+
+“Gaaaah!!!” You scream in agony as Natsumi’s blade cuts through your armor like cloth. One thing is for certain, if you continue fighting Natsumi alone, you are going to die.
+
+> Keep letting Jenni search for the serum
+
+> Call for Jenni’s help
+
+> Beg for your miserable life
+
+> Other: ___
+
+Isabel’s Inventory:
+
+{{: 
+
+AR5L Assault Rifle
+
+W&T M25 Magnum
+
+AR6L Energy cell: 3
+
+W&T M25 Cartridge: 15
+
+Medical kit (Field): 2
+
+EC grenade: 1
+
+Health Stim: 1
+
+Strength Stim: 2
+
+Resuscitation Stim: 1
+
+Non-lethal Charges: 2
+
+Heavy Duty Charges: 1
+
+}}
+
+Jenni’s Inventory:
+
+{{: 
+
+AR6L Assault Rifle
+
+Freeze Gun
+
+Medical Kit (field): 1
+
+Frag Grenades: 2
+
+Heavy Duty Remote Charges: 2
+
+Resuscitation Stims: 2
+
+}}
+
+*345*2013-04-14 07:47
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Jenni: Fine
+
+Squad Bladder Status:
+
+Isabel (you): 52%
+
+Jenni: 1%
+
+Enemy Health:
+
+Natsumi: Superior
+
+Enemy Bladder:
+
+Natsumi: 40%
+
+Equipped Weapon: W&T M25 Magnum (3/6 shots)
+
+______
+
+“Jenni, get to that serum! I have an idea...” You say as you try to get some distance from your foe.
+
+In spite of what occurred before, you decide that the best way to deal with Natsumi is with a grenade again. Who knows, maybe she won’t see it coming because she doesn’t expect you to try again.
+
+You pull out an EC grenade, your last one. You prime it, and chuck it deep.
+
+“Damn...” You curse as Natsumi laughs aloud.
+
+The grenade flies back at you at alarming speed. You try to move out of the way but it detonates too quickly. Electrical currents surge through your body. Your helmet visor blacks out again, but you see Natsumi dashing toward you with blinding speed.
+
+However, due to the high voltage within your nervous system, your body won’t move. You’re completely immobile. You can only watch in pain as Natsumi sprints toward you with her sword in hand.
+
+You gasp as you feel the cold metal blade pierce through you.
+
+“I guess you aren’t as able a warrior as I gave you credit for, captain.” Natsumi taunts. “A wiser woman would not have used a failed tactic twice.” She lifts her boot, and ruthlessly kicks you off of her blade to the floor. Your breath begins to leave you, and your vision darkens. The last thing you hear is Jenni’s voice.
+
+Jenni: “ISABEL!! NOOO!!!”
+
+You were killed in action.
+
+(Hint: Try the guns too. They're fun)
+
+> Restart Battle
+
+> Continue from last checkpoint (Medical Lab)
+
