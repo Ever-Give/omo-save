@@ -1,0 +1,398 @@
+The Wild Tempest - Page 6
+
+Author: OmoCommando
+
+*128*2013-03-23 06:41
+
+/Reinitializing link to squad...
+
+/Synchronizing health monitors...
+
+/Synchronizing bladder monitors...
+
+........
+
+Done_
+
+Squad Status:
+
+Isabel (you): Critical
+
+Michelle: Fine
+
+Jenni: Critical
+
+Carly: Wounded
+
+Squad bladder status:
+
+Isabel (you): 58%
+
+Michelle: 12%
+
+Jenni: 20%
+
+Carly: 17%
+
+Equipped Weapon: W&T M25 Magnum (5/6 shots)
+
+Alert! - Armor integrity compromised. Armor effectiveness reduced to 69%. Seek armor repair station ASAP.
+
+______
+
+“C’mon let’s fall back!” You say to everyone. “I don’t what that woman is, but I don’t think we stand a chance against her.”
+
+You all turn around to run, but you hear two loud energy discharges from behind you. A large red bolt passes by your head and explodes on the wall ahead of you, the other hits Carly in the back.
+
+[Carly has taken damage]
+
+You turn to see Natsumi holding a gun of some kind.
+
+“We can’t go anywhere captain!” Jenni says. “Without the lifts being operational, she’s just going to hunt us down!”
+
+Jenni has a point. With her apparent capabilities, Natsumi could hunt you down one by one. You had no choice. You had to fight, if only to slow Natsumi down.
+
+“Full auto, fire at will.”
+
+Carly and Jenni switch their weapons to full auto mode, while you and Michelle rely on your pistols. Each of you points your gun at the approaching samurai. You pull your trigger. You fire three shots.
+
+What shots Natsumi did not, or could not, deflect she merely avoided them completely. Her movements consisted of such grace and agility, it was inhuman. Like a beautiful dance of warfare.
+
+Before she got within striking distance, she pulled the gun again from her robe. You recognize the black shine of its casing, the red glow of the chamber. An M-2 Black Arrow pistol. One of the galaxies deadliest handguns. She fires another two shots, one at you and one at Michelle.
+
+Adrenaline surges through your body again, and you manage to duck under the shot. Michelle wasn’t so lucky, taking the bolt to the right breast.
+
+[Michelle has taken damage]
+
+“Surround her!” You order.
+
+Jenni and Carly take positions behind Natsumi, you and Michelle turn and aim. You fire your two remaining shots.
+
+Still Natsumi manages to avoid or deflect all incoming fire. She rushes toward you, her sword in hand, she raises her arms high, about to bring her sword upon you...
+
+Michelle gets a lucky shot in with her pistol. Natsumi is hit in the back of her calf, and she kneels to the ground, temporarily. She seems relatively unphased, as far as getting shot in the leg goes.
+
+“Now’s our chance, go!” you say. The four of you tuck tail and flee down the corridor.
+
+“This isn’t over, trooper!” Natsumi shouts. “I’ll see you again!”
+
+The four of you run down until you reach the lift again. “Go!” You leap into the lift, quickly followed by your squad mates. “Michelle, punch in a deck number.”
+
+“Um... all right.” Michelle hits two digits on the panel. “Deck... 11?” As Michelle presses the enter key, the lift descends to safety.
+
+______
+
+You step out of the lift as it halts at deck 11. You breathe heavily as you stagger off. You lost Natsumi for now, but you know she won’t let this go. If you don’t eventually go after her, she’ll go after you. Exhaustion, however, burdens you like a thousand iron weights. You had been fighting, running and/or hurting for hours, and it was taking its toll. And you likely weren’t the only one. The looks on your team’s faces were that of tire and fatigue.
+
+As you run down the corridor, you come across another cargo bay. You wonder if it would be a good place hole up and rest. “Come on, girls, in here.” It is slightly smaller than the one you left Private Lewis in. You wondered how she was doing, but at the risk of being tracked, it was best not to use your helmet radio unless absolutely necessary.
+
+As you suspected, the resistance left a small camp inside of a large cargo container. This container was left open, with all valuable equipment destroyed, save for some roll-out beds and a few packets of field rations. “All right team, take a few and breathe.” You say.
+
+No one complains. Each of the ladies sits on a bed and removes her helmet, heaving a huge sigh as they finally relax. You pick up four packets of the field rations and hand one to each person and yourself.
+
+You take a bite of the processed food. As always, it lacks the flavor or texture of regular food, but it suffices when one is hungry. You then wash it down with about 50 ml of water from your canteen.
+
+[250/400 ml remaining]
+
+[bladder Status has gone from 58% to 63%]
+
+As the water hits your insides upon swallowing, your bladder pings you again. Now above the 60% mark, you were beginning to feel it. You take a quick check around for anything to use as a makeshift toilet, but nothing helpful can be found.
+
+You then look over at your team. They appear relieved to finally rest, but you can tell they’re each uneasy. Jenni continues clutching her side in pain, and you remember the hits you and her took back there. You were feeling okay since you were running on stims but the pain would catch up. This whole situation was more than anyone expected. This was a good chance to talk one-on-one with a team member, or perhaps it was best to address them all at once.
+
+>Talk with Michelle
+
+“How are you doing, soldier?”
+
+“Tell me about yourself, Michelle.”
+
+“How did you get to be such an awesome marksman?”
+
+“Did you know, you are the cutest thing ever?” >Talk with Jenni
+
+“That last fight was hairy. How’re you holding up?”
+
+“So what made you want to be a Commando?”
+
+“Have you ever had a special someone?”
+
+“Has anyone told you how hot your ass is?” >Talk with Carly
+
+“So no trouble getting to us, was there?”
+
+“So what’s your story, Carly?”
+
+“I have to know where this taste for explosives came from!”
+
+“Carly... that is a nice rack you have.” >Give pretty speech to all
+
+Something inspirational Something aggressive Something compassionate Something comedic >Take a nap
+
+>Other
+
+This is an interlude. At the end of the next segment, you may continue speaking to your team until you feel it is time to move on.
+
+*133*2013-03-23 22:36
+
+Before anything else, “Everyone use your med kits. Heal up.” You say.
+
+“Captain, I’m not hurt that bad, are you sure?” Michelle asks.
+
+“Yeah, Lieutenant, I’m sure.”
+
+[All squad members -1 medical kit (field). 0 total remaining]
+
+[All squad members have returned to “Fine” status]
+
+[All squad members bladder status reduced by by 25%]
+
+[All squad members bladder status increased by 20% after eating/drinking]
+
+[squad net bladder status reduction 5%]
+
+___
+
+Squad Status:
+
+Isabel (you): Critical > Fine
+
+Michelle: Wounded > Fine
+
+Jenni: Critical > Fine
+
+Carly: Wounded > Fine
+
+Squad Bladder Status:
+
+Squad bladder status:
+
+Isabel (you): 58% > 53%
+
+Michelle: 15% > 7%
+
+Jenni: 24% > 19%
+
+Carly: 18% > 13%
+
+Equipped Weapon: W&T M25 Magnum (0/6 shots) > (6/6 shots) 18 cartridges remaining.
+
+Alert! - Armor integrity compromised. Armor effectiveness reduced to 69%. Seek armor repair station ASAP.
+
+___
+
+You conclude this was an ideal time to reload your weapons as well. You pull out six cartridges for your magnum and place them into the cylinder. You then reach for an assault rifle energy cell and pull out your-
+
+You forgot your assault rifle.
+
+“Argh!” You take your palm and strike yourself in the head over and over. How could you have done something so careless? An elite soldier like you should never have made a mistake like that even in the midst of battle!
+
+Regardless of your blunder, your team was a far deadlier weapon than any firearm. It would be better to maintain them at the moment. You felt it would be good to address them as a group, reassure them everything was going to be all right in a... compassionate sense.
+
+“Hey guys... I know it’s been a rough go so far, but you’re all doing very well. I’m proud of each and every one of you for giving your absolute best. You know I care about each of you deeply and I’d never want to see you get hurt, so please continues to fight and survive. Our bonds and our friendships are a far more important outcome than whatever happens after this. I’ll always care about you, so don’t go dying.”
+
+Your squad seems to have mixed reactions to your speech.
+
+[Relationship -1 with Michelle]
+
+[Relationship +1 with Jenni]
+
+>Speak one-on-one with Michelle
+
+>Speak one-on-on with Jenni
+
+>Speak one-on-one with Carly
+
+>Time to move out
+
+>Other
+
+*138*2013-03-24 22:40
+
+You walk over to Michelle’s resting place. She sits there fiddling with her sniper rifle. “Hey there, Lieutenant.”
+
+“Captain.”
+
+“How are you doing?”
+
+Michelle shrugs. “Fine, all healed up.”
+
+“You showed up in the nick of time back there, you know. Might not have made it if you weren’t so quick.”
+
+Michelle removes the scope of her rifle and begins to wipe the lens with her bed sheets. “Glad I could help.”
+
+You sigh. Michelle wasn’t much for conversation. Never was. “So... tactical appraisal?”
+
+“Of the situation so far? Hell in a hand basket, ma’am.”
+
+“Why?”
+
+“We got weird serums running through us, making us pee.” she states. “We have a swordsman with super powers hunting us because we didn’t finish her. The enemy still has control of the ship and we are really not much closer to solving this mystery than when we started.”
+
+“Oh...” you mutter.
+
+(awkward silence)
+
+“Noticed you’re missing your rifle.” Michelle says. “What happened?”
+
+You blush. “Just a... mental lapse on my part. I did take a plasma grenade blast after all.”
+
+Michelle chuckles. “And survived! Well done, Captain Lester.”
+
+You subtly shake your head in disappointment. It may have been better to approach Michelle with conversation options in mind. Well, the next thing to do would be...
+
+>Talk one-on-one with Jenni
+
+“That last fight was hairy. How’re you holding up?”
+
+“So what made you want to be a Commando?”
+
+“Have you ever had a special someone?”
+
+“Has anyone told you how hot your ass is?” >Talk one-on-one with Carly
+
+“So no trouble getting to us, was there?”
+
+“So what’s your story, Carly?”
+
+“I have to know where this taste for explosives came from!”
+
+“Carly... that is a nice rack you have.” >Pee in the corner
+
+>Time to move out
+
+>Other
+
+*142*2013-03-25 01:11
+
+{{: 
+
+Carly's rack. Kidding, jenni about special someone
+
+}}
+
+Actually, Carly is the sort of person who just might find that sort of remark funny. Might be worth a shot :)
+
+I don't know if folks forgot or something, but you are perfectly welcome to offer your own suggestions as long as they follow story. I just throw the other things in as a general guideline. You are definitely not restricted to the options I give you.
+
+Recommendation: When we get back to the action, specify where you'd like to go based on what we know so far, otherwise I just decide at random. I'm sure some of you are wondering what became of Raimus or if there's still a resistance alive out there. Get creative, I won't kill you for it.
+
+(at least not immediately... :p)
+
+*145*2013-03-25 06:17
+
+{{: 
+
+That's what they always say, Commando.
+
+"Yeah, you can do that."
+
+"Will it kill us?"
+
+"No, of course not!"
+
+(gets eaten by a grue) "YOU SAID IT WOULDN'T KILL US!"
+
+}}
+
+You may have a point. I guess we should go for this then.
+
+"Then instead come down the path I have so neatly laid out for you. It's safe, I promise! Nothing will ever happen-"
+
+(gets stabbed by a samurai)
+
+"YOU ACTUALLY FELL FOR IT!" :p
+
+*146*2013-03-25 06:43
+
+You walk over to Jenni, who sits on the bed in a state of deep thought. “You okay over there?” You say to her.
+
+Jenni grins. “Yeah, I was just... thinking of someone.”
+
+“A special someone?”
+
+She looks at you and begins to blush. “Don’t laugh, okay?”
+
+You hold up your hand and cross your fingers. “Promise.”
+
+“Before I left for training as a marine, I had...” Jenni’s face turned bright red. “I... had a... girl... friend.”
+
+Your tone remains perfectly even. “What was she like?”
+
+Jenni seemed to relax a bit. “She was... strong, authoritative, yet compassionate. A lot like you, Isabel.”
+
+“Really?”
+
+“Yeah. We never really got... serious, but... I loved her.” A tear begins to fall down Jenni’s eye.
+
+“Do you still hear from her?” You ask, but you have a feeling you know the answer.
+
+Jenni sniffles. “She... she was killed during an attack by the Kauranian Empire. It was just before I graduated to a full marine...”
+
+You put a hand on your comrade’s shoulder. “I... I’m sorry... I didn’t know... that’s horrible.”
+
+Jenni puts her hand on top of yours. “It’s fine. It was years ago, and... I gotta say focused on the mission.”
+
+“Talk to me anytime you like, Jenni.”
+
+She nods. “Thanks, Isabel.” Jenni looks at you longingly. “Are... you okay if I call you by your first name?”
+
+“Absolutely.”
+
+[Relationship +1 with Jenni]
+
+You decide then to walk over to Carly who is happily enjoying her break.
+
+She gives you an energetic wave. “Hey, captain! How’s it going?”
+
+“All right, now that I’m patched up.” You sit down next to Carly, and your eyes drift towards her chest. Despite that armor, you can tell two very large objects lay under there. “You know, Carly... that is an awesome rack you have there.”
+
+“Pardon?”
+
+“You have a really fine pair, girl!” you say ecstatically.
+
+Carly nearly explodes in laughter. “Wah ha ha ha ha ha! I-I’m sorry, captain... I just didn’t expect that from you.”
+
+“I meant it as a compliment...” you say.
+
+“I know, I just thought I was the only one here with a sense of humor!” Carly nearly falls over. As she recovers from her bout of hysteria, she looks a few centimeters below your chin. “You got a pretty good set yourself, captain,” she winks at you. “Hot!”
+
+[Relationship +1 with Carly]
+
+With all squad members spoken to, you finally sit down and just let yourself relax...
+
+______
+
+You sleep for roughly an hour, and Raimus’ serum must have been busy.
+
+[all squad members +12% bladder status]
+
+Isabel (you): 65%
+
+Michelle: 19%
+
+Jenni: 31%
+
+Carly: 25%
+
+You hold yourself “down there” gently, for the need was starting to arise. Once you hit 80%, things were going to become uncomfortable. At 90%, it was going to get painful. At 100%... no. No 100%. You won’t reach that point if you can avoid it.
+
+“You slept well.” Carly says.
+
+“Tell me someone kept watch.” you say back.
+
+“Yeah, Michelle and I did while you and Jenni slept.”
+
+You nod. “Well, it’s time to move out anyway. If we’re being hunted, staying one spot for too long is not a good idea.”
+
+Carly nods. “Agreed. Where to then?”
+
+>Track down prof. Raimus.
+
+>Seek an antidote for Raimus’ serum.
+
+>Track down Natsumi
+
+>Seek out the Resistance
+
+>Other:
+
