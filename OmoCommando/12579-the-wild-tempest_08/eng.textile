@@ -1,0 +1,162 @@
+The Wild Tempest - Page 8
+
+Author: OmoCommando
+
+*181*2013-03-29 06:01
+
+Squad Status:
+
+Isabel (you): Fine
+
+Squad Bladder Status:
+
+Isabel (you): 2%
+
+Equipped Weapon: W&T M25 Magnum (6/6 shots)
+
+Alert! - Armor integrity compromised. Armor effectiveness reduced to 69%. Seek armor repair station ASAP.
+
+___
+
+You head over to the security armory first. You approach the door and flash the code cylinder under the scanner.
+
+[-1 Security Code Cylinder; Deck 17 Armory]
+
+The red light above the door turns green, you open the door and walk through.
+
+The first thing you see is... an armor repair station! You head into it and the mechanism automatically begins to operate. A ring of light emits from the pylon above you, and moves vertically along you. After a few seconds, you see the damage to your armor begin to repair itself.
+
+[Armor integrity restored 100%]
+
+Now you move on to the weapons area. It’s pretty clear that any of the surviving crew has made use of this place. Many weapon stations are empty, ammo banks cleared, and grenades missing, but you manage to find another assault rifle. Unfortunately, it’s one of the older AR5L models. Not quite as effective as your AR6L. Still, a rifle’s a rifle, and at least they used the same ammo. You load in a fresh energy cell and are good to go.
+
+[AR5L assault rifle equipped]
+
+With that, it was time to move on.
+
+You walk down the corridor and call the lift back. You wait, as the lift begins to descend, watching the position indicator draw towards your deck. As the lift arrives, the doors open, and you are immediately greeted by a trio of rebels. The raise their weapons and immediately fire at you.
+
+With the aid of your adrenaline amplifier, you quickly move out of the path of fire, and dive down the nearby hall. While retreating, you quickly aim your own rifle and fire a burst at your enemies. A few shots connect with the leftmost rebel and he falls down.
+
+You run further down the corridor until you arrive at more maintenance access ways. You hop onto the ladder and begin your ascent towards deck 10.
+
+Before you can move, though, you hear a buzz from your radio as climb. “Captain Lester, this is Professor Raimus. It appears the rebels caught wind of our exchange and are moving in to intercept us. A large force of them have moved to the aft section of the ship in attempt to dispatch you, me and your team.”
+
+Jenni pipes in over the comm. “Confirmed, Isabel, I’m meeting heavy resistance on deck 18.”
+
+Your radio buzzes again. “Jenni, this is Michelle. I’m two decks below you, I’ll be right there.”
+
+Raimus’ hyper voice blasts over the radio again. “Captain, you promised me you would get me safely out of here! I’m pinned just outside of the deck 16 lift and I can’t hold out on my own!” You hear the sounds of lots of gunfire.
+
+“Captain, this is Carly. I’m on deck 14, I can get there and bail him out.”
+
+/link reestablished with squad member “Jenni”
+
+Jenni screams, “Agh! I’m hit, but it’s not bad... ugh...”
+
+Since she was close enough to monitor her status again, you see it go from Fine to Wounded.
+
+This is the part of command you hate. The potential life and death decisions. Still on deck 17, you were closer to Jenni and Raimus than either Michelle or Carly was, but you couldn’t be in two places at once. You could only rescue one of them and hope that another squad member could bail the second one out. If they couldn’t, there was a high risk that either Jenni or Raimus would die...
+
+>Rescue Raimus
+
+>Rescue Jenni
+
+>Other:
+
+*187*2013-03-29 19:30
+
+{{: 
+
+Okay, Carly is two decks below Raimus but we're closer? Is he on the same deck or right below us or something? If we could get a little clarification as to exactly how far everyone is away from savin their respective person, that would be much appreciated. Until then, and I can't believe I'm saying this, we should head to Raimus. Jenni is a soldier and has stims and medkits and what not so she SHOULD be able to hold out in a fire fight without assistance longer that Mr. Pansy scientist. Raimus doesn't have any armor either so one good shot and he's toast.
+
+}}
+
+Deck 14: Carly
+
+Deck 16: Raimus
+
+Deck 17: Isabel (you)
+
+Deck 18: Jenni
+
+Deck 20: Michelle
+
+Carly is above Raimus, not below.
+
+We were heading for deck 10, but remain on 17 for the moment.
+
+*193*2013-03-30 04:46
+
+Welcome kgustav, I'm glad you're enjoying the story!
+
+Squad Status:
+
+Isabel (you): Fine
+
+Jenni: Wounded
+
+Squad Bladder Status:
+
+Isabel (you): 5%
+
+Jenni: 42%
+
+Equipped Weapon: AR5L Assault Rifle (21/32 shots)
+
+___
+
+You make the decision. You have to help Raimus. Regardless of your feelings for Jenni, the attachment you have for her, you had to focus on the mission. There was no alternative. Besides, Jenni would not have approved of you picking her over a mission objective. She was a commando, and a damn good one. She could hold her own, but she may not have to. After all, Michelle was on her way to help Jenni.
+
+“Raimus- sorry, Professor Raimus, I’m on my way.” You say over the comm. “Double time, Carly, I’m gonna need you there!”
+
+“Roger!” she responds.
+
+You ascend the ladder up to deck 16, climbing one rung at a time at a pace to where you wouldn’t exhaust yourself.
+
+“Gah!” Jenni screams over the comm.
+
+“Jenni! Are you all right!?” you shout.
+
+“Y-yes... I’m fine, Isabel. Go and save the professor... I’ll be okay.”
+
+You sweat with worry. What if Michelle can’t make it in time? Apprehension overwhelms your heart like a wave washing over a sand castle. Another step up the ladder felt like it took half your energy. You approach the exit from the tunnels. With the full might of your willpower, you jump off the ladder and onto deck 16.
+
+You run, bound the corner, and there’s Raimus, attempting to hold off nearly five rebel troops with a mere pistol. You run in, firing the remaining cell of your assault rifle down the corridor. You had no intention of hitting anyone, just making the untrained rebels cower upon having someone shoot back. As luck would have it, you score a hit on one of the rebels, and he falls. The rest of them take cover behind the corner near which they stood.
+
+“You kept your word?” Raimus says with authentic surprise.
+
+“I have mission to complete, along with making a promise.” you explain. “I had to.”
+
+Raimus reaches into his lab coat and hands you a large capsule. “Here, this is the same gas grenade that I used on your team beforehand, but it’s a much deadlier dose.”
+
+“Why give it to me?”
+
+“BECAUSE! I am no soldier, throwing grenades is not something I specialize in!” Raimus looks down and mumbles. “I don’t think I can even throw that far...”
+
+You take the grenade, prime it, and chuck to where the rebels hid. The gas is released merely seconds after it strikes the wall. From your spot in cover, you hear some of the most violent choking ever. Despite all the death you’ve seen in your career, this was not something you wanted to look at.
+
+When all noise had ceased, you peek out of cover to see what’s left.
+
+ZZZAP!!!
+
+[You have taken damage]
+
+A red lance of energy slams into your shoulder. Your armor protects you, but that was a hard hit. You look forward to see another sentry drone- wait.
+
+It wasn’t just another sentry drone. This one was a little larger, had more armor, and an extra set of machine gun arms. It’s diamond-shaped, optical lens focuses in on you.
+
+/connection reestablished with squad member “Carly”
+
+Lieutenant Montgomery was close. Likely on the same deck.
+
+> Reload and fire.
+
+> Cycle weapons, use magnum.
+
+> Toss an EC grenade.
+
+> Scream for Raimus and/or Carly
+
+> Other:
+
