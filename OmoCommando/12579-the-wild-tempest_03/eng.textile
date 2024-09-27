@@ -1,0 +1,620 @@
+The Wild Tempest - Page 3
+
+Author: OmoCommando
+
+*051*2013-03-12 05:32
+
+Squad Status:
+
+Isabel (you): Fine
+
+Michelle: Fine
+
+Jenni: Wounded
+
+Carly: Wounded
+
+Equipped Weapon: AR6L Assault Rifle (22/40 shots) > (40/40 shots)
+
+___
+
+You take the spare ammo for your assault rifle and magnum, plus the medical kit. You discard the half-spent energy cell from your rifle and replace it with a new one (for a net gain of +1 AR6L Energy cell).
+
+You now have 6 spare assault rifle cells, 24 magnum cartridges, and 2 medical kits (field).
+
+“Okay team,” You start, “let’s take a look around this deck. What else is there besides a maintenance, a lift and a locked armory?”
+
+“Not much, ma’am. Only more holding cells.” Jenni says.
+
+You think to yourself for a minute. “Perhaps, Raimus was holding more people prisoner. I want to see if there might be survivors.” You put your helmet back on and head out.
+
+Not more than a few meters from the door of the office, you make your way to the main holding cells.
+
+“Anyone here?” You call out. You gesture once to the left and right. “Sweep the area. Check for prisoners and hostiles.”
+
+You look though all the cells, but find nothing. As far as you can see, each and every cell is empty.
+
+“Captain! Over here!” Carly summons you. You head over to her position; there’s a single marine, human female, in one of the cells. On your HUD, a picture of the woman appears along with a bio.
+
+- Lewis, Reyna. Private first-class. Service Number: 73342-09012-87, in addition to a brief history.
+
+“Private Lewis?” You address her.
+
+“Oh God... commandos! I... I must be seeing things.” She whimpers.
+
+“Easy there, soldier. I need answers. What the hell happened here?”
+
+She looks up at you, eyes glazed. She looks like she’s been a victim of Raimus’ concoctions. “The... the people boarded. A-and then... I don’t...”
+
+This woman looked like she had been through hell, but you were in need of answers to this horrid mystery.
+
+______
+
+(no bladder change yet)
+
+______
+
+> “Snap out of it, soldier! I need answers and I need them now!”
+
+> “I know you’re in pain, but I really need you to answer my questions.”
+
+>(Use a medical kit to treat her) “Here. Now try and remember, what happened.”
+
+>Forget it. Return to original objective.
+
+>Forget it. Let's find that cure.
+
+>Other
+
+*055*2013-03-13 05:49
+
+Squad Status:
+
+Isabel (you): Fine
+
+Michelle: Fine
+
+Jenni: Wounded
+
+Carly: Wounded
+
+Equipped Weapon: AR6L Assault Rifle (40/40 shots)
+
+___
+
+You pull out one of your medical kits, you find and patch the woman up with some bio-regenerative gel for the wounds, and give her an anti-infection agent to try and remove anything Raimus might have put in her. With that, you finish your patch-up job with a small energy booster shot to her heart, and the private’s head clears up. After a few seconds, she shakes her head, and stands up energetically.
+
+[-1 medical kit (field)]
+
+“Thank you, captain... I feel much better now.” She says gratefully.
+
+“I’m guessing that scientist messed around with you too?” Carly asks.
+
+“Yes ma’am.” Lewis looks over at the wound on her arm. “I was shot while trying to fight back.”
+
+“Private,” you begin, “I need to know what’s been going on. Who’s invaded the ship? How long have they been on?”
+
+“I-I still don’t know much, ma’am...” Lewis says apprehensively. “When the intruder alert was sounded, I grabbed a gun and reported to my station, but they were all over us.”
+
+“When did they board?”
+
+“I don’t know... a month ago? I’m not sure how long I was even in that cell.”
+
+“This ship dropped off the grid nine months ago, private. That’s a lot of time to cover.”
+
+The private paused, her face tense with anxiety. “I... I think we entered some kind of nebula or something...” She looks up at you apologetically. “I’m sorry, captain, but I’m only a soldier! I don’t know much of what was going on!”
+
+“Tell me what you do know.” You say calmly.
+
+“All right.” Lewis takes a deep breath. “My station was overrun quickly. Our sergeant... ordered us to fall back to the security office. That was our base of operations for a while. We tried to mount a resistance... but there were so many... I don’t even know if anyone’s still alive.”
+
+Michelle taps you on the shoulder. “Captain, we’ve swept the area. There’s a few dead marines and navy crewmen but that’s it. No other survivors, no salvageable helmet logs from the troops.”
+
+“Understood.” You reply. It was good you found at least one survivor, even she didn’t remember much. “We’re trying to get to the bridge. Can you fight?”
+
+Lewis shakes her head. “I-I don’t think so, ma’am. I’ve been off my feet for God-knows-how-long, just vegetating. If you think you need me I’ll go, but I don’t think I’ll be much help.”
+
+“It’s fine, private. But you can’t stay here. Raimus will probably be back and I’d guess with guards.”
+
+“In that case, you should come with me, ma’am.”
+
+Your eyebrows perk up. “Oh? Why?”
+
+“A fall-back resistance location. Two decks above us.”
+
+You decide that this is as good a lead as any. Maybe someone would be there that knew what was going on. “All right, private. Lead on.”
+
+“We should go through the maintenance access, captain.” Lewis advises. “They’ve got all the lifts watched and could drop us at any time.”
+
+“Yeah. We found that out.” you muse.
+
+___
+
+(approximately 1 hour passes before you reach the intended destination)
+
+Squad Bladder Status:
+
+Isabel (you): 43%
+
+Michelle: 43%
+
+Jenni: 56%
+
+Carly: 58%
+
+___
+
+“Through here, ma’am.” Private Lewis leads you to a small cargo bay. During the ascent, and the long walk through deck 15, you felt pressure grow more rapidly upon your bladder. It would seem Raimus’ serum is at least doing half of its intended job.
+
+You and your team come upon a large metal crate with an electronic door on it. Lewis plays with the controls for a bit, until she finally unlocks the door. It slides open, revealing...
+
+A few roll-out beds, a small stockpile of food and water, and some monitoring equipment. Jenni takes a quick look at the equipment.
+
+“Deliberately and thoroughly sabotaged, captain.” She reports. “Looks like whoever was using this place moved on.”
+
+“Can you tell how recently?” You ask.
+
+“Weeks, maybe a month. A lot of dust built up in the heat intakes.”
+
+You sigh. “Well, I doubt the enemy will look here again, especially since they have us to deal with now.” You turn to private Lewis. “Rest up here, private. Stay tuned to our comm channel, just in case.”
+
+“Yes ma’am.” Lewis picks up a pistol. “I’ll help if or when I can.” The woman walks over to one of the beds and lays down. Naught more than five seconds after she rests her head, you can tell she’s already sleeping soundly; probably for the first time in weeks.
+
+You step outside of the cargo crate and close the door.
+
+“She can open it from the inside, right?” Carly asks.
+
+“It would be a real stupid base location to choose if they couldn’t.” Michelle comments.
+
+You take a quick look around, and you notice that Jenni’s missing. “Jenni! Where’d you go!?” You yell quietly to your helmet radio.
+
+“I’m at the door captain.” she answers. “Found another guide terminal. Pulled a map out for us.”
+
+You walk over to Jenni’s position, and sure enough she’s looking upon a ship-wide map.
+
+“Looks like there’s a way to cross from the aft section of the ship to the fore section from this deck. From there we can take the maintenance passages straight to deck 1.”
+
+“Then make our way to the bridge...” You murmur.
+
+“Exactly.” Jenni remarks. “It’s the most straightforward path I can give you that doesn’t involve lift usage.”
+
+“I’ll take it.” Finally things were coming together. You lead your team out of the cargo bay and down the hall. You move quickly, anxious to finally get some real answers to the situation.
+
+“Hold up, captain!” Michelle says. You hold a fist straight up, signaling all squad members to halt.
+
+“What is it?”
+
+Michelle looks ahead down the hall. She focuses the “eye” on her helmet. “Something’s there... moving.”
+
+“Thermal’s are clean, Michelle. I don’t see anything.” Jenni remarks.
+
+Michelle shakes her head. “Not organic. It’s...”
+
+“Intruders!” a mechanized voice says loudly. The rapid fire of an assault weapon begins to spray toward you.
+
+“Positions! Return fire!” You yell.
+
+Carly dives behind a pile of crates while you cover her, Michelle and Jenni take cover around the corner.
+
+“Security mechs?” Carly asks.
+
+A long red beam then cuts the air just centimeters above your head.
+
+“Negative,” you answer. “ Sentry drones.” You take a quick peek around the corner then retreat back. Sure enough, you saw the hovering tin cans that were Republic sentry drones. Doubtlessly repurposed by the Tempest’s new masters.
+
+You pop out of cover for a while an fire at the nearest drone. A small, blue bubble appears in front of it, stopping the shots before they reached the drone.
+
+“They have shields!?” Carly yells.
+
+How best to proceed?
+
+>Michelle, pick ‘em off!
+
+>Jenni, freeze ‘em!
+
+>Carly, give ‘em anti-armor!
+
+>Let’s get a grenade in there! (specify squad member and grenade type)
+
+>Continue firing!
+
+>Other
+
+A quick reminder grenade counts:
+
+{{:
+
+Isabel (you): 4 EC grenades
+
+Michelle: 2 flash-bang grenades, 2 trip mines
+
+Jenni: 2 frag grenades
+
+Carly: 2 frag grenades, 2 EC grenades, 1 plasma grenade
+
+}}
+
+*057*2013-03-13 06:16
+
+I got the same thing too for a minute. I re-edited it in full editor and it seems okay now.
+
+*059*2013-03-13 09:30
+
+{{:
+
+Makes sense. i was just wondering. its really good so far, by the way
+
+}}
+
+Please don't mistake my answer for a "no". I may not have considered it, but now that you bring it up, I don't think a little innocent yuri would hurt. It will now be possible for Isabel to build a romantic relationship with team members.
+
+*060*2013-03-13 09:48
+
+Squad Status:
+
+Isabel (you): Fine
+
+Michelle: Fine
+
+Jenni: Wounded
+
+Carly: Wounded
+
+Equipped Weapon: AR6L Assault Rifle (26/40 shots)
+
+___
+
+You pull out one of your EC grenades and press the switch. The grenade begins to make a high-pitched sound, sparks pulsating from within. You peek out of cover again and get ready to toss the grenade directly under the group of sentries.
+
+The nearest drone once again fires its cutting beam at you.
+
+Your adrenaline amplifier kicks in, and in the blink of an eye, you move to the side and just barely avoid getting hit.
+
+You toss the grenade, you hear it bounce off the shields of one of the drones, and then... ZAP!
+
+You look over again at the drones. They appear unaffected, save for the electric currents circling them.
+
+Jenni takes a few shots at one of the drones and manages to shoot one of it’s guns off. The drone returns fire with its beam weapon, burning Jenni in the arm.
+
+[Jenni has taken damage]
+
+But you see it now! Your grenade took out all the drones’ shields!
+
+>Michelle, pick ‘em off!
+
+>Jenni, freeze ‘em!
+
+>Carly, give ‘em anti-armor!
+
+>Toss another grenade! (specify squad member and grenade type)
+
+>Open fire!
+
+>Other
+
+*065*2013-03-14 03:58
+
+Squad Status:
+
+Isabel (you): Fine
+
+Michelle: Fine
+
+Jenni: Wounded
+
+Carly: Wounded
+
+Equipped Weapon: AR6L Assault Rifle (26/40 shots)
+
+___
+
+You look over at Carly. “I’m gonna toss another EC grenade to knock ‘em out. Once their down, give ‘em an anti-armor round.”
+
+“Got it.” Carly switches her SMG for her anti-armor launcher. “Ready when you are, captain!”
+
+You prime another of your grenades. To take pressure off of Carly, you fire a few bolts at the drones as you dash out of cover towards Michelle’s and Jenni’s position. Before you reach Michelle and Jenni, you toss the grenade towards the drones.
+
+[-1 EC grenade]
+
+Your leg burns with pain as something strikes it hard. “Agh!” You stumble, but Jenni catches you before you fall. One of the drones must’ve gotten a lucky hit.
+
+[You have taken damage]
+
+Though Jenni, stops your fall, she is hit again by a drone. The accuracy of these things was remarkable for a machine.
+
+[Jenni has taken damage]
+
+Your grenade detonates, each drone is now struggling to stay afloat in the air, but is losing the struggle. They are unable to fire.
+
+Carly pops out of cover, her weapon aimed at the enemies. “Say ‘goodbye’!” She fires a round from her weapon, and the orange bolt collides with a drone.
+
+When the smoke clears, you see the floor is littered with mechanical parts.
+
+“Well done, team.”
+
+You look at where you were hit. The damage was slight, but being struck by an energy bolt hurt bad whether you had armor or not. At least there was no crippling damage.
+
+“How are you doing, Jenni?” You ask.
+
+Jenni breathes rather heavily. “Still good... captain.” She struggles, but manages to stand up straight. “I can walk, I can aim. No problems.” You look over at her side; Jenni’s clearly bleeding. But if she says she’s fine...
+
+Time to continue now that the drones were out of the way.
+
+___
+
+Chapter 2: Insurrection
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Michelle: Fine
+
+Jenni: Critical
+
+Carly: Wounded
+
+Squad Bladder Status:
+
+Isabel (you): 65%
+
+Michelle: 60%
+
+Jenni: 90%
+
+Carly: 81%
+
+Equipped Weapon: AR6L Assault Rifle (15/40 shots)
+
+___
+
+You arrive at a large double door with the label, “To Forward Section.”
+
+“Is this it, Jen?” you ask.
+
+“Yes captain.” Jenni replies. “From here we can head to the forward half of the ship. Maintenance tunnels should lead straight to deck 1 then.
+
+It almost seemed too easy. Finally you’d be arriving at deck 1, and then making your way to bridge, after all the hardships you’d already endured. “All right, Lieutenant. Get those doors open.”
+
+Jenni steps over to the door controls, presses a few buttons, and in a few seconds the door slides open. “Door controls hacked, we can proceed.” And so you step through into the next hallway.
+
+“We need to find maintenance tunnel access.”
+
+“Captain?” Jenni asks.
+
+“What is it?”
+
+“I’m really sorry, I know you ordered us not to acknowledge it but...”
+
+“I gotta pee so bad right now!”
+
+“Raimus’ serum appears to be doing an adequate job.” Michelle comments. “I gotta go too.”
+
+“Yeah. Me three.” Carly adds, shifting uncomfortably.
+
+You frown grumpily. You’re annoyed that your team is once again complaining about something incredibly trivial in comparison to the objective, but then again, you had to go badly too. Due to your wounds, Raimus’ serum was working a little quicker, trying to be rid of foreign bacteria. If that was the case, it must be working very fast in Jenni, her wounds being the most extensive.
+
+What to do:
+
+>Focus on getting to the bridge
+
+>Search for a bathroom
+
+>Order Jenni to pee on the floor
+
+>Order everyone to pee on the floor
+
+>Other
+
+*072*2013-03-15 07:20
+
+{{:
+
+Use a medkit to heal Jenni, then look for a bathroom.
+
+}}
+
+{{:
+
+Medkit on Jenni, then try and find a bathroom.
+
+}}
+
+{{:
+
+Yeah, let's heal her before searching a bathroom.
+
+}}
+
+This appears to be the preferred vote. While I'm sure it would have been a kick watching four female soldiers pee all over the floor, the squad would have not forgiven you for giving such an order. Anyway...
+
+___
+
+Squad Status:
+
+Isabel (you): Wounded
+
+Michelle: Fine
+
+Jenni: Critical
+
+Carly: Wounded
+
+Equipped Weapon: AR6L Assault Rifle (15/40 shots)
+
+___
+
+“Jenni, before anything else, heal yourself. That’s an order.”
+
+Jenni nods. She takes her medical kit and begins to administer the bio-regen gel to her wounds
+
+[Jenni has returned to “Fine” status; Jenni’s bladder status reduced to 65%]
+
+“Ooh yeah...” Jenni sighs as she injects the energy booster into her neck. “Hm, weird.” she says.
+
+“What is it?” Carly asks.
+
+“I don’t have to go quite as bad anymore.”
+
+“The bio-regen gel coupled with the energy booster is probably strengthening all your lower body muscles for a bit, so it’s easier to hold it.” you hypothesize.
+
+“What!?” Carly yells. “I want to do that!”
+
+You glare at Carly. “You will do no such thing unless you are severely wounded.”
+
+“But captain, I gotta pee!”
+
+“And you’re not the only one! But it’s no excuse to go wasting medical resources, especially when we don’t have access to more!”
+
+Carly sighs. “Captain Lester, let me point out-”
+
+“Shut up, Carly!” you shout. Carly’s talkative mouth ceasing moving.
+
+You feel your blood boiling. Frustration builds up inside you. You cannot believe the words about to come out of your mouth. “Squad... fan out and secure... a bathroom.” You nearly had an aneurism as you spat out that final word. You were prioritizing peeing over solving the mystery of the Wild Tempest. Still, you suppose, having to hold one’s pee, or even wetting oneself in the middle of a firefight was not the most effective way of fighting.
+
+There were three ways. Left, right and straight. “Carly, head left. Michelle, head right. Jenni, with me. We’ll take the middle.
+
+Heading down the hall, you look left and right, searching for a either just a small restroom, or an entire locker room. Anything would suffice. Although you would never admit it to your team, you were pretty desperate for a toilet as well. Hell, you might even take a bucket.
+
+“Captain...” Jenni says softly.
+
+“Yes, Jen?”
+
+“I’m really sorry about this. You know I’d never question your orders but...”
+
+“There’s... a different element in play here, Jenni.” you explain. “Raimus’ serum is constantly filtering our bodies and sending everything straight to the bladder. Even if we ate or drank nothing, we’d still be needing to pee at some point, I bet.”
+
+“I just don’t want to seem like I’m overstepping your authority or anything.” She says.
+
+You smile. Her sincerity is touching, to say the least. “You’ve been a good soldier and friend, Jenni. I’d never think so low of you.”
+
+Jenni smiles bashfully. “Thanks, Isabel. Er... captain.”
+
+[Relationship +1 with Jenni]
+
+You hear a buzz from your helmet radio. “Captain, it’s Michelle. I found an small personal bathroom. Level 0 security lock. Want me to crack it?”
+
+“Yes, Lieutenant. Don’t actually go until someone’s there to stand guard, understood?”
+
+“Yes, ma’am. Michelle out.”
+
+You look at Jenni and gesture back towards where you came from. As quickly as you can, you double back toward Michelle’s position.
+
+____
+
+Squad bladder status:
+
+Isabel (you): 71%
+
+Michelle: 63%
+
+Jenni: 68%
+
+Carly: 85%
+
+____
+
+You arrive and find Michelle standing in front of a small door. Carly follows up soon after.
+
+“All set to go, ma’am.” Michelle says. “On your order.”
+
+“All right then.” You figure she with the higher percentage should go first. “Carly, go ahead.”
+
+“Thank you, captain!” Carly says with relief. She rushes into the tiny room and closes the door. From outside, you can hear the faint tinkle of fluids passing coming from within, which only served to increase your need. “Oooh... oh yeah! Sweet relief!”
+
+[Carly has peed. Percentage reset to 0%]
+
+Michelle slams on the door a few times with her fist. “Shut up and get out!”
+
+The door opens and Carly steps out, a huge grin on her face. “Who’s next?” she asks.
+
+“I’m going by the highest bladder status.” you say.
+
+“So you’re up then, captain.”
+
+You step into the room and close the door. The room really is small. No more than three squared meters probably. Ah well, a bathroom’s a bathroom. It had a toilet and a hand-washing unit. That was enough.
+
+Going to the bathroom in this armor wasn’t easy, but the designers clearly gave the matter consideration. Through your helmet computer, you release the armor piece that covers your crotch and lower body. You then unseal your suit at the crotch. With all appropriate coverings removed you, at last, sit down upon the toilet and relax all lower body muscles. It isn’t long until you feel liquid passing out of your body, and hear it spilling into the bowl below. “Yes...” you moan in pleasure. “Ah... that feels good.”
+
+[You have peed. Percentage reset to 0%]
+
+With the contents of your bladder finally emptied, you deeply breathe in complete relaxation... until the next few hours pass. Regardless, you feel better now. You get up and reseal the crotch of your body suit. You reattach your armor piece, open the door and step out.
+
+“Jenni, you’re up.”
+
+___
+
+[Jenni and Michelle have peed. Percentages reset to 0%]
+
+___
+
+“Well that takes care of that.” Michelle says as she steps out of the bathroom.
+
+“Now that everyone has finally relieved themselves, can we please focus in the mission?” you ask.
+
+It was time to head for the bridge.
+
+___
+
+(about a half hour later)
+
+___
+
+As you climb the ladder in the maintenance tunnels, you come to a halt. The ladder’s been cut just below deck 2.
+
+“Seems someone is onto us.” Carly notes.
+
+“We’ll get off here on deck 3. We should be able to to find another route from there.”
+
+You step off the ladder into the deck 3 tunnels. You step out of the hatch, with Jenni exiting right behind you.
+
+You hear a slight creaking metal noise above you, and look above to see the hatch seal quivering. “Whoa!” You shout as the hatch suddenly slams closed.
+
+“What just happened!?” Carly yells over the radio.
+
+“The hatch shut on its own!” Jenni answers. “Magnetic locks are in place, I can’t override from here!”
+
+“It’s all right! Calm down team.” You say. “Michelle, Carly, double back to deck 4, try to find another route to the bridge.”
+
+“Affirmative, captain.” Michelle answers.
+
+You sigh. One trouble after another, and now Blue team was at half strength.
+
+“Look on the bright side,” comments Jenni, “we get a nice chance to bond.” She nudges you with her elbow.
+
+When you really thought about it, how much did you know about Jenni Freeman? You read her biography and her service record, of course, but you never actually asked her. This was a good opportunity to get to know her better.
+
+What would be a good topic to discuss with Jenni?
+
+>Where are you from?
+
+>How/why did you join the marines?
+
+>Any marriage plans? Family?
+
+>How’d you get to be such a good technician?
+
+>So... what’s up with the freeze gun?
+
+>Are you attracted to me?
+
+>Want to have sex with me?
+
+>Forget it. No discussion.
+
+>Other
+
+As you may have noticed, this is a chance to initiate the yuri aspect of this story. Good choices of dialogue will improve your relationship with a squad member.
+
+Here, Jenni is a duty-bound, morally driven individual. Initiate the conversation according to that, and your bond will improve. Poor choices of dialogue, such as going against a teammate’s nature, or betraying their trust in you as a leader will harm the bond. Judge whether a teammate is “interested” in you by how they react. After +5 relationship points, they become very open to you. At +10 points... things can get... passionate.
+
+Build bonds with your squad members and they may, one day, be willing to have a relationship (or just sex) with you.
+
+Current relationships scores:
+
+Michelle: 1
+
+Jenni: 2
+
+Carly: 1
+
