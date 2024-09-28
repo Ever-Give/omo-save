@@ -1,0 +1,50 @@
+Unofficial Style Guide
+
+Author: Ranpalan
+
+*000*2011-04-26 22:11
+
+While I am greatly pleased by the growing number of stories on this site, I've noticed that are formatted in rather peculiar ways, leading to readers complaining about the formatting and authors wondering about the lack of replies they are getting. Due to this, I've taken the initiative to write a brief list of Dos and Don'ts for new authors to follow in case of doubt.
+
+Following anything on this is by no means obligatory, and I will gladly accept feedback on the points made. Now, without further ado, to the list:
+
+Do check your spelling and grammar before posting. Often, it will help to simply put off posting for a few days, and re-read the story after that; many of the errors will become apparent. If that doesn't help, use a spellchecker or ask someone to proofread your story. Do use proper English. Two people should not talk in the same paragraph. Jumping between past and present tense is bad. Small mistakes like this often make the story harder to follow. Punctuation and capitalisation are necessary. For more details on grammar, see this thread
+
+(thank you, Toki-chan). Do do all the formatting when pasting to the site, and make sure to preview your post before submitting it. Copy pasting the story will often break past formatting. Do put an empty line after every paragraph. This will make the story look a lot less like a block of text, and usually improve readability. (Indenting every paragraph is currently not possible in an easy way.)
+
+Do note that using tildes for making words sound long and cuuuute has drawbacks. You're free to do so, but they will look weird when typeset, and are by no means standard English. Tildes are now fine. Do, in the Topic Description, and at the top of the post, state all the appropriate warnings. `Female Desperation and Wetting' is implied, although still appreciated; `loli', `scat', `sex', etc. should all be explicitly stated. Do use ``text'' or “text” for double quotes instead of "text". This is not very noticeable in the forum, but makes your story much easier to reformat into a shiny book if the need ever comes (see Zryouiki's Wet Note). Do give your story a descriptive title that you would not mind seeing it distributed as. Do include a `don't distribute this' notice if you don't want to see your story reposted.
+
+Most people assume stories may be reposted on other sites. Don't post your story only as an attachment, unless you are willing to accept that fewer people will view it. Most people will not want to download anything. Don't include a .doc file, unless you're including other formats. Instead, include a .pdf will provide the exact same functionality, while allowing for a larger audience1. Best is to provide a .pdf and a .html; with those two, everyone should be capable of viewing your story. Don't expect a lot of reviews, unless you review the story yourself, too. Posting a little on what you think of your own work will motivate others to comment on that. Don't be afraid of negative replies; this is a very tolerant forum, and you'll probably have several people tell you your story is great.
+
+I hope that helps; suggestions for more are welcome, as are comments on the current ones.
+
+1 This may seem like a minor point to an average user, but it has technical benefits. If anyone cares about why, start a new thread or PM me.
+
+MasterBowler
+
+, Vaporbender
+
+, Ronyo
+
+- and 7 others
+
+Upvote
+
+Loading..." data-ipsTooltip-ajax="https://www.omorashi.org/topic/1377-unofficial-style-guide/?do=showReactionsComment&comment=12869&reaction=1&tooltip=1" data-ipsTooltip-safe title="See who reacted "Upvote"" 9
+
+Downvote
+
+Loading..." data-ipsTooltip-ajax="https://www.omorashi.org/topic/1377-unofficial-style-guide/?do=showReactionsComment&comment=12869&reaction=7&tooltip=1" data-ipsTooltip-safe title="See who reacted "Downvote"" 1
+
+Quote
+
+*005*2011-04-27 05:03
+
+The reason for the funny quotes is that LaTeX expects opening quotes and closing quotes to look differently. When someone uses ``text'', I don't need to do anything to achieve this; these are already the quotes I want. UTF quotes (“text”) are also easy, because I can search+replace everything. When normal "text" quotes are used, I have to search+replace one quote per line at a time, and it can be very troublesome if a certain line has an uneven number of them. If I get it wrong, there may be only opening quotes, or only closing quotes, or an incorrect mix of the two, which wouldn't look very good.
+
+Speaking of which, I should probably remember to mention tildes.
+
+*009*2011-04-30 14:44
+
+Sure, that'd be a good addition. I was mostly focusing on general formatting, as opposed to grammar, but linking to a grammar guide is always a good idea.
+
