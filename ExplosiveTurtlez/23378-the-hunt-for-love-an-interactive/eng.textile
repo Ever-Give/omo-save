@@ -1,0 +1,510 @@
+The hunt for love (an interactive fantasy adventure)
+
+Author: ExplosiveTurtlez
+
+*000*2014-11-08 15:46
+
+It's a fine morning in the village of Faytho. You rest uneasily on your bed, listening to the sound of birds chattering and barterers bickering at shopkeepers for a lower price. Today is the Market Festival, and your anxious to get your greedy hands on goods never before seen to these lands. You hop out of your bed, exposing your nude stature to your whole room to see, and look outside your window. Crowds of people from many different villages have arrived to buy things cheap to luxury. Your mouth drools for those imported goods, but that's not the only thing you could use right now; a good ol' morning piss...
+
+Select your character:
+
+Gavin Hothreen: Gender: Male, Height: 6.3, Age: 21, Interests: Forgery, Sparring, Farming
+
+Natillie Rays: Gender: Female, Height: 5.9, Age:18, Interests: Singing, Dancing, Art
+
+(I will explain combat tutorials, level up system, bladder mechanics, and other things when appropriate.)
+
+*004*2014-11-08 21:51
+
+You are Natillie Rays...
+
+Your long golden hair reaches down to your waist. Your cyan eyes glimmer in the sunshine. Your D size bosom jiggles with each step. You are a figure of beauty to the entire village, with the kindness of your mother, and the strength of your father...
+
+You look out the window, shielding your naked form behind the curtains. All the other villagers are enjoying the festival; deals, auctions, and purchases being made left and right, from small trinkets for the kids back home, to entire acres of land and property. You can't wait to get outside and join everyone... of course you've gotta put some clothes on first... because going outside naked? Now that would be just too easy. Your bladder is another situation you may wish to take care of...
+
+Describe action or actions you wish to take...
+
+(Examples: Search room? Put on clothes? Wash up? Etc...)
+
+*007*2014-11-09 19:29
+
+{{:
+
+Search Room.
+
+}}
+
+You search your room thoroughly... On you desk are small decorative dolls that you yourself have crafted stitch by stitch. There is also a mirror in front of you. You can't help but admire your own body... After all, you are the "village beauty" for a reason.
+
+On your bed are several pillow and the ruffled sheets you slept under. Underneath your bed is a small brass chamber pot, empty and in perfect condition to be used... Above your bed, mantled in full glory is your sword "Goldenstream." Your weapon of choice is a rapier; it's hilt is a golden heart that has a sharp edge across the outer rim, and extending upward and then outward from the heart hanging on curved bars are two smaller gold hearts, overall giving the hilt a bladder shape with two kidneys... totally a coincidence... The blade itself is long and thin. The very tip of the blade is barbed on both ends, giving the blade an aerodynamic arrow shape. This blade was crafted by your mother who runs the town forgery. She's an expert at bending both hearts and steel with her compassion and affection.
+
+Goldenstream: Offense +18 Attack bonus/ Speed +10
+
+Do you wish to equip this item on Natillie? Y/N
+
+{{:
+
+I think it would be wise to get some clothes on before leaving the room for whatever reason, since there might be a window Natillie has forgon about and she wouldn't want to accidently show her nakedness to the people outside. Off course, Natillie will have to look in her wardrobe and select some nice clothes.
+
+}}
+
+You walk up to your wardrobe. Several lovely dresses are aligned neatly inside...
+
+Describe the clothes you wish to wear...
+
+*010*2014-11-10 02:11
+
+{{:
+
+These market festivals trend to have a little or bigger swordfighting tournament, with a nice piece of price money, so I vote for equiping the Rapier. For the clothes I would suggest a light summer dress.
+
+}}
+
+{{:
+
+Maybe something that shows off some cleavage if that would help get things a little cheaper? I know that's incredibly crude and stereotypical, but if it works it might be worth a shot?
+
+}}
+
+After a bit of thinking over, you decide to choose a lovely blue dress. There is a large heart shaped opening near the chest area, exposing your cleavage quite liberally in hopes of getting "both a shopkeepers eyes for half the price." You seem to have quite an obsession for heart patterns...
+
+Equipped: Lovely dress
+
+Strength: 21=21
+
+Defense: 14<15
+
+Charisma: 30<35
+
+Intelligence: 18=18
+
+Speed: 25=25
+
+From a distance, beyond the sound of trade, is the sound of clashing steel and a wild crowd. All your life you've wanted to enter the Market Festival Fighting Tournament... and now that you've grown into a mature lady, with some fighting experience from your long-passed father, you think your finally ready to enter! Of course, you'll need your trusty Goldenstream if you want a chance to become victorious... You remove your weapon from it's stand and attach the sheathe to your right side (yes you are left-handed). "Goldenstream" is engraved in cursive on the hilt.
+
+Equipped: Goldenstream
+
+Strength: 21<39
+
+Defense: 15=15
+
+Charisma: 35=35
+
+Intelligence: 18=18
+
+Speed: 25<35
+
+After doing a few more finishing details such as tidying your face, you begin to feel excitement rush through your body... or is that just you filling bladder?
+
+Any last actions before going outside?
+
+*012*2014-11-11 15:17
+
+{{:
+
+Maybe get a drink of water, if we're going into the tournament we don't want to be dehydrated
+
+}}
+
+You take a sip from the metal mug that was left on your nightstand. You feel more hydrated.
+
+Bladder meter: 80/150
+
+(Bladder tutorial: Throughout your adventure, your primary source of healing will be in drinks [water, tonic, potions, etc]. Depending on the drink you consume will increase your bladder meter by a specific amount.
+
+Your bladder will also slowly increase over time, so keep that in mind.
+
+Water: HP +30/ Bladder +10
+
+Fresh water: HP +50/ Bladder +10
+
+Magic Water: HP +70/ Bladder +15
+
+Juice: HP +40/ Bladder +20
+
+Soda: HP +50/ Speed +10 for 3 battle turns/ Bladder +20
+
+Coffee: HP +50/ Speed +20 for 5 turns/ Bladder +40
+
+Medicine: HP full/ Bladder +90
+
+As of now, your bladder can only contain up to 150, so be careful of what you drink, where you drink it, and how much you drink. You may relief yourself in anything that would seem appropriate [a toilet, chamberpot, jars, bottles, etc] You may also relief yourself in desolate areas, but there must be no NPC's, enemies, or other creatures, and you must be outside or in a dungeon to do so.
+
+If your bladder reaches it's maximum capacity, you will enter an "emergency phase." You will have 5 actions to relief yourself [whether you are on the field or in the middle of a battle]. If you run out of actions you will end up wetting yourself. When this happens, a random event may occur, whether it hinders your progress or benefits it. You'll never know. Hell you might even consider wetting yourself just to see what'll happen.
+
+End of bladder tutorial)
+
+You step outside your front door. Clusters of stands and markets fill the village square, hundreds of people gathered around. Off in the distance you see a large circus tent that is holding the tournament that you crave for... and it just so happens at the very entrance of the tent is a stand selling hand-crafted weapons; your mother is behind the counter, selling arms to participants of the tournament.
+
+What will you do?
+
+*016*2014-11-12 22:44
+
+{{:
+
+If we know our mother is likely to approve of us entering the tournament, I'd say we go up to say high and have a browse of any equipment they have (although I'm happy to keep Goldenstream as our primary weapon personally).
+
+If she isn't likely to approve, then maybe we could try and sneak past when she's busy with a customer so we can find the area to register?
+
+}}
+
+{{:
+
+Check out the weapons stand. Screw this speed crap, let's get ourselves a greatsword. Or at least a shield, if nothing else. A rapier isn't particularly enhanced by being wielded two-handed.
+
+}}
+
+You walk up to your mother's shop, being stared at by the drooling warriors in line who would love to "explore your dungeon." Your mother smiles at you with a grin as bright as the Sun goddess Solithia's asscrack, and gives you a hug...
+
+Mother:
+
+Well... You're up bright n' early. Couldn't sleep well?
+
+Natillie:
+
+Actually I slept just fine... How's business going along?
+
+Mother:
+
+With all these ironheads signing up to fight, I'm making money faster than a goblin can scream "Oh fuck there's a greatsword in my eye!"
+
+Natillie:
+
+*Giggle* Say... Any supplies that can help me out there?
+
+Mother:
+
+Out where? ... Wait... you're not telling me your gonna fight too, are ya?
+
+Natillie:
+
+Mom I'm a grown woman. I've always wanted to fight in there and prove to all the boys that I'm not just eye-candy. Plus it'll get us some spare cash if I win.
+
+Mother:
+
+*sigh...* I'm not happy about it... but if this is what you wanna do then I'll be supporting you the whole way through.
+
+Natillie:
+
+Thank you *hugs*.
+
+Mother:
+
+Now as far as equipment goes, I've got some weapons and armor for you. You've already got Goldenstream on ya, so I'd highly suggest something to protect your skin... After all, there ain't nothin' better than the sword I gave you when you were a little girl. Plus in that slutty outfit? You may as well stand in front of a target and yell "you can't hit me."
+
+Natillie:
+
+Wh-Who said this looked "slutty?!" I think it looks beautiful.
+
+Mother:
+
+*snicker* You say that... but I know you just wanna schmooze merchants down to a cheaper price. What was that you said about not wanting to be eye-candy?
+
+Natillie:
+
+Yeahyeahyeah... just show me what ya got...
+
+Grands: 1000
+
+Iron Broadsword: =G 200 / Strength +11 / Speed +5
+
+Iron Greatsword: =G 500 / Strength +20 / Speed -30 / (requires 55 Strength [current Strength 39])
+
+Iron Throwing Knives: =G 20 per knife / Damage +10 / (requires 60 Dexterity [Dex =Strength+Speed] [current Dexterity 39+35=74])
+
+Wooden Buckler: =G 100 / Defense +10
+
+Iron Buckler: =G 250 / Defense +15
+
+Iron Heater: =G 300 / Defense +20 / Speed -2 / (requires 10 Stamina [sta =Strength+Defense] [current Stamina 39+15=54])
+
+Leather Armor: =G 400 / Defense +17
+
+Iron Armor: =G 500 / Defense +23 / Speed -5 / (requires 30 Stamina [sta =Strength+Defense] [current Stamina 39+15=54])
+
+Key:
+
+Green: Better bonuses than what you have equipped (when enough experience with item is gained, Bonus is increased [determined by roll of d6])
+
+Red: Not as good bonuses as what you have equipped
+
+Dark Red: Reduces your stats (when enough experience with item is gained, stats are gained back [determined by roll of d6])
+
+Currently equipped:
+
+L. Hand: Goldenstream (Strength +18 / Speed +10)
+
+R. Hand: Nothing
+
+Body: Lovely Dress (Defense +1 / Charisma +5)
+
+​Accessory 1: Nothing
+
+Accessory 2: Nothing
+
+Accessory 3: Nothing
+
+Accessory 4: Nothing
+
+*020*2014-11-13 00:10
+
+{{:
+
+Greatsword too heavy ;____;
+
+Well, if we stick with the rapier, we don't want any speed penalties, so let's try an iron buckler and the sexiest cut of leather armor available. Grab a few throwing knives as well. Also, our mom is charging us ;____;
+
+}}
+
+{{:
+
+I can't believe it. Your own mom charging you rates like that. That's practically robbing you.
+
+Regardless of how morally wrong this is I would have to agree with blooper.
+
+}}
+
+{{:
+
+Well first of all we don't know what prices our mother normally charge for the items. So maybe she is only charging us the price of the material used .
+
+I am voting for the leather armor, the iron buckler and some throwing knives as well.
+
+}}
+
+Purchases:
+
+Iron Buckler
+
+Leather Armor
+
+Iron Throwing Knives x10
+
+Total cost G 850
+
+Current Grands G 150
+
+(Also just so you know certain actions will be on a first come first serve basis. Things like exploring a room can have as many inputs as you guys want, but things like shopping and combat will follow this first comment rule. This is mostly to prevent confusion or arguments. Example: Someone wants to buy one piece of armor, but someone else wants to buy different armor...)
+
+You look at your mother a little annoyed...
+
+Natillie:
+
+Thanks for the stuff but... did you really need to charge your own daughter?
+
+Mother:
+
+Hey, I gotta make some money too! Plus that money used to be in my pockets.
+
+Natillie:
+
+But you only give me a 20 Grand allowance per week! And every job I get hired for I get stared at by creepy men...
+
+Mother:
+
+And you spend most of it on useless junk... You're lucky I still even give you an allowance at your age!
+
+Natillie:
+
+*sigh*... fine... Where can I sign up to fight?
+
+Mother:
+
+You don't need to sign up. Just go inside and go straight ahead. There you'll enter the preliminary rounds where they choose the top 16 fighters. I'd better hurry if I were you cause I heard they've already chosen their 14.
+
+With that you give your mother one last hug for good luck and you head on your way.
+
+Inside the tent, the crowd prepares for the upcoming battle. In the very middle, a large gathering of warriors alike watch as two fighters duke it out (which would explain the sound of clashing blades that you could hear outside).
+
+You walk toward the crowd, bumping into people with your large bosom and observe the battle. One man was already on his knees when the pommel of a blade was driven into his head by the opponent, knocking him out cold. Half the participants cheer, the other half boo.
+
+Announcer:
+
+Well, judging by your skill, I'd say you're ready for position #15! Now we've only got one last place for the tournament so ya'll better get ready now! Who's gonna be the next pair of fighters?
+
+The warriors yell in excitement when you walk in the center...
+
+Natillie:
+
+I'm gonna take that position, no matter what!
+
+The crowd bursts out laughing!
+
+Crowd and Warriors:
+
+A LADY?! GIRL JUST GET OUT NOW AND SPARE YOUR HIDE!
+
+SWEETIE THE ONLY POSITION YOU SHOULD BE TAKING IS DOGGY STYLE!!
+
+HOW ABOUT YOU LET ME IN #16 AND I LET THE LASS HERE #69!!!
+
+A FINE PIECE OF ASS LIKE YOURS DOESN'T NEED TO GET CHOPPED UP NOW!!! COME UNDER MY BED INSTEAD!!!!
+
+The offensive talk being directed at you agitates you greatly, but your determination remains unhindered. The announcer looks at you confused.
+
+Announcer:
+
+Well uh... um... uh... Alright then... Who will be the next opponent to challenge this... brave lady?
+
+A large, beefy looking man stands before you, looking down upon you intimidatingly.
+
+Larz:
+
+If I win, I'm taking both you and your ass to my place!!!
+
+You look back at him just as menacingly.
+
+Natillie:
+
+Just try it F-f-fucknuts!
+
+(I would advise you take a brief look at your stats and familiarize yourself before you initiate the battle)
+
+Observe stats? Or battle right away?
+
+*022*2014-11-13 01:29
+
+{{:
+
+Couldn't you have just shown the stats? Do we have to take an in character action to observe them?
+
+}}
+
+(I actually kinda worded that wrong -_-... Your not necessarily using an action to look up stats only, but rather to open up a character menu [stats, inventory, attacks, magic, etc. I apologize if that seemed misleading.)
+
+{{:
+
+As I look at our stats, I realize our stamina goes up as we equip stronger armor and weapons o.o
+
+}}
+
+(Well technically all stats go up a certain amount as you level up. Stamina counts as a "special stat" rather than a "base stat." Special stats are combinations of base stats that do different things. Evasiveness is Defense+Speed, Stamina is Strength+Defense, Intimidation is Strength+Charisma, etc. Different special commands pop up throughout your adventure as they aren't listed in your character menu, but will explain what stats are needed when the special command is available. Special stats are NOT used in combat, only base stats are. What you probably read though was stronger equipment usually have some kind of drawback to them, however most equipment have separate exp. and gain said exp. the more you use these items. When an item reaches a new level it will increase it's bonus by a d6 roll and it's drawback will shorten by a d6 roll as well.)
+
+{{:
+
+Also, is our opponent unarmed because he's hoping not to damage our beautiful body, or did you just not describe his weapon?
+
+}}
+
+You observe your opponent carefully. You notice he has what appears to be metal spikes between his knuckles on both hands. Well... he REALLY wants you in bed and is willing to do literally anything for it...
+
+{{:
+
+Let's observe stats before we murder this fool.
+
+}}
+
+Natillie Rays LV. 5 [xp. o/500]
+
+Stats
+
+HP: 200/200
+
+Strength: 39
+
+Defense: 46
+
+Charisma: 34
+
+Intelligence: 18
+
+Speed: 35
+
+Bladder: 81/150 (In desperate need)
+
+Equipped:
+
+L. Arm: Goldenstream (Strength +18 / Speed +10) [xp. 0/200]
+
+R. Arm: Iron Buckler (Defense +15) [xp. 0/100]
+
+Body: Leather Armor (Defense +17) [xp. 0/150]
+
+Accessory 1: Nothing
+
+Accessory 2: Nothing
+
+Accessory 3: Nothing
+
+Accessory 4: Nothing
+
+Attacks:
+
+Assuring Strike: d20+Strength (This attack has armor piercing and ignores damage reduction)
+
+Multi Stab: 2 d12+Strength
+
+Gleaming Flurry: 8 d4+Strength
+
+Magic:
+
+Aqua 1: 1 d20+Strength+(Intelligence/2) (2x damage to fire-based enemies)
+
+Inventory:
+
+150 Grands
+
+Lovely Dress
+
+Iron Throwing knives x10
+
+*024*2014-11-13 02:12
+
+{{:
+
+Well, I was more referring to that there is a stamina requirement for heavier armors, but wearing heavier armor increases your stamina because it increases your defense, which doesn't entirely make sense but isn't particularly relevant, so whatever.
+
+In any case, let's go ahead and stab/nonlethally stab this guy, depending on the rules of the contest. Since he appears to be unarmored, unless he get's natural armor for his muscles, let's go with Gleaming Fury, because I see no reason not to choose the highest damage attack.
+
+I assume our need doesn't interfere with our combat capabilities, because otherwise we probably would have gone before entering a combat tournament x.x
+
+}}
+
+(Stamina and Defense aren't necessarily the same thing but that's not too important...)
+
+Larz: HP 100/100
+
+Natillie: HP 200/200 | Bl: 81/150
+
+Natillie goes first!
+
+Natillie uses Gleaming Flurry!
+
+3+1(miss)+2+3+1(miss)+1(miss)+1(miss)+2+3=52-19Def=...
+
+42 Damage!
+
+Larz: HP 58/100
+
+Natillie: HP 200/200 | Bl: 81/150
+
+Larz's turn!
+
+Larz goes for a stomach punch!
+
+14 Damage!
+
+Larz: HP 58/100
+
+Natillie: HP 186/200 | Bl: 82/150
+
+Natillie's turn!
+
+Attacks:
+
+Assuring Strike: d20+Strength (This attack has armor piercing and ignores damage reduction)
+
+Multi Stab: 2 d12+Strength
+
+Gleaming Flurry: 8 d4+Strength
+
+Magic:
+
+Aqua 1: 1 d20+Strength+(Intelligence/2) (2x damage to fire-based enemies)
+
+Actions:
+
+Use Item
+
+Defend
+
