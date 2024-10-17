@@ -1,0 +1,170 @@
+Dungeons & Desperation - a CYOA - Page 3
+
+Author: anonymous guy choc
+
+*051*2014-06-26 23:42
+
+Character creation is now complete. Meet Fira, the elven psion. Raised by the noble house Erlana in the isolated elven forest-city of Deepwhistle, tucked away in a safe haven of the kingdom of Yellowstream.
+
+Yay! A body! Oops, off I go.
+
+Psionic spells known:
+
+Sense thoughts (detects creatures within a certain radius, so long as they have the ability to think.)
+
+Minor Telekinesis (Use a clumsy telekinetic force that can lift half what you can at a radius out to 50 feet. Requires concentration to maintain.)
+
+Force Blast (A nonlethal pulse of force that knocks back enemies.)
+
+Hover (allows you to hover up to 10 feet off the ground. Requires concentration to maintain.)
+
+Psychic sword. (conjures a blade of pure force that can be wielded like a longsword.)
+
+Detect Magic (instantly identifies if an item or area contains magic. Does not say what the magic does, but can give a sense as to it's basic properties.)
+
+Telepathy (telepathic communication with willing subjects out to 50 feet.)
+
+Bonus Elf spell: Sense intention (gives a basic indication of the target's intention at this moment form this list: Hostile, fearful, in need, helpful, friendly, neutral, other.)
+
+Trained skills:
+
+Diplomacy (noble bonus)
+
+Animal riding (elf bonus)
+
+Arcana
+
+History (noble bonus)
+
+Perception (elf bonus)
+
+Untrained skills with special modifiers:
+
+Nature (elf bonus)
+
+Bluff (noble bonus)
+
+Animal empathy (elf bonus)
+
+Streetwise (noble bonus)
+
+Current inventory:
+
+Noble's dress. (wearing)
+
+Psionic focus: crystal.
+
+Dress shoes. (wearing)
+
+Healer's kit containing bandages, poultices, and a minor anesthetic.
+
+Full waterskin
+
+Food for two fine meals.
+
+Set of extra clothing
+
+250 gold pieces kept in a money belt.
+
+Suitcase holding the clothing, kit, food, and waterskin.
+
+Current situation:
+
+You, Fira of house Erlana, as heiress to your mother's seat on the council of royals at Deepwhistle, have been sent on a good-faith mission to the nearby human city of Outreach, one of the major cities of Yellowstream. Outreach's elven population has been growing and also growing restless. They tire of the human-dominated council of nobles at Outreach and you have been sent to assure the people that the humans respect elves and their wishes. As of now you are 2 days out on the week-long carriage journey to Outreach, resting your eyes in the backseat of the luxurious Covered wagon in which you ride. Seated across from you; Sergeant Dawn Art. Your mother's favored bodyguard. She wears thick leather armor and is currently adjusting her longbow's sights as she watches you sleep.
+
+You awaken with a start as the small caravan suddenly stops. Dawn gets out and motions for you to stay inside. From your seat you can hear men speaking in Common, and Dawn replying back in the same language. Though you know the language, you can't make out what they're saying, as the carriage walls are thick and sturdy, and the door shut tight.
+
+Recommended options:
+
+Wait patiently, as ordered.
+
+Open the door to see what's going on
+
+Peek out the door to hear what they're saying
+
+Cast a psionic spell
+
+Search the carriage
+
+Other (describe action)
+
+*054*2014-06-27 04:25
+
+One thing I didn't mention: casting and maintaining psionic spells fatigues Fira and takes away her ability to concentrate until she stops the spell. Too much magic and she'll knock herself unconscious for a while, to let her body and mind recover.
+
+*062*2014-07-02 06:46
+
+*Being careful not to alert the driver or Dawn, you peek out the door (stealth check.) and try to listen in on what they're saying (perception check)*
+
+*No one notices you cracking the door open ever so slightly as you gaze out onto the road ahead. The sight is a bit frightening. You can see 3 tough looking men in what looks to you like patchwork armor. One speaks to Dawn, brandishing a fine Broadsword. You sharpen your focus to him to hear what he's talking about.*
+
+(Highwayman): ...toll. I know a nice royal caravan like this has to have some good money, so just hand over the coin and we'll be on our way.
+
+(Dawn): This is a high class caravan of House Erlana. We do not take orders from riff-raff such as you. Step aside or we will be forced to take immediate hostile action.
+
+*At that, two royal guards in full scale mail, each wielding a Halberd, approach from the carraige behind you, to back up Dawn. The 3 men you can see seem unimpressed. As they pass, you notice a small rustling form the side. (perception check.)*
+
+It's obvious; a bandit hiding in the trees, with a deadly looking crossbow pointed at Dawn. He's loaded a bolt already and looks to be about to fire, but can you be sure? Perhaps they'll see that your guards outclass them by leagues and turn tail... though you're still not sure how many of them there are. In any case, you have a decision to make.
+
+Recommended actions:
+
+Scream.
+
+Warn dawn of the archer.
+
+Warn the guards of the archer.
+
+Get back in the armored carraige.
+
+Do nothing, but keep peeking out and watching.
+
+Get out and do something.
+
+Cast a spell.
+
+Other.
+
+*068*2014-07-03 08:29
+
+{{: 
+
+Cast a spell.
+
+}}
+
+Specify what spell and what you want done with said spell. please.
+
+*073*2014-07-06 03:42
+
+*You clear your mind of idle thoughts for a moment and, with a breath, send your thoughts to Dawn.*
+
+"Dawn. There's a crossbowman in the trees to your left, behind you. He's aiming right for you! What do i do?"
+
+"Stay calm and get in the carriage. It isn't safe for you to go showing your face out here."
+
+"How did you - "
+
+"The back seat has no windows Fira."
+
+"Oh."
+
+*The archer hasn't fired yet, and now your guards flank Dawn, ready to fight. (Insight check) Obviously despite the fact that you're outnumbered, the highwaymen don't want you dead, or they'd have attacked by now. It seems clear that they just want your coin, but this is a peace mission; the only money here is the property of the drivers, guards, and you; Dawn has no authority to surrender it. The fight may be inevitable. Just thinking about it makes your nerves even more wired than they were before. Anticipation begins to course through your veins and you feel a sense of uncertainty in your chest. You calm yourself by taking a sip of water from your waterskin, noticing that it's the last few drops that the leather pouch contained. A slight urge to pee tingles at the back of your mind at this thought, but is quickly pushed aside; there are far more pressing matters to attend to.*
+
+What do you do?
+
+Recommended options:
+
+Tell Dawn to offer X amount of money as payment (will subtract X amount of money from your inventory if taken.)
+
+Hide in the relative safety of the carraige.
+
+Keep watching
+
+Step outside and do something
+
+Cast a spell
+
+Other
+
+Note: The "cast a spell" and "other" options will be removed from the list after this post, but will always be options in any situation.
+
