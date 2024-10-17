@@ -1,0 +1,800 @@
+The hunt for love (an interactive fantasy adventure) - Page 3 
+
+Author: ExplosiveTurtlez
+
+*053*2014-11-16 22:17
+
+{{:
+
+Since we're fighting Bazunt next, why don't we talk to him and try to find a little more about him? Since Natillie just juged that her bladder isn't full enough to consider using the only available toilet she knows of, I don't think there's anything better she could do.
+
+}}
+
+{{: 
+
+Going with Ola here.
+
+}}
+
+{{: 
+
+Yep, I agree with Ola
+
+}}
+
+You decide to go chat with Bazunt for a little bit in hopes of knowing what you're up against... You walk over to the iron-clad warrior, protected by thick armor.
+
+Natillie:
+
+You must be Tranzo, correct?
+
+Bazunt seems more focused on the competition at hand...
+
+Natillie:
+
+​Erm... Hello? You're not much of a talkative type, are you?
+
+Bazunt still continues to ignore you...
+
+Well it doesn't seem like he's gonna be interested with you until your battle begins... Although maybe a bit of "persuasion" could catch his ear...
+
+Make a persuasion roll (d20+[Charisma+Intelligence])? Or simply walk away?
+
+*058*2014-11-20 01:08
+
+(I'm back form my short break... now let's see...)
+
+{{:
+
+May as well try the persuasion
+
+}}
+
+{{:
+
+Let's not try the persuasion.
+
+}}
+
+{{:
+
+Considering we have our charisma increased at the moment, I would say try persuasion
+
+}}
+
+{{:
+
+I would say no to persuasion. Perhaps we could watch our competitors fighting each other, to see their fighting style.
+
+}}
+
+(Hmm... 2 against 2... Let's roll a d6 to see what happens. 1-3 for persuasion, 4-6 walk away... Rolled a 3 on this one so well go for the persuasion. BTW ashishgamer your Charisma is only at 34 because you don't have the lovely dress on anymore, you only have the armor, but +5 Charisma bonus isn't a whole lot anyways.)
+
+Let's see if a little smooth talking will convince this fellow...'
+
+9+(Charisma[34]+Intelligence[18])=...
+
+61
+
+Natillie:
+
+C'mon, you don't have to pretend like I'm not here... All I want is a strong guy like you to have a little idle chat with me.
+
+​Bazunt gives you a glance, finally showing a faint sliver of notice for you...
+
+Bazunt:
+
+...What do you wish to speak to me about that is so important enough as to distract me from this tournament?
+
+Natillie:
+
+Well... Tell me about yourself.
+
+Bazunt:
+
+That's all? This is not worth my time...
+
+Natillie:
+
+Aww... pweeeeaaase? *puppy eyes*
+
+Bazunt:
+
+*sigh* I am a knight from the Sursipan Empire...
+
+Natillie:
+
+Wow... you traveled all this way just to fight in this tiny battle?
+
+Bazunt:
+
+Yes... I am forced to leave my kingdom because of my inability to fight...
+
+Natillie:
+
+Yeah that's right... isn't Sursipa going through a civil war right now?
+
+Bazunt:
+
+That is correct... I wanted to fight for my honor and pride... but I was forced to run from my king... I didn't have the strength to fight...
+
+Natillie:
+
+Wasn't that the whole reason you joined the Sursipan military to begin with?
+
+Bazunt:
+
+No... I joined to kill the rebels and protect our government... I left because I couldn't kill innocent people...
+
+Natillie:
+
+Innocent people? You mean like civilians? Aren't the rebels just a militia?
+
+Bazunt:
+
+That they are... but they put a threat on our society, all because they don't believe in the king's ideas... but... well... ... ... Three years ago there was a civilian riot spanning all across the countryside... Citizens vandalizing and pillaging... and then our soldiers came in and slayed the most of them... any civilians who survived the attack were either sent to prison to be executed later, or raped by our own men in broad daylight... Any others who fought back were killed on sight... All I could do was stand there as my own people were slaughtered by animals in steel... I was horrified... It made me think... when I killed those rebels, was I killing these same people that stood in front of me, being pinned down and beaten? 
+
+Even the children who did nothing but throw pebbles at steel chestplates were beheaded in front of their families, while the soldiers laughed, spat in their eyes and danced around their corpses. My captain came up to me, trying to get me to remember that "we were just serving justice..." but what we did was feed the sheep to us hungry wolves... That's all we knights wanted... we weren't fighting for pride or glory or even to protect who we love... We fought to drink the blood of the fallen from our tainted blades... I followed every order given by my king and my superior officers without hesitation... but this... I couldn't... I couldn't kill anymore... I didn't want to be a murderer anymore... So I left the kingdom, in search of battle. I promised myself that I would fight not for sadistic pleasure, but rather for sport and respect...
+
+Natillie:
+
+Damn... ... ... You did the right thing. And any other normal human being would say so too.
+
+Bazunt:
+
+...Thank you...
+
+Natillie:
+
+Aww... Is that a tear I see in your eyes?
+
+Bazunt:
+
+W-what?! Oh don't be ridiculous... I haven't cried since my training years when I was about your age.
+
+Natillie:
+
+*giggle* Whatever you say.
+
+Gained +10 Likeness from Bazunt Tranzo!
+
+Announcer:
+
+ALRIGHT! #15 and #16 report to the battlefield!
+
+Huh... you were so focused on Bazunt that you didn't pay much attention to the rest of the competition... Oh well, you'll get another chance later...
+
+Bazunt:
+
+Come. Let us clash blades and see who shall rise victorious! Say... I don't think you've stated your name yet...
+
+You stand up and follow the armored veteran.
+
+Natillie:
+
+Name's Natillie... It's a pleasure to meet you. *smile*
+
+You and Bazunt stand in the center of the battlefield... Bazunt unleashes his lance and sword and you unsheathe your Goldenstream...
+
+BATTLE INITIATE!
+
+Bazunt:
+
+HP 150/150
+
+Natillie:
+
+HP 200/200 Bladder: 93/150
+
+Natillie goes first!
+
+{{:
+
+Natillie Rays LV. 5 [xp. 206/500]
+
+Stats
+
+HP: 200/200
+
+Strength: 44
+
+Defense: 54
+
+Charisma: 34
+
+Intelligence: 18
+
+Speed: 41
+
+Bladder: 93/150 (In desperate need)
+
+Equipped:
+
+L. Arm: Goldenstream (Strength +23 / Speed +16) [xp. 6/300]
+
+R. Arm: Iron Buckler (Defense +20) [xp. 106/200]
+
+Body: Leather Armor (Defense +20) [xp. 56/250]
+
+Accessory 1: Nothing
+
+Accessory 2: Nothing
+
+Accessory 3: Nothing
+
+Accessory 4: Nothing
+
+Attacks:
+
+Assuring Strike: d20+Strength (This attack has armor piercing and ignores damage reduction)
+
+Multi Stab: 2 d12+Strength
+
+Gleaming Flurry: 8 d4+Strength
+
+Magic:
+
+Aqua 1: 1 d20+Strength+(Intelligence/2) (2x damage to fire-based enemies)
+
+Inventory:
+
+150 Grands
+
+Lovely Dress
+
+Iron Throwing knives x10
+
+}}
+
+Attacks:
+
+Assuring Strike: d20+Strength (This attack has armor piercing and ignores damage reduction)
+
+Multi Stab: 2 d12+Strength
+
+Gleaming Flurry: 8 d4+Strength
+
+Magic:
+
+Aqua 1: 1 d20+Strength+(Intelligence/2) (2x damage to fire-based enemies)
+
+Actions:
+
+Use Item:
+
+{{:
+
+Lovely dress
+
+Iron Throwing knives x10
+
+}}
+
+Defend
+
+*060*2014-11-20 01:33
+
+{{:
+
+I would have to go with assuring strike, because seeing as how this is a heavily armored knight we probably want the armor piercing to increase our damage output.
+
+}}
+
+Natillie uses Assuring Strike!
+
+44+7=51-20Def - {23+Def cancels out}=...
+
+41 Damage!
+
+Bazunt:
+
+HP 109/150
+
+Natillie:
+
+HP 200/200 Bladder: 93/150
+
+Bazunt's turn!
+
+Goes for an attack with his Iron Lance!
+
+20 Damage!
+
+Bazunt:
+
+HP 109/150
+
+Natillie:
+
+HP 180/200 Bladder: 97/150
+
+Natillie's turn!
+
+{{:
+
+Natillie Rays LV. 5 [xp. 206/500]
+
+Stats
+
+HP: 180/200
+
+Strength: 44
+
+Defense: 54
+
+Charisma: 34
+
+Intelligence: 18
+
+Speed: 41
+
+Bladder: 97/150 (In desperate need)
+
+Equipped:
+
+L. Arm: Goldenstream (Strength +23 / Speed +16) [xp. 6/300]
+
+R. Arm: Iron Buckler (Defense +20) [xp. 106/200]
+
+Body: Leather Armor (Defense +20) [xp. 56/250]
+
+Accessory 1: Nothing
+
+Accessory 2: Nothing
+
+Accessory 3: Nothing
+
+Accessory 4: Nothing
+
+Attacks:
+
+Assuring Strike: d20+Strength (This attack has armor piercing and ignores damage reduction)
+
+Multi Stab: 2 d12+Strength
+
+Gleaming Flurry: 8 d4+Strength
+
+Magic:
+
+Aqua 1: 1 d20+Strength+(Intelligence/2) (2x damage to fire-based enemies)
+
+Inventory:
+
+150 Grands
+
+Lovely Dress
+
+Iron Throwing knives x10
+
+}}
+
+Attacks:
+
+Assuring Strike: d20+Strength (This attack has armor piercing and ignores damage reduction)
+
+Multi Stab: 2 d12+Strength
+
+Gleaming Flurry: 8 d4+Strength
+
+Magic:
+
+Aqua 1: 1 d20+Strength+(Intelligence/2) (2x damage to fire-based enemies)
+
+Actions:
+
+Use Item:
+
+{{:
+
+Lovely Dress
+
+Iron Throwing Knives x10
+
+}}
+
+Defend
+
+*065*2014-11-21 00:36
+
+{{:
+
+I don't know. Do the same thing until we beat him?
+
+}}
+
+{{:
+
+Yep, another assuring strike?
+
+}}
+
+{{:
+
+Yeah, assuring strike is probably the way to go here.
+
+}}
+
+Natillie uses Assuring Strike!
+
+19+44-20Def-{+23Def cancels out}=...
+
+51 Damage!
+
+Bazunt:
+
+HP 58/150
+
+Natillie:
+
+HP 180/200 Bladder: 97/150
+
+Bazunt's turn!
+
+Bazunt swings both his lance and broadsword at you for a dual-wield attack!
+
+17 Damage!
+
+15 Damage!
+
+Bazunt:
+
+HP 58/150
+
+Natillie:
+
+HP 148/200 Bladder: 100/150
+
+Natillie's turn!
+
+{{:
+
+Natillie Rays LV. 5 [xp. 206/500]
+
+Stats
+
+HP: 148/200
+
+Strength: 44
+
+Defense: 54
+
+Charisma: 34
+
+Intelligence: 18
+
+Speed: 41
+
+Bladder: 100/150 (Dribbling!)
+
+Equipped:
+
+L. Arm: Goldenstream (Strength +23 / Speed +16) [xp. 6/300]
+
+R. Arm: Iron Buckler (Defense +20) [xp. 106/200]
+
+Body: Leather Armor (Defense +20) [xp. 56/250]
+
+Accessory 1: Nothing
+
+Accessory 2: Nothing
+
+Accessory 3: Nothing
+
+Accessory 4: Nothing
+
+Attacks:
+
+Assuring Strike: d20+Strength (This attack has armor piercing and ignores damage reduction)
+
+Multi Stab: 2 d12+Strength
+
+Gleaming Flurry: 8 d4+Strength
+
+Magic:
+
+Aqua 1: 1 d20+Strength+(Intelligence/2) (2x damage to fire-based enemies)
+
+Inventory:
+
+150 Grands
+
+Lovely Dress
+
+Iron Throwing knives x10
+
+}}
+
+Attacks:
+
+Assuring Strike: d20+Strength (This attack has armor piercing and ignores damage reduction)
+
+Multi Stab: 2 d12+Strength
+
+Gleaming Flurry: 8 d4+Strength
+
+Magic:
+
+Aqua 1: 1 d20+Strength+(Intelligence/2) (2x damage to fire-based enemies)
+
+Actions:
+
+Use Item:
+
+{{:
+
+Lovely Dress
+
+Iron Throwing Knives x10
+
+}}
+
+Defend
+
+*068*2014-11-21 02:26
+
+{{:
+
+...I suppose just keep stabbing him with Assuring strike?
+
+}}
+
+{{:
+
+USE ASSURING STRIKE UNTIL HE DIES! Which will probably be soon
+
+}}
+
+Natillie uses Assuring Strike!
+
+19+44-20-{+23Def cancels out}=...
+
+51 Damage!
+
+Wow... Same roll as last time...
+
+Bazunt:
+
+HP 7/150
+
+Natillie:
+
+HP 148/200 Bladder: 100/150
+
+Bazunt's turn!
+
+Bazunt goes for a wild charge with his Lance! Hurdling straight at you!!!
+
+18 Damage!
+
+Bazunt:
+
+HP 7/150
+
+Natillie:
+
+HP 130/200 Bladder: 104/150
+
+Natillie's Turn!
+
+{{:
+
+Natillie Rays LV. 5 [xp. 206/500]
+
+Stats
+
+HP: 130/200
+
+Strength: 44
+
+Defense: 54
+
+Charisma: 34
+
+Intelligence: 18
+
+Speed: 41
+
+Bladder: 104/150 (Dribbling!)
+
+Equipped:
+
+L. Arm: Goldenstream (Strength +23 / Speed +16) [xp. 6/300]
+
+R. Arm: Iron Buckler (Defense +20) [xp. 106/200]
+
+Body: Leather Armor (Defense +20) [xp. 56/250]
+
+Accessory 1: Nothing
+
+Accessory 2: Nothing
+
+Accessory 3: Nothing
+
+Accessory 4: Nothing
+
+Attacks:
+
+Assuring Strike: d20+Strength (This attack has armor piercing and ignores damage reduction)
+
+Multi Stab: 2 d12+Strength
+
+Gleaming Flurry: 8 d4+Strength
+
+Magic:
+
+Aqua 1: 1 d20+Strength+(Intelligence/2) (2x damage to fire-based enemies)
+
+Inventory:
+
+150 Grands
+
+Lovely Dress
+
+Iron Throwing knives x10
+
+}}
+
+Attacks:
+
+Assuring Strike: d20+Strength (This attack has armor piercing and ignores damage reduction)
+
+Multi Stab: 2 d12+Strength
+
+Gleaming Flurry: 8 d4+Strength
+
+Flourish Finish!
+
+Magic:
+
+Aqua 1: 1 d20+Strength+(Intelligence/2) (2x damage to fire-based enemies)
+
+Actions:
+
+Defend
+
+Use Item
+
+{{:
+
+Lovely Dress
+
+Iron Throwing Knives x10
+
+}}
+
+*072*2014-11-25 01:43
+
+(Sorry for yet another interruption... was having internet difficulty...)
+
+{{:
+
+Flourish finish! So we don't just kill him with the same move. This is like playing 4e o.o
+
+}}
+
+{{:
+
+Flourish finish.
+
+P.S Did anyone notice that she has started dribbling?
+
+}}
+
+{{:
+
+I agree with you and yes, I noticed. Pretty weird given that her bladder is only two thirds filled. We should remember to have Natillie do some kegel exercises every time she goes to bathroom. That way, she'll hooefully learn to use more of her bladder's capacity with starting to leak.
+
+}}
+
+Natillie readies her blade for a final attack!
+
+Dashing forward, Bazunt attempts to counter your attack by positioning his lance, however with a clean strike you slice his lance in half! He attempts to swing at you with a broadsword but didn't have enough time to counter the massive slash you deliver across his breastplate, leaving a large gash in the metal. He falls to his knees as you point your blade to his neck, holding him in checkmate. The crowd cheers for your victory as Bazunt looks up at you with an expression of what appeared to be satisfaction.
+
+A winner is you!
+
+XP gained: 97!
+
+Iron Buckler Level up!
+
+Lv. 3/5
+
+Defense: 20+[4]=24!
+
+You stand triumphantly atop the fallen foe, basking in the glamorous glory that is victory. If this is the kind of competition your up against then these chumps don't stand a chance!
+
+Bazunt collects himself and stands up onto his trembling legs as he looks down at you...
+
+Bazunt:
+
+You have defeated me in front of this mass of people, bringing me to an embarrassing shame...
+
+Natillie:
+
+So... does that mean you're gonna hunt me down and seek revenge or something like that?
+
+Bazunt:
+
+What? Why'd I do that? You have bested me in a game of skill, with honer and dignity. I have full respect for you, and I sincerely apologize for my previous acts of rudeness.
+
+Natillie:
+
+It's alright *smile*
+
+Bazunt:
+
+Now then... *ugh*... I apologize, but would you mind assisting me to the seats?
+
+Natillie:
+
+Certainly...
+
+You assist him to the other fighters and help him sit down.
+
+Natillie:
+
+Are you sure you're okay? You should probably go see a cleric...
+
+Bazunt:
+
+Nah... It's only major bleeding and clotting, I can heal in about a week.
+
+Natillie:
+
+I don't think that should be taken nonchalantly... But if you say so... I hope I didn't kick your ass too hard back there *grin*.
+
+Bazunt:
+
+Oh please... When I was in training I once got 3 skull fractures, 4 rib fractures, a broken leg, both arms broken, broken pelvis, and even lost my right big toe, all while fighting a wyvern by wielding a stalactite with my gritted teeth! I didn't cry for my mommy, and I was 12! Gyahahahah!!!! Oh such sweet memories...
+
+Natillie:
+
+(*sigh* The pointless lengths men go too for bragging rights...) Anyways, It was a pleasure to meet you Mr. Tranzo.
+
+Bazunt:
+
+As it was a pleasure to meet you as well.
+
+You take a seat, instantly feeling gravity have an effect on your bladder, though it's not too pressing at the moment. You felt like you dripped a little into your underwear, but that's not really a problem. Yous still highly dislike the thought of dirtying your arse with whatever diseases may reside onto that wooden porthole, so as of now holding should be the best option... Suddenly you hear a familiar voice call out to you...
+
+???:
+
+Sweetie!!!
+
+It's the voice of your mother. She comes towards you!
+
+Natillie:
+
+Hey ma! What's happenin'?
+
+Mother:
+
+I decided to close up shop for a bit while the tournaments going on. I saw you on that field sending that bastard to his knees! I'm so proud of you sweetie.
+
+Natillie:
+
+Thanks *blush*. So what are you doing back here?
+
+Mother:
+
+Well you must be working up quite a sweat out there, so I thought I'd bring you some water.
+
+Natillie:
+
+Gee thanks.
+
+​Acquired Water x3
+
+Mother:
+
+I'll be in the audience watchin' ya. Get out there and bring home the cash!
+
+Natillie:
+
+I will!
+
+The tournament continues as your mother walks to the audience seats. You sit patiently for your turn. Looking over you can see Rasetsu paying close attention to the fight at hand, though something seems off about him... It's hard to tell from where you're sitting.
+
+Looking to your other side you can also see Friz looking at you suspiciously once again, taking note of your minor wounds... He seems pretty tantilized to give you his "healing touch."
+
+What will you do before your round begins?
+
