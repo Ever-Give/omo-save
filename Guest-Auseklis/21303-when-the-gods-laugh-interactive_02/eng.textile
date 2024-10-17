@@ -1,376 +1,20 @@
-When the Gods Laugh (interactive)
+When the Gods Laugh (interactive) - Page 2
 
 Author: Guest Auseklis
 
-*000*2014-06-28 23:59
+*025*2014-07-03 21:12
 
-There is a world not so different from our own, a world of warring kingdoms, of swashbuckling swordplay and dazzling magic, a world where the gods are not as distant as our own. Visitors to this world are rare, but not unheard of. And you, the lovely Rose Stark, have just become the newest traveler.
-
-{{: 
-
-Hello to all! After seeing how popular interactive stories are, I've decided to create my own. I hope you have fun with 'When the Gods Laugh', a fantasy (swords and sorcery fantasy) omorashi adventure!
-
-}}
-
-A note on statistics:
-
-{{: 
-
-There are three stats that matter to you right now: Health, Stamina, and Bladder. All three are out of 100 points. If your health drops to zero, you will die. Stamina is how much energy you have. Bladder is how full your bladder is; if it reaches 100, you will wet yourself.
-
-More stats such as relationship status, knowledge, and various proficiencies will be added later as needed.
-
-}}
-
-I want to encourage open participation. Know that you are never limited to my options. I will go with the what the majority of people want. Good luck!
-
-WHEN THE GODS LAUGH
-
-The first thing you feel is the cool earth pressing against your cheek. You open your eyes just a tiny crack to see a relatively large spider just inches from your face, staring at you with eight impassive eyes. You give him a sleepy smile and roll over, raising a hand to rub the sleep from your eyes.
-
-Suddenly, you bolt upright. You weren't sleeping. The last thing you remember was entering your dorm after your first day of classes, ready to sit back and relax. But you're nowhere near your dorm now.
-
-You seem to be standing in a large meadow, verdant and lush. A soft wind rustles through the tall grass, brushing up against your skin, and somewhere a bird chirps. It is the picture of tranquility, almost too perfect, and you're sure you've never been here before.
-
-You rack your brain. What happened? Did you get drunk? No, you knew you hadn't gone anywhere near alcohol. Yet somehow you'd been knocked out and dragged to a meadow. That did not bode well. Luckily, your mysterious kidnapper seemed to have left for the moment.
-
-You look down to see what you have on you, brushing your red hair out of your face. As you do so, you notice a slight pressure in your bladder. You went only an hour ago, but you don't know how long you've been under. It could have been ages since then.
-
-You turn out the pockets of your jeans and rifle through your bag. What you find doesn't look too promising.
-
-Suddenly, to your surprise, you find a Swiss Army Knife in the pocket of your black jacket. You smile, remembering how your parents had given to you as a joke yesterday, to "help you survive in college". Well, it might not have much use in college, but you surely might use it now.
-
-Inventory:
-
-{{: 
-
-Your phone - 23% charged, no reception
-
-Your Chemistry 101 textbook
-
-Your wallet: $20.52, your driver's license
-
-A mirror
-
-A tube of lipstick
-
-A blank notepad and pen
-
-A full water bottle
-
-A Swiss Army Knife
-
-}}
-
-You gather your stuff and look around, trying to find a house, a road, or any sign of people! You don't see any of those; the meadow extends as far as the eye can see, interrupted only by a few scraggly trees. But you do spy something coming towards you. As it gets closer, you realize it's a man riding a horse of all things. You realize with a sudden sense of fear he might be your mysterious kidnapper.
-
-Do you:
-
-A) Try and talk to him? (What you say is up to you guys)
-
-B) Hide?
-
-C) Other (please specify)
-
-Health: 100
-
-Stamina: 100
-
-Bladder: 56
-
-*002*2014-06-29 01:47
-
-I would hide until he walked by, watched to see what he did, then walk up and get information out of him, unless he attacks us, then run, really fast, in a southwest direction.
-
-*005*2014-06-29 19:53
-
-Update will come once the tie is broken.
-
-*008*2014-07-01 01:44
-
-From now on, all notes from me and statistics will be in spoilers. Only read if you want to (the story will make sense without them). All stats will be posted at the end of each update. And don't worry, more omo-centered updates will come. Feel free to PM me with any questions.
-
-You decide you need to talk to this guy. He's probably some dude who thinks he's a cowboy, just a harmless local who can help you orient yourself. Still, you keep your knife handy. Better safe than sorry.
-
-You raise a hand, waving to the rider, and he changes course, galloping towards you. As he gets closer, you realize he's wearing some sort of weird clothing, made of dark leather studded with metal, like something out of Braveheart. You look at him strangely and grip your knife. This may not have been such a wise move after all.
-
-The horse comes to a stop, rearing up. It comes down with a snort, and you can appraise the rider. He appears to be a man in his fifties or sixties, with a scarred face that must have been handsome once. A scraggly grey beard covers his face and chin, surely hiding more scars. You realize with some fear he's wearing a sword at his belt; three feet of blue steel.
-
-"What are you doing on my lands, girl?"
-
-You stammer, searching for a reply. "Well... This is going to sound crazy, but I don't know. Last thing I remember I walked into my dorm room, and then I woke up here." You shrug, hoping he's friendly.
-
-"Ah," he said. "Perhaps a mage has transported you. One of Tershin's, perhaps. Who are you, and where are you from?"
-
-You look at him. The man might be crazy, speaking of mages, but honestly magic is the only explanation you can think of so far for such a weird set of circumstances.
-
-"My name's Rose. Rose Stark. I come from Seattle area originally, but I'm going to Arizona State now, so Tempe. Where am I now?"
-
-The man frowns, his brow wrinkling. "Bauernhof. A week's ride from King's Drift. From which nation do you hail? I know know Seattle nor Arizona here."
-
-"America, of course," you reply.
-
-"I have never heard of this land," he says, looking worried.
-
-You look up, annoyed. "Look, I don't know who you are, but you can stop playing games with me. We're in America."
-
-He shakes his head. "No. We are in the nation of Amunroth, sacred to our lord Amunros. I have looked at maps of the world, girl, and there is no land named America on our earth."
-
-You scoff. "Alright then. So I've been transported to some other world by magic. Didn't your parents ever tell you magic isn't rea- Shit!"
-
-Somehow, long vines have crawled up from the ground, winding around your legs and scratching you. You look up at the man in utter shock.
-
-"Is there truly no magic where you come from?" You nod, dumbly, as the vines slither back into the ground. "Then you truly must come from another world. I have read of such things before, in the oldest grimoires. The gods themselves must have brought you here. It bodes ill for mortals when the gods laugh, to quote the Dusead."
-
-He extends a hand. "I am Jowan. Jowan of Bauernhof. Mage of Freyjr Kalte, and the local baron. Perhaps together we can find out why the gods brought you here."
-
-Do you:
-
-A) Go with Jowan
-
-B) Other
-
-Statistics
-
-{{: 
-
-Health: 100
-
-Stamina: 99
-
-Bladder: 60
-
-}}
-
-Inventory:
-
-{{:
-
-Your phone, 23% charged
-
-A Swiss Army Knife
-
-Your chemistry 101 textbook
-
-A water bottle
-
-A tube of lipstick
-
-A mirror
-
-Your wallet: $20.52, your driver's license
-
-A notepad and pen
-
-}}
-
-*012*2014-07-02 01:09
-
-A note on relationships:
-
-{{:
-
-As you progress through this new world, you will undoubtedly form relationships with people. These will be represented with six categories.
-
-Neutral: you just met them
-
-Allies: you are working together
-
-Friends: you have befriended them (obviously)
-
-Lovers: You are in a romantic relationship
-
-Enemies: You are working towards opposite goals. You may unintentionally make enemies as you make allies.
-
-Arch-enemies: Like enemies, but far more personal.
-
-}}
-
-{{:
-
-If you have any requests, feel free to PM me. (e.g. More male wetting! Some yuri! I want to see a character named Dumbass McCoy!) All feedback is appreciated
-
-}}
-
-You decide you need to go with this man. He's the only person you know in this strange new world, and you need to find out exactly why you were brought here. You take Jowan's outstretched hand.
-
-"I'll come with you."
-
-{{:
-
-You have Allied with Jowan of Bauernhof
-
-}}
-
-Jowan smiles, and you notice he's missing a front tooth. Quickly, he pulls you up onto his horse behind him, and nudges the horse. He breaks out into a gallop, sending you bouncing up and down with every hoofbeat.
-
-You travel through the dusty meadow, the iron-shod hooves of the horse kicking up clouds of grit. As they waft back to you, you cough, reaching into your satchel and grabbing the bottle of water. A sip is all you need, yet it reminds you of the slight pressure in your bladder. It isn't bad now, but you've been cursed with a small bladder ever since you were a child, and you hope it won't cause problems.
-
-Crossing out of the meadow, you enter rows of wheat and barley, perfectly aligned. Bent-over people with scythes in their hands cut bundles of the golden crop, piling it onto carts. All give a nod as you ride past.
-
-"Freyjr Kalte has blessed us with a good harvest," Jowan says.
-
-"So you own all this?" you ask.
-
-"Yes. Bauernhof is not a large barony, but we are prosperous," he replies, "and happy."
-
-"You've said this guy's name twice. Freyjr Kalte. Who is he?"
-
-Jowan turns around, looking at you strangely. "You don't know of Freyjr Kalte? He is the god of the harvest, and I am his mage."
-
-You shrug. "We don't have gods and magic back home."
-
-Jowan nods. "Well, the gods choose worthy individuals at a young age and gift them with powers. Freyjr Kalte chose me, so I can do that vine trick, and I can tell where we should plant seeds. It's not flashy, like a mage of Amunros or Vajrindra, but it's kept us happy here."
-
-You nod as the horse rides up to a large house. It's old-fashioned like everything else in this world, made of stone and hosting long vines of ivy. Jowan halts at the gates and dismounts. He holds his hand out for you, and you follow suit.
-
-He opens the door, leaning in.
-
-"Pike! Where are you?"
-
-A rail-thin man appears, bowing his head. "Sire."
-
-Jowan gestures towards him. "Rose, this is Pike of Marrowglen, my seneschal. Pike, this is Rose, a traveler from far away. I want you to set her up in a room while I consult the grimoires."
-
-Pike nods, and Jowan strides away towards an oaken door. You follow Pike up a set of stone stairs to a cold, barren room. Pike gestures towards the room and walks away.
-
-An hour passes, very boringly. You are reading about ionic and covalent bonds in your book, the only thing to do, when Jowan barges in.
-
-"Rose! We have to leave for the capital immediately!"
-
-You look up. "Why?"
-
-"The gods brought you here because Chaos is getting stronger. It's the only thing the gods will bring in visitors for."
-
-"What does that mean?" you ask.
-
-"Anarchy. Destruction. Fire and sword. Amunroth was rent apart the last time. We have to warn the king."
-
-He stops, suddenly. "Good news, though. Only the gods can send you back, but if you restore the rule of Order, they will."
-
-You sigh. "Alright. Let's go. I want to get home already."
-
-"Alright! We need to get you a weapon," Jowan says. He leaves the room and you follow him down to a cellar room. Amongst other things, weapons line the walls.
-
-List of weapons (you get one of these)
-
-{{:
-
-Two war knives
-
-A broadsword
-
-A bow and twenty arrows
-
-A spear
-
-A battleaxe
-
-}}
-
-"We have another problem. We need to choose a path. If we take the Great Road, it will be two weeks, and if we go through the Herlasvaald it will be one. But the Great Road is a lot safer, while the Herlasvaald is full of brigands, wolves, and demons."
-
-Do you take:
-
-A) the Great Road
-
-B) the Herlasvaald
-
-Also:
-
-Choose a weapon!
-
-OPTIONAL: Every weapon needs a name! What will yours be? Widowmaker? The Blade Omorashi? It's up to you!
-
-Statistics
-
-{{:
-
-Health: 100
-
-Stamina: 85
-
-Bladder: 64
-
-}}
-
-Inventory:
-
-{{:
-
-Your phone, 23% charged
-
-A Swiss Army Knife
-
-Your chemistry 101 textbook
-
-A water bottle
-
-A tube of lipstick
-
-A mirror
-
-Your wallet: $20.52, your driver's license
-
-A notepad and pen
-
-}}
-
-Relationships:
-
-{{:
-
-Allies with Jowan of Bauernhof
-
-}}
-
-*017*2014-07-02 06:05
-
-Seeing as we came from America to this land, and we probably don't have alot of training in spears and claymores, I say go with the knives, because they probably aren't as heavy. And maybe easier to wield.
-
-*018*2014-07-02 17:33
-
-@blooper:Maybe a claymore or a magic sword will come later. But a claymore seems.a bit heavy for an 18 year old girl, and magic swords are pretty rare.
-
-@vexer6: Wouldn't that be nice?
-
-@OmoCommando: The sword is one handed, about two and a half feet long (or just shy of a meter). One could describe it as a longsword. But I will be counting your vote as spear.
-
-Just to let you know, combat in this story will be as realistic as possible, not like Dungeons and Dragons or World of Warcraft. Whatever weapon you chose, you will suck with it for a while. (Good thing Jowan is a good swordsman.) If you have any questions about weapons (e.g. How do you fight with a spear? Can I name my sword Asshat?) PM me.
-
-As the voting stands:
-
-Great Road: 1
-
-Herlasvaald: 2
-
-Spear:1
-
-Bow:1
-
-Axe:1
-
-Knives:1
-
-*020*2014-07-02 20:31
-
-I already voted knives, so I second ranpalan's name choise
-
-*021*2014-07-02 20:33
-
-Ok then. Knives (phobos and deimos) it is. Weapon voting is now closed
-
-*022*2014-07-02 22:40
+Fixed! This is the same post as before.
 
 A note on proficiencies:
 
-{{:
+{{: 
 
 Now that you have gained a weapon, a weapon proficiency will show up in statistics. That just shows how good you are with the weapon. Fights and training will increase proficiency.
 
 }}
 
-{{:
+{{: 
 
 I would have chosen knives too. In case you are interested, these knives are messers. Here's a link to the Wikipedia article about them (not super informative, best I could find) http://en.m.wikipedia.org/wiki/Messer_(weapon)
 
@@ -380,13 +24,13 @@ You pick up the set of knives. The two of them are identical, each with one shar
 
 "Ah! Phobos and Deimos. Named after the companions of Sabazras, of course. God of war. Excellent choice."
 
-{{:
+{{: 
 
 You have become a Knifewoman. Proficiency: 0/10
 
 }}
 
-{{:
+{{: 
 
 You have equipped yourself with Phobos and Deimos.
 
@@ -406,7 +50,7 @@ He strides out the door, and you follow. The two of you walk back out into the b
 
 He nods. "Yes, sire." You notice he has a knife like yours at his hip, and a long sword is strapped amongst his bags. It appears you are traveling together.
 
-{{:
+{{: 
 
 You have Allied with Pike of Marrowglen
 
@@ -420,7 +64,7 @@ You look at him, taken aback. "Why am I the leader?"
 
 You shake your head, looking into the bag. All of the money is coinage of various metals. Sighing, you toss the money into your bag.
 
-{{:
+{{: 
 
 Added to your inventory: Five silver aspri, fifteen bronze skellings, thirty-six tin skellings. (all of these are coins) Warning: inventory is now full.
 
@@ -480,7 +124,7 @@ E) Other
 
 Statistics
 
-{{:
+{{: 
 
 Health: 95
 
@@ -492,7 +136,7 @@ Bladder: 81
 
 Inventory:
 
-{{:
+{{: 
 
 Your phone, 23% charged
 
@@ -516,7 +160,7 @@ Five silver aspri, fifteen bronze skellings, thirty-six tin skellings
 
 Relationships:
 
-{{:
+{{: 
 
 Allies with Jowan of Bauernhof
 
@@ -526,7 +170,7 @@ Allies with Pike of Marrowglen
 
 Weapons:
 
-{{:
+{{: 
 
 Phobos and Deimos, twin knives
 
@@ -534,15 +178,363 @@ Phobos and Deimos, twin knives
 
 Proficiencies:
 
-{{:
+{{: 
 
 Knifewoman: 0/10
 
 }}
 
-*024*2014-07-03 16:27
+*027*2014-07-04 22:10
 
-Somehow the post got screwed up. Everything is contained in the second spoiler
+Yeah sure you can practice. Update will come when I have more replies. In the meantime, a little doodle.
 
-And the link doesn't work. Apologies
+*029*2014-07-05 21:18
+
+D, while trying to avoid death, and then drunkenly head towards the cross bow man and swing wildly at him.
+
+*030*2014-07-05 22:32
+
+A note on character death:
+
+{{: 
+
+All deaths are final, including your own. There will be no "restarting from a checkpoint" or something like that. That being said, there is an afterlife, and resurrection is possible, but very rare. So understand that if you die, the story will change dramatically.
+
+}}
+
+{{: 
+
+Btw Pike's inventory is full (he has all the food and his whiskey). If you need either, ask him
+
+}}
+
+"Let's try and talk to them," you say. "Figure out what they're doing."
+
+Jowan nods. "Soldiers of Vajrindrath! I am Jowan, of Sinana! Surrender now and you will be spared!"
+
+The soldiers suddenly stop, bursting out into laughter.
+
+"Hahaha! Look at him, thinks he's Jowan!" says a swordsman.
+
+Abruptly, a pikeman stops laughing. "No! Look, Albrecht! The scarred face! The beard! It's him!"
+
+"Shit shit shit!" Immediately, all of the soldiers bow down, dropping their weapons. You notice the crossbowman doesn't bow, but merely lowers his weapon.
+
+"Please spare us, Lord Jowan," says the pikeman. "We'll do anything!"
+
+"Alright," says Jowan, dismounting. He walks over to them. "Tell me why four Vajrindran soldiers and an Aventinan are armed and on Amunroth's lands. And how, actually."
+
+The pikeman's face turns stony. "That I will not do. I will not betray my god."
+
+"Which god? Vajrindra?" you ask Pike.
+
+"No. They venerate their king as a living god," he replies. "Makes it bloody hard to get them to stop fighting."
+
+"Very well," says Jowan. "There are... other ways to gain information." He draws his sword.
+
+"No!" you yell, running over to Jowan. "What are you doing!"
+
+"Torturing them. We need to find out why they're here."
+
+"No!" you shout, shocked. "Look at these men! They look miserable! Look, they already surrendered! Let's just give them a little food and let them be!"
+
+Everyone stops for a tense moment; then the lead soldier looks over at you. "Her, I tell."
+
+Jowan sheaths his blade. Leaning over, he whispers, "Don't worry. I wouldn't have tortured them. Sometimes the threat is enough. But it seems that kindness was a more effective weapon today."
+
+"We were sent here as advance scouts," the pikeman says.
+
+"For an invasion?" Pike asks sharply.
+
+"Not necessarily. Vajrindrath is divided. Some of the nobility want peace, and some want war. My lord Abraxas of Mahelin is one who wants war, and he has sent his soldiers out, such as us."
+
+"We was assigned to the Herlasvaald," Albrecht the swordsman chimes in. "Not three days into that damned forest we were attacked by demons. The Daystar's people, I tell you. We lost our captain and half our men."
+
+"It's back to Vajrindrath for us. But I thank you for your kindness," the pikeman says, bowing low. "If you ever need help in Vajrindrath, ask for Duran Anjolaj, that being me."
+
+{{: 
+
+You have Allied with Duran Anjolaj
+
+}}
+
+You nod. Pike hands you some food, you give it to them, and you ride on. The soldiers wander off in the other direction.
+
+You vault back onto Sunflank, an action that causes your bladder to protest violently. Quickly, you shove a hand into your crotch, squeezing the denim of your jeans like your life depends on it. For a moment, you consider going in the bushes, but your pride gets in the way. Stupid pride.
+
+"Let's go!" Jowan says. "We need to get to Vaaledge before the night falls!"
+
+The three of you canter off, you shoving your crotch hard into the leather-tooled saddle to contain the tsunami of urine inside of you. The ride is bumpy, and more than once a chance pothole sends you flying and a painful jet of pee squirts out, dampening your panties. But finally, just as night descends, you see from far away the lights of the town of Vaaledge.
+
+The town seems not so much to have been built but to have grown, a ramshackle cluster of broken-down houses and broken-down people. As you ride through the streets, men and women dressed in dark clothes give you flinty-eyed gazes before moving on. All have swords or knives at their belts.
+
+You are at this point dancing around on the saddle, trying to control both the horse and your pee. After what seems like an eternity, you arrive at a structure that could barely be considered a building. A decrepit sign out front proclaims it to be the Last Chance Inn.
+
+Jowan vaults down and bangs on the door. It swings open to reveal a fat, greasy man holding a lantern in one hand and a meat cleaver in the other.
+
+"Inn's closed. All the rooms sold."
+
+Jowan pushes past him. "We'll bunk in the common room."
+
+Pike follows, a hand on his knife, and the man steps aside. You gingerly step off just as a strong spasm hits your bladder, and you squeeze your crotch with all your might.
+
+"Miss? You coming or going?"
+
+"B-bathroom," you gasp out, and he points around the side. You hobble over to find what he considers a bathroom.
+
+You nudge open the door with your leg, not daring to remove your hands, and gasp in horror. First off, it's a hole in the ground. But even among holes in the ground, it's nasty. Some previous visitor must had the runs, because there is shit everywhere. If this hole was a human, it would be the homeless guy who smells nasty and screams at you to repent when you walk past. Shuddering with horror and your desperation, you close the door.
+
+Do you:
+
+A) Brave the hole
+
+B) Attempt to hold on longer
+
+C) Go in the bushes
+
+D) Other
+
+Statistics
+
+{{: 
+
+Health: 95
+
+Stamina: 73
+
+Bladder: 90
+
+}}
+
+Inventory:
+
+{{: 
+
+Your phone, 23% charged
+
+A Swiss Army Knife
+
+Your chemistry 101 textbook
+
+A water bottle
+
+A tube of lipstick
+
+A mirror
+
+Your wallet: $20.52, your driver's license
+
+A notepad and pen
+
+Five silver aspri, fifteen bronze skellings, thirty-six tin skellings
+
+}}
+
+Relationships:
+
+{{: 
+
+Allies with Jowan of Bauernhof
+
+Allies with Pike of Marrowglen
+
+Allies with Duran Anjolaj
+
+}}
+
+Weapons:
+
+{{: 
+
+Phobos and Deimos, twin knives
+
+}}
+
+Proficiencies:
+
+{{: 
+
+Knifewoman: 0/10
+
+}}
+
+Map and training will be coming. I have not forgotten your requests Ranpalan and alaiteir!
+
+*038*2014-07-06 21:42
+
+Shit shit shit! I accidently deleted my update. Feel free to keep voting it'll be up soon.
+
+*040*2014-07-06 23:08
+
+Yeah that's a good idea
+
+*041*2014-07-07 16:44
+
+{{: 
+
+Sorry for the late update! I'm really glad to see the level of support for this piece. Stay tuned, we're only getting started.
+
+}}
+
+A note on currency:
+
+{{: 
+
+Here is the exchange rate for Amunrothi coins.
+
+12 tin skellings to one brass skelling
+
+4 brass skellings to one bronze skelling
+
+10 bronze skellings to one silver asprus
+
+10 silver aspri to one gold perperus.
+
+Sorry if I just killed someone's boner.
+
+}}
+
+You shake your head, bouncing up and down in a desperate pee dance. You can't go in conditions like this, no matter how badly you have to go. Slowly, you edge out of the outhouse, letting the door slam.
+
+You contemplate for a second going into the rustling bushes behind the inn. But you don't know who or what could be hiding back there, waiting to take advantage of you.
+
+Your mind whirls, trying to think of a plan. You have no delusions about your ability to hold on for the rest of the night. At this point, you're thinking about how to get away with it.
+
+Hesitantly, you take a step towards the inn. Oh, you have to go so bad! You take another, and feel your bladder shudder. Another jet squirts out, offering no relief.
+
+"Evening," says a voice from over your shoulder, somewhere out there in the darkness. You jump, startled, and the dam breaks. First a small trickle of pee bursts forth with a hissing sound, dampening your panties, then it widens into a stream of golden liquid. Slowly, your pants grow soaked as pee cascades from you, and you can't help but moan a little at the incredible relief you feel.
+
+"A knight, a baron, and a crossdresser walk into an inn. There's a joke that starts like that, but it isn't for mixed company, and I have the feeling you people aren't the joking sort." You snap back to the present, realizing there's someone out there, watching you. You shove your hands into your soaked crotch, attempting to stem the flow of pee to no avail.
+
+"Who are you?" you ask, hesitantly, a luminescent blush growing on your cheeks.
+
+"Faolan's the name. Some call me Faolan the Shadow." A figure steps out of the darkness, wearing a long black cloak. They reach with a black-gloved hand and pull back the black hood, revealing (amusingly) a shock of blonde hair.
+
+The figure looks up at you, and you realize it's a boy. Around the same age as you, and not bad looking, with a nose that would have been described as perfect had it not been broken before and a lazy smile. In the darkness, you can't see his eyes.
+
+As the hissing sound draws to a close, and the flow of pee coming from you begins to wane, he speaks up. "Bodyguard, assasin, thief, pirate, mercenary, impersonator of the clergy, and occasionally a guide. You're heading to the Herlasvaald, are you not?"
+
+You nod, hoping he doesn't notice the shimmering stain on your pants or hear the splashes that the drops of pee make, hitting your golden puddle. "How do you know that?"
+
+"The same way I know one of your traveling companions is Jowan of Bauernhof, and the other is either Pike or Pikeas of Marrowglen. If I was a betting man I'd gamble on Pike. The same way I know that you are dripping wet with a liquid I suspect is neither water nor wine." He flashes a sardonic smile, and you blush harder. "Look. The forest is deadly. Men venture in and don't venture out. People aren't lying when they say there are demons in there." He leans forward. "You'll need a good guide if you want to survive. For three silver aspri, my partner and I will be those guides. My partner is Annalisa Guntrain, daughter of Guntra the Axe, and together we've passed through the Herlasvaald five times."
+
+You stare at him, and he gives a mock salute. "Think it over." With that, he vanishes into the darkness once more.
+
+You stare at the spot where he was just a moment ago, then grudgingly return to the inn. The fat man with the cleaver is standing at the door, and he raises an eyebrow as you walk past in soaked pants. You snarl at him, tears appearing in your eyes, and he backs off.
+
+The taproom is filled with people and noise, laughter, drunken rambling, and song. A woman comes towards you holding flasks of an amber-colored liquid and an idea comes to you; quickly, you bump into her, and the drinks spill onto you. She barks at you a little, but you don't care; no one else will know of your accident. Relieved, you sit down with Pike and Jowan, who are tucking in to a table of food.
+
+"Eat up!" says Jowan, cheerfully. "We'll sleep in the common room, provision in the morning, and then head off!"
+
+* * *
+
+You walk into the doors of the store. It was the only store around, or so the locals said, professing their loyalty to good old Robaj and Bluecove's. You buy breeches and a shirt for a brass skelling apiece, then wander around the store looking for anything else you might need.
+
+Inventory of the Shop:
+
+{{: 
+
+A fishing pole: two brass skellings
+
+A coil of rope: five tin skellings
+
+A vial of water from the Fountain of Amunros (for Defense against Demons): two silver aspri
+
+An old unstrung crossbow with four bolts: three bronze skellings
+
+A grappling hook: four bronze skellings
+
+You may also attempt to trade something in your inventory for these items
+
+}}
+
+"So," someone whispers in your ear. You turn to see Faolan. "Will you hire Annalisa and I? Just three silver aspri, a paltry sum for nobility like you, and we'll get you across the forest with nary a scratch."
+
+Do you:
+
+A) Hire them
+
+B) Attempt to bargain with them
+
+C) Refuse
+
+D) Other
+
+OPTIONAL: Buy something. Last chance until you reach the capital!
+
+Statistics
+
+{{: 
+
+Health: 98
+
+Stamina: 95
+
+Bladder: 46
+
+}}
+
+Inventory:
+
+{{: 
+
+Your phone, 23% charged
+
+A Swiss Army Knife
+
+Your chemistry 101 textbook
+
+A water bottle
+
+A tube of lipstick
+
+A mirror
+
+Your wallet: $20.52, your driver's license
+
+A notepad and pen
+
+Five silver aspri, fourteen bronze skellings, two brass skellings, thirty-six tin skellings
+
+}}
+
+Relationships:
+
+{{: 
+
+Allies with Jowan of Bauernhof
+
+Allies with Pike of Marrowglen
+
+Allies with Duran Anjolaj
+
+}}
+
+Weapons:
+
+{{: 
+
+Phobos and Deimos, twin knives
+
+}}
+
+Proficiencies:
+
+{{: 
+
+Knifewoman: 0/10
+
+}}
+
+*042*2014-07-07 17:02
+
+You may also attempt to sell something, too
+
+*046*2014-07-08 00:05
+
+@Despfan: There are demons in the forest. One of the few places left that has them. To kill a demon, you need something holy (as in, water from the Fountain of Amunros, one of Vajrindra's stone axes, or any magic weapon) or straight up magic.
+
+@Ranpalan and @alaiteir: You always do need rope, don't you? I'd say it's the most useful thing in the universe, but we all know a towel is :)
+
+There will be maps next update!
 
