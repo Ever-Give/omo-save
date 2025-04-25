@@ -8,7 +8,7 @@ This is a story based off the game Zelda: Link's Awakening
 
 . It follows the part of the game where Link goes to find Marin so she can assist him with a part of his quest. The video of this part of the game can be found
 
-$iframe width="459" height="344" data-embed-src="https://www.youtube.com/embed/ZOoRQJCvg3I?feature=oembed".
+%https://www.youtube.com/embed/ZOoRQJCvg3I?feature=oembed".
 
 I have also taken the liberty of linking some of the elements of the story that are specific to the game to its reference on zeldapedia, for people who are unfamiliar with the game's story.
 
